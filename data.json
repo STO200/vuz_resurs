@@ -1,0 +1,331 @@
+{
+  "universities": [
+    {
+      "id": "hse",
+      "name": "ВШЭ (Высшая школа экономики)",
+      "description": "Лидирующий ВУЗ в экономике и бизнесе с ориентиром на международные стандарты"
+    },
+    {
+      "id": "finuni",
+      "name": "Финансовый университет при Правительстве РФ",
+      "description": "Специализируется на финансах, экономике и банковском деле"
+    },
+    {
+      "id": "plekhanov",
+      "name": "РЭУ им. Г.В. Плеханова",
+      "description": "Классический экономический университет с акцентом на предпринимательство"
+    }
+  ],
+  "olympiads": [
+    {
+      "id": "vysshaya_proba",
+      "name": "«Высшая проба»",
+      "level": "II",
+      "subjects": [
+        "Математика",
+        "Экономика",
+        "Обществознание",
+        "История",
+        "Русский язык",
+        "Английский язык",
+        "Информатика"
+      ],
+      "benefits": {
+        "bvi": true,
+        "points100": true,
+        "additionalPoints": 0
+      },
+      "website": "https://olymp.hse.ru/mmo/",
+      "relevantUniversities": [
+        "hse",
+        "finuni",
+        "plekhanov"
+      ],
+      "description": "28 профилей, очный и онлайн этапы"
+    },
+    {
+      "id": "mission_finance",
+      "name": "«Миссия выполнима. Твое призвание - финансист!»",
+      "level": "II",
+      "subjects": [
+        "Экономика",
+        "Обществознание",
+        "Английский язык",
+        "Финансовая грамотность"
+      ],
+      "benefits": {
+        "bvi": true,
+        "points100": false,
+        "additionalPoints": 0
+      },
+      "website": "https://mission.fa.ru",
+      "relevantUniversities": [
+        "finuni"
+      ],
+      "description": "Скидки до 100% на обучение, возможны гранты Президента РФ"
+    },
+    {
+      "id": "plekhanovskaya",
+      "name": "Плехановская олимпиада школьников",
+      "level": "III",
+      "subjects": [
+        "Экономика",
+        "Русский язык",
+        "Финансовая грамотность",
+        "Информатика",
+        "Английский язык",
+        "История"
+      ],
+      "benefits": {
+        "bvi": true,
+        "points100": true,
+        "additionalPoints": 10
+      },
+      "website": "https://www.rea.ru/pk/entrant/posh",
+      "relevantUniversities": [
+        "plekhanov"
+      ],
+      "description": "9 профилей, льготы действуют до 4 лет"
+    },
+    {
+      "id": "interview_econom",
+      "name": "Международная олимпиада Финансового университета",
+      "level": "II",
+      "subjects": [
+        "Экономика",
+        "Финансы",
+        "Английский язык"
+      ],
+      "benefits": {
+        "bvi": false,
+        "points100": true,
+        "additionalPoints": 0
+      },
+      "website": "https://www.fa.ru/for-applicants/olympiads/inter-olymp/",
+      "relevantUniversities": [
+        "finuni"
+      ],
+      "description": "Для школьников 9-11 классов"
+    }
+  ],
+  "onlineCourses": [
+    {
+      "id": "vshka_school",
+      "name": "«Вышка школьникам» - Онлайн-курсы",
+      "platform": "ВШЭ",
+      "isFree": false,
+      "website": "https://shkolnikam.hse.ru",
+      "relevantUniversities": [
+        "hse"
+      ],
+      "description": "Курсы по экономике, математике, истории, английскому языку"
+    },
+    {
+      "id": "unik_plus",
+      "name": "УНИК+ - Онлайн-школа",
+      "platform": "ВШЭ",
+      "isFree": false,
+      "website": "https://www.hse.ru/news/edu/947053203.html",
+      "relevantUniversities": [
+        "hse"
+      ],
+      "description": "Интерактивные уроки для 5-11 классов"
+    },
+    {
+      "id": "sf_education",
+      "name": "SF Education",
+      "platform": "Финансовый университет",
+      "isFree": false,
+      "website": "https://sf.education",
+      "relevantUniversities": [
+        "finuni"
+      ],
+      "description": "Онлайн-курсы по финансам, аналитике, менеджменту"
+    },
+    {
+      "id": "ooa_finuni",
+      "name": "Открытая онлайн-академия",
+      "platform": "Финансовый университет",
+      "isFree": true,
+      "website": "https://www.fa.ru/university/structure/education/ioo/ooa/",
+      "relevantUniversities": [
+        "finuni"
+      ],
+      "description": "100+ бесплатных курсов по различным дисциплинам"
+    },
+    {
+      "id": "plekhanov_online",
+      "name": "РЭУ онлайн-курсы",
+      "platform": "РЭУ им. Плеханова",
+      "isFree": false,
+      "website": "https://do.rea.ru/online-kursy",
+      "relevantUniversities": [
+        "plekhanov"
+      ],
+      "description": "300+ курсов по языкам, финансам, IT"
+    },
+    {
+      "id": "openedu",
+      "name": "Openedu.ru - ВШЭ курсы",
+      "platform": "OpenEdu",
+      "isFree": true,
+      "website": "https://openedu.ru/university/hse/",
+      "relevantUniversities": [
+        "hse"
+      ],
+      "description": "Бесплатные университетские курсы"
+    }
+  ],
+  "offlineCourses": [
+    {
+      "id": "prep_course_hse",
+      "name": "Подготовительные курсы ВШЭ",
+      "organizer": "ВШЭ",
+      "price": 0,
+      "website": "https://shkolnikam.hse.ru",
+      "relevantUniversities": [
+        "hse"
+      ],
+      "description": "Курсы по ЕГЭ в очной форме"
+    },
+    {
+      "id": "prep_course_finuni",
+      "name": "Подготовительные курсы Финансового университета",
+      "organizer": "Финансовый университет",
+      "price": 0,
+      "website": "https://course.fa.ru",
+      "relevantUniversities": [
+        "finuni"
+      ],
+      "description": "Подготовка к ОГЭ и ЕГЭ"
+    },
+    {
+      "id": "prep_course_reu",
+      "name": "Подготовительные курсы РЭУ",
+      "organizer": "РЭУ им. Плеханова",
+      "price": 0,
+      "website": "https://do.rea.ru/studentam",
+      "relevantUniversities": [
+        "plekhanov"
+      ],
+      "description": "Очные курсы при лицее"
+    },
+    {
+      "id": "vshka_liceist",
+      "name": "Курсы Лицея НИУ ВШЭ",
+      "organizer": "ВШЭ",
+      "price": 0,
+      "website": "https://school.hse.ru/lyceum_online_cources/",
+      "relevantUniversities": [
+        "hse"
+      ],
+      "description": "Мастер-классы и интенсивы"
+    }
+  ],
+  "profileClasses": [
+    {
+      "id": "liceist_hse",
+      "schoolName": "Лицей НИУ ВШЭ",
+      "profile": "Математический, Гуманитарный, Естественно-научный, IT, Экономика",
+      "contacts": "8-11 классы, бюджетные места",
+      "website": "https://school.hse.ru/abitur/",
+      "relevantUniversities": [
+        "hse"
+      ]
+    },
+    {
+      "id": "distributed_liceum",
+      "schoolName": "Распределённый Лицей ВШЭ",
+      "profile": "10-11 классы в партнёрских школах Москвы",
+      "contacts": "Партнёрские школы Москвы",
+      "website": "https://admissions.hse.ru/lyceum/",
+      "relevantUniversities": [
+        "hse"
+      ]
+    },
+    {
+      "id": "liceum_finuni",
+      "schoolName": "Лицей Финансового университета",
+      "profile": "Социально-гуманитарный, Экономический, IT",
+      "contacts": "10-11 классы",
+      "website": "http://fa-olymp.ru",
+      "relevantUniversities": [
+        "finuni"
+      ]
+    },
+    {
+      "id": "liceist_reu",
+      "schoolName": "Экономический лицей РЭУ им. Плеханова",
+      "profile": "Социально-экономический, IT, Физико-математический",
+      "contacts": "8-11 классы",
+      "website": "https://www.rea.ru/pk/entrant/posh",
+      "relevantUniversities": [
+        "plekhanov"
+      ]
+    },
+    {
+      "id": "integral_school",
+      "schoolName": "Плехановская школа бизнеса «Интеграл»",
+      "profile": "Предпринимательство и бизнес",
+      "contacts": "Специализированная программа",
+      "website": "https://integral.rea.ru",
+      "relevantUniversities": [
+        "plekhanov"
+      ]
+    }
+  ],
+  "festivals": [
+    {
+      "id": "vshka_fest",
+      "name": "Фестиваль «Вышка школьникам»",
+      "date": "2026-09-15",
+      "website": "https://shkolnikam.hse.ru/fest/",
+      "relevantUniversities": [
+        "hse"
+      ],
+      "description": "Сентябрь: мастер-классы, выставки проектов, встречи с преподавателями"
+    },
+    {
+      "id": "nauka_plus",
+      "name": "Фестиваль науки «NAUKA 0+»",
+      "date": "2026-10-01",
+      "website": "https://www.fa.ru/university/structure/science/osni/oonm/nauka0/",
+      "relevantUniversities": [
+        "hse",
+        "finuni",
+        "plekhanov"
+      ],
+      "description": "Октябрь: интерактивные экспозиции, научные шоу, мастер-классы"
+    },
+    {
+      "id": "savings_fest",
+      "name": "Всероссийский семейный фестиваль сбережений и инвестиций",
+      "date": "2026-09-20",
+      "website": "https://www.fa.ru/university/structure/dpo/ifg/fest/",
+      "relevantUniversities": [
+        "finuni"
+      ],
+      "description": "Сентябрь: муниципальный, региональный и федеральный этапы"
+    },
+    {
+      "id": "medialete",
+      "name": "Летний курс для школьников «Медиалето»",
+      "date": "2026-06-01",
+      "website": "https://academymedia.ru/mediaholyday",
+      "relevantUniversities": [
+        "plekhanov"
+      ],
+      "description": "Июнь: интенсив для 8-10 классов по медиа и коммуникациям"
+    },
+    {
+      "id": "ecopfest",
+      "name": "Фестиваль «ВузЭкоФест-2026»",
+      "date": "2026-04-15",
+      "website": "https://www.fa.ru/for-students/student-science/nso/news/",
+      "relevantUniversities": [
+        "finuni"
+      ],
+      "description": "Апрель: экологическая направленность и устойчивое развитие"
+    }
+  ]
+}

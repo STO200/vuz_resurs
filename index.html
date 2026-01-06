@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>РесурсПоступ - Навигация при поступлении в ВУЗ</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app">
+        <!-- Шапка -->
+        <header class="header">
+            <div class="container">
+                <h1 class="logo">🎓 РесурсПоступ</h1>
+                <p class="tagline">Поступи в МГУ, ВШЭ или Финуни - выбери свой путь</p>
+            </div>
+        </header>
+
+        <!-- Основной контент -->
+        <main class="main">
+            <div class="container">
+                <!-- Главная страница -->
+                <section id="mainPage" class="page active">
+                    <div class="hero">
+                        <h2>Найди ресурсы для поступления в твой ВУЗ</h2>
+                        <p>Олимпиады, курсы, профильные классы и фестивали - всё в одном месте</p>
+
+                        <div class="selector-block">
+                            <label for="universitySelect" class="label">Выбери целевой ВУЗ:</label>
+                            <select id="universitySelect" class="select">
+                                <option value="">-- Выбери ВУЗ --</option>
+                            </select>
+                            <button id="searchBtn" class="btn btn-primary">Подобрать ресурсы</button>
+                        </div>
+
+                        <div class="features">
+                            <div class="feature-card">
+                                <span class="feature-icon">🏆</span>
+                                <h3>Олимпиады</h3>
+                                <p>Получи БВИ или 100 баллов за ЕГЭ</p>
+                            </div>
+                            <div class="feature-card">
+                                <span class="feature-icon">📚</span>
+                                <h3>Курсы</h3>
+                                <p>Онлайн и очные программы подготовки</p>
+                            </div>
+                            <div class="feature-card">
+                                <span class="feature-icon">🎓</span>
+                                <h3>Классы</h3>
+                                <p>Профильные классы при университетах</p>
+                            </div>
+                            <div class="feature-card">
+                                <span class="feature-icon">🎉</span>
+                                <h3>Фестивали</h3>
+                                <p>Встречи с преподавателями и лекции</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Страница результатов -->
+                <section id="resultsPage" class="page">
+                    <div class="results-header">
+                        <h2 id="resultsTitle"></h2>
+                        <button id="backBtn" class="btn btn-secondary">← Вернуться</button>
+                    </div>
+
+                    <!-- Фильтры -->
+                    <div class="filters">
+                        <div class="filter-group">
+                            <label class="filter-label">Тип ресурса:</label>
+                            <div class="filter-buttons">
+                                <button class="filter-btn active" data-filter="all">Все</button>
+                                <button class="filter-btn" data-filter="olympiad">Олимпиады</button>
+                                <button class="filter-btn" data-filter="online">Онлайн-курсы</button>
+                                <button class="filter-btn" data-filter="offline">Очные курсы</button>
+                                <button class="filter-btn" data-filter="classes">Классы</button>
+                                <button class="filter-btn" data-filter="festival">Фестивали</button>
+                            </div>
+                        </div>
+
+                        <div class="filter-group">
+                            <label class="filter-label">Льготы:</label>
+                            <div class="filter-buttons">
+                                <button class="benefit-btn" data-benefit="all" style="display: none;">-</button>
+                                <label class="checkbox">
+                                    <input type="checkbox" class="benefit-filter" value="bvi"> БВИ
+                                </label>
+                                <label class="checkbox">
+                                    <input type="checkbox" class="benefit-filter" value="points100"> 100 баллов
+                                </label>
+                                <label class="checkbox">
+                                    <input type="checkbox" class="benefit-filter" value="additionalPoints"> Допбаллы
+                                </label>
+                            </div>
+                        </div>
+
+                        <button id="resetBtn" class="btn btn-outline">Сбросить фильтры</button>
+                    </div>
+
+                    <!-- Результаты -->
+                    <div id="resultsList" class="results-list"></div>
+                </section>
+            </div>
+        </main>
+
+        <!-- Подвал -->
+        <footer class="footer">
+            <div class="container">
+                <p>&copy; 2026 РесурсПоступ. Помогаем школьникам поступить в лучшие ВУЗы Москвы</p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
