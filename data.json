@@ -14,6 +14,106 @@
       "id": "plekhanov",
       "name": "РЭУ им. Г.В. Плеханова",
       "description": "Классический экономический университет с акцентом на предпринимательство"
+    },
+    {
+      "id": "msu",
+      "name": "МГУ им. М.В. Ломоносова",
+      "description": "Старейший и крупнейший классический университет России"
+    },
+    {
+      "id": "ranepa",
+      "name": "РАНХиГС (Российская академия народного хозяйства и государственной службы)",
+      "description": "Ведущая бизнес-школа России, готовящая управленческие кадры для государства и бизнеса"
+    },
+    {
+      "id": "mgimo",
+      "name": "МГИМО МИД России (Московский государственный институт международных отношений)",
+      "description": "Специализируется на международных отношениях, дипломатии и мировой политике"
+    },
+    {
+      "id": "resh",
+      "name": "Российская экономическая школа (РЭШ)",
+      "description": "Научная школа с фокусом на экономическую теорию и исследования"
+    },
+    {
+      "id": "vavt",
+      "name": "ВАВТ (Всероссийская академия внешней торговли)",
+      "description": "Специализируется на внешней торговле, международном бизнесе и экспортной деятельности"
+    },
+    {
+      "id": "guu",
+      "name": "ГУУ (Государственный университет управления)",
+      "description": "Готовит специалистов в области государственного и муниципального управления и менеджмента"
+    },
+    {
+      "id": "rudn",
+      "name": "РУДН (Российский университет дружбы народов)",
+      "description": "Международный университет с сильными программами по гуманитарным наукам, медицине и инженерии"
+    },
+    {
+      "id": "mgtu",
+      "name": "МГТУ им. Баумана",
+      "description": "Ведущий технический университет со специализацией на инженерных науках и технологиях"
+    },
+    {
+      "id": "mfti",
+      "name": "МФТИ (Московский физико-технический институт)",
+      "description": "Топовый ВУЗ в физике и математике с сильными программами в IT и прикладных науках"
+    },
+    {
+      "id": "misis",
+      "name": "НИТУ МИСИС (Национальный исследовательский технологический университет МИСИС)",
+      "description": "Специализируется на металлургии, материаловедении и инженерных науках"
+    },
+    {
+      "id": "niyau",
+      "name": "НИЯУ МИФИ (Национальный исследовательский ядерный университет МИФИ)",
+      "description": "Ведущий университет в области ядерной энергетики, физики и инжиниринга"
+    },
+    {
+      "id": "mei",
+      "name": "МЭИ (Национальный исследовательский университет МЭИ)",
+      "description": "Специализируется на электроэнергетике, энергетике и автоматизации"
+    },
+    {
+      "id": "mai",
+      "name": "МАИ (Московский авиационный институт)",
+      "description": "Ведущий ВУЗ авиакосмической отрасли с программами по авиационному и ракетно-космическому проектированию"
+    },
+    {
+      "id": "gubkin",
+      "name": "РГУ нефти и газа имени И.М. Губкина",
+      "description": "Специализируется на нефтегазовой промышленности, инженерии и геологии месторождений"
+    },
+    {
+      "id": "miit",
+      "name": "РУТ (МИИТ) (Российский университет транспорта)",
+      "description": "Готовит специалистов в области транспорта, логистики и железнодорожных технологий"
+    },
+    {
+      "id": "rgsu",
+      "name": "РГСУ (Российский государственный социальный университет)",
+      "description": "Специализируется на социальной работе, образовании, психологии и социальных науках"
+    },
+    {
+      "id": "skolkovo",
+      "name": "Школа управления СКОЛКОВО",
+      "description": "Современная бизнес-школа с программами по менеджменту, лидерству и предпринимательству"
+    },
+    {
+      "id": "mfua",
+      "name": "МФЮА (Московская финансово-юридическая академия)",
+      "description": "Специализируется на праве, финансах и юридическом образовании"
+    },
+    {
+      "id": "synergy",
+      "name": "Университет «Синергия»",
+      "description": "Многопрофильный ВУЗ с программами по менеджменту, маркетингу, IT и бизнесу"
+    },
+    {
+      "id": "imes",
+      "name": "ИМЭС (Институт международных экономических связей)",
+      "description": "Вуз, ориентированный на внешнеэкономическую деятельность и менеджмент"
     }
   ],
   "olympiads": [
@@ -106,6 +206,110 @@
         "finuni"
       ],
       "description": "Для школьников 9-11 классов"
+    },
+    {
+      "id": "lomonosov_olympiad",
+      "name": "Олимпиада школьников «Ломоносов»",
+      "level": "I",
+      "subjects": [
+        "Математика",
+        "Физика",
+        "Химия",
+        "История",
+        "Обществознание"
+      ],
+      "benefits": {
+        "bvi": true,
+        "points100": true,
+        "additionalPoints": 0
+      },
+      "website": "https://olymp.msu.ru",
+      "relevantUniversities": [
+        "msu"
+      ],
+      "description": "Олимпиада I уровня МГУ, 20+ предметов"
+    },
+    {
+      "id": "mgimo_olympiad",
+      "name": "Олимпиада МГИМО",
+      "level": "II",
+      "subjects": [
+        "История",
+        "Обществознание",
+        "Иностранные языки",
+        "Международные отношения"
+      ],
+      "benefits": {
+        "bvi": true,
+        "points100": true,
+        "additionalPoints": 0
+      },
+      "website": "https://olymp.mgimo.ru",
+      "relevantUniversities": [
+        "mgimo"
+      ],
+      "description": "Олимпиада по международным отношениям и дипломатии"
+    },
+    {
+      "id": "bauman_olympiad",
+      "name": "Олимпиада МГТУ им. Баумана",
+      "level": "II",
+      "subjects": [
+        "Математика",
+        "Физика",
+        "Информатика",
+        "Инженерная графика"
+      ],
+      "benefits": {
+        "bvi": false,
+        "points100": true,
+        "additionalPoints": 0
+      },
+      "website": "https://olymp.bmstu.ru",
+      "relevantUniversities": [
+        "mgtu"
+      ],
+      "description": "Олимпиада по физике, математике и инженерным наукам"
+    },
+    {
+      "id": "mfti_olympiad",
+      "name": "Олимпиада МФТИ",
+      "level": "I",
+      "subjects": [
+        "Математика",
+        "Физика",
+        "Информатика"
+      ],
+      "benefits": {
+        "bvi": true,
+        "points100": true,
+        "additionalPoints": 0
+      },
+      "website": "https://olymp.mipt.ru",
+      "relevantUniversities": [
+        "mfti"
+      ],
+      "description": "Престижная олимпиада I уровня по точным наукам"
+    },
+    {
+      "id": "mei_olympiad",
+      "name": "Олимпиада МЭИ",
+      "level": "III",
+      "subjects": [
+        "Физика",
+        "Математика",
+        "Информатика"
+      ],
+      "benefits": {
+        "bvi": false,
+        "points100": true,
+        "additionalPoints": 5
+      },
+      "website": "https://olymp.mpei.ru",
+      "relevantUniversities": [
+        "mei"
+      ],
+      "description": "Олимпиада по физике и математике с акцентом на энергетику"
     }
   ],
   "onlineCourses": [
@@ -174,6 +378,83 @@
         "hse"
       ],
       "description": "Бесплатные университетские курсы"
+    },
+    {
+      "id": "msu_online",
+      "name": "МГУ Онлайн",
+      "platform": "МГУ им. Ломоносова",
+      "isFree": true,
+      "website": "https://online.msu.ru",
+      "relevantUniversities": [
+        "msu"
+      ],
+      "description": "Онлайн-курсы МГУ по разным направлениям"
+    },
+    {
+      "id": "mgimo_online",
+      "name": "МГИМО Онлайн",
+      "platform": "МГИМО МИД России",
+      "isFree": false,
+      "website": "https://online.mgimo.ru",
+      "relevantUniversities": [
+        "mgimo"
+      ],
+      "description": "Курсы по международным отношениям, дипломатии и языкам"
+    },
+    {
+      "id": "ranepa_online",
+      "name": "РАНХиГС Онлайн-курсы",
+      "platform": "РАНХиГС",
+      "isFree": false,
+      "website": "https://www.ranepa.ru/education/",
+      "relevantUniversities": [
+        "ranepa"
+      ],
+      "description": "Программы по госуправлению, менеджменту и политике"
+    },
+    {
+      "id": "mfti_online",
+      "name": "Онлайн-курсы МФТИ",
+      "platform": "МФТИ",
+      "isFree": false,
+      "website": "https://online.mipt.ru",
+      "relevantUniversities": [
+        "mfti"
+      ],
+      "description": "Курсы по физике, математике и программированию"
+    },
+    {
+      "id": "bauman_online",
+      "name": "МГТУ им. Баумана Онлайн",
+      "platform": "МГТУ им. Баумана",
+      "isFree": false,
+      "website": "https://online.bmstu.ru",
+      "relevantUniversities": [
+        "mgtu"
+      ],
+      "description": "Инженерные онлайн-курсы и программы по технологиям"
+    },
+    {
+      "id": "rudn_online",
+      "name": "РУДН Онлайн-курсы",
+      "platform": "РУДН",
+      "isFree": false,
+      "website": "https://online.rudn.ru",
+      "relevantUniversities": [
+        "rudn"
+      ],
+      "description": "Многоязычные онлайн-программы по гуманитарным и техническим направлениям"
+    },
+    {
+      "id": "mei_online",
+      "name": "МЭИ Онлайн",
+      "platform": "МЭИ",
+      "isFree": false,
+      "website": "https://online.mpei.ru",
+      "relevantUniversities": [
+        "mei"
+      ],
+      "description": "Курсы по электроэнергетике и инженерным наукам"
     }
   ],
   "offlineCourses": [
@@ -220,6 +501,72 @@
         "hse"
       ],
       "description": "Мастер-классы и интенсивы"
+    },
+    {
+      "id": "prep_course_msu",
+      "name": "Подготовительные курсы МГУ",
+      "organizer": "МГУ им. Ломоносова",
+      "price": 0,
+      "website": "https://www.msu.ru",
+      "relevantUniversities": [
+        "msu"
+      ],
+      "description": "Интенсивные курсы подготовки к ЕГЭ по основным предметам"
+    },
+    {
+      "id": "prep_course_mgimo",
+      "name": "Подготовительные курсы МГИМО",
+      "organizer": "МГИМО МИД России",
+      "price": 0,
+      "website": "https://mgimo.ru/study/courses/",
+      "relevantUniversities": [
+        "mgimo"
+      ],
+      "description": "Годовые курсы подготовки по обществознанию, истории и иностранным языкам"
+    },
+    {
+      "id": "prep_course_bauman",
+      "name": "Подготовительные курсы МГТУ им. Баумана",
+      "organizer": "МГТУ им. Баумана",
+      "price": 0,
+      "website": "https://bmstu.ru",
+      "relevantUniversities": [
+        "mgtu"
+      ],
+      "description": "Курсы по математике, физике и информатике"
+    },
+    {
+      "id": "prep_course_mfti",
+      "name": "Подготовительные курсы МФТИ",
+      "organizer": "МФТИ",
+      "price": 0,
+      "website": "https://mipt.ru",
+      "relevantUniversities": [
+        "mfti"
+      ],
+      "description": "Интенсивная подготовка к олимпиадам и ЕГЭ по физике и математике"
+    },
+    {
+      "id": "prep_course_mei",
+      "name": "Подготовительные курсы МЭИ",
+      "organizer": "МЭИ",
+      "price": 0,
+      "website": "https://mpei.ru",
+      "relevantUniversities": [
+        "mei"
+      ],
+      "description": "Подготовка к поступлению на энергетические и инженерные направления"
+    },
+    {
+      "id": "prep_course_ranepa",
+      "name": "Подготовительные курсы РАНХиГС",
+      "organizer": "РАНХиГС",
+      "price": 0,
+      "website": "https://www.ranepa.ru",
+      "relevantUniversities": [
+        "ranepa"
+      ],
+      "description": "Курсы по обществознанию, истории, праву и экономике"
     }
   ],
   "profileClasses": [
@@ -271,6 +618,56 @@
       "website": "https://integral.rea.ru",
       "relevantUniversities": [
         "plekhanov"
+      ]
+    },
+    {
+      "id": "msu_school",
+      "schoolName": "Школа-интернат МГУ им. А.Н. Колмогорова",
+      "profile": "Физико-математический, Химико-биологический",
+      "contacts": "10-11 классы, пансион при МГУ",
+      "website": "https://internat.msu.ru",
+      "relevantUniversities": [
+        "msu"
+      ]
+    },
+    {
+      "id": "bauman_school",
+      "schoolName": "Школа при МГТУ им. Баумана",
+      "profile": "Физико-математический, Инженерный, Компьютерные науки",
+      "contacts": "8-11 классы",
+      "website": "https://bmstu.ru/school/",
+      "relevantUniversities": [
+        "mgtu"
+      ]
+    },
+    {
+      "id": "mfti_school",
+      "schoolName": "Школа физики и математики при МФТИ",
+      "profile": "Физико-математический, Олимпиадный уровень",
+      "contacts": "9-11 классы, конкурсный отбор",
+      "website": "https://mipt.ru/education/school/",
+      "relevantUniversities": [
+        "mfti"
+      ]
+    },
+    {
+      "id": "mgimo_school",
+      "schoolName": "Лицей при МГИМО",
+      "profile": "Языковой, Социально-гуманитарный, Политологический",
+      "contacts": "10-11 классы",
+      "website": "https://mgimo.ru/university/structure/preparatory/",
+      "relevantUniversities": [
+        "mgimo"
+      ]
+    },
+    {
+      "id": "mei_school",
+      "schoolName": "Школа при МЭИ",
+      "profile": "Физико-математический, Электротехнический",
+      "contacts": "8-11 классы",
+      "website": "https://mpei.ru/school/",
+      "relevantUniversities": [
+        "mei"
       ]
     }
   ],
@@ -326,6 +723,66 @@
         "finuni"
       ],
       "description": "Апрель: экологическая направленность и устойчивое развитие"
+    },
+    {
+      "id": "msu_day",
+      "name": "День открытых дверей МГУ",
+      "date": "2026-03-15",
+      "website": "https://msu.ru/entrance/openday/",
+      "relevantUniversities": [
+        "msu"
+      ],
+      "description": "Март: знакомство с факультетами, встречи с деканами, экскурсии"
+    },
+    {
+      "id": "mgimo_fest",
+      "name": "День открытых дверей МГИМО",
+      "date": "2026-04-01",
+      "website": "https://mgimo.ru/university/entrance/",
+      "relevantUniversities": [
+        "mgimo"
+      ],
+      "description": "Апрель: презентация программ, встречи с дипломатами и выпускниками"
+    },
+    {
+      "id": "bauman_fest",
+      "name": "Фестиваль науки и техники МГТУ им. Баумана",
+      "date": "2026-05-20",
+      "website": "https://bmstu.ru/events/fest/",
+      "relevantUniversities": [
+        "mgtu"
+      ],
+      "description": "Май: выставки инженерных проектов, робототехника, 3D-печать"
+    },
+    {
+      "id": "mfti_fest",
+      "name": "Научный фестиваль МФТИ",
+      "date": "2026-06-10",
+      "website": "https://mipt.ru/events/fest/",
+      "relevantUniversities": [
+        "mfti"
+      ],
+      "description": "Июнь: лекции, мастер-классы по физике и математике, научные шоу"
+    },
+    {
+      "id": "mei_fest",
+      "name": "День открытых дверей МЭИ",
+      "date": "2026-05-01",
+      "website": "https://mpei.ru/events/openday/",
+      "relevantUniversities": [
+        "mei"
+      ],
+      "description": "Май: экскурсии по лабораториям, встречи с преподавателями, презентации факультетов"
+    },
+    {
+      "id": "ranepa_fest",
+      "name": "Фестиваль управления и лидерства РАНХиГС",
+      "date": "2026-07-01",
+      "website": "https://www.ranepa.ru/events/",
+      "relevantUniversities": [
+        "ranepa"
+      ],
+      "description": "Июль: мастер-классы по госуправлению, встречи с политиками и бизнес-лидерами"
     }
   ]
 }
