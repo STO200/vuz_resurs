@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';">
-    <title>РесурсПоступ - Навигация при поступлении в ВУЗ</title>
+    <title>ВУЗресурс - Навигация при поступлении в ВУЗ</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -24,7 +23,7 @@
                 <section id="mainPage" class="page active">
                     <div class="hero">
                         <h2>Найди ресурсы для поступления в твой ВУЗ</h2>
-                        <p>Олимпиады, курсы, профильные классы и фестивали - всё в одном месте</p>
+                        <p>Олимпиады, курсы, лицеи, летние программы и многое другое - всё в одном месте</p>
 
                         <div class="selector-block">
                             <label for="universitySelect" class="label">Выбери целевой ВУЗ:</label>
@@ -47,13 +46,33 @@
                             </div>
                             <div class="feature-card">
                                 <span class="feature-icon">🎓</span>
-                                <h3>Классы</h3>
+                                <h3>Лицеи</h3>
                                 <p>Профильные классы при университетах</p>
                             </div>
                             <div class="feature-card">
-                                <span class="feature-icon">🎉</span>
-                                <h3>Фестивали</h3>
-                                <p>Встречи с преподавателями и лекции</p>
+                                <span class="feature-icon">☀️</span>
+                                <h3>Летние программы</h3>
+                                <p>Интенсивы в июле-августе</p>
+                            </div>
+                            <div class="feature-card">
+                                <span class="feature-icon">💡</span>
+                                <h3>Практические события</h3>
+                                <p>Хакатоны, кейс-чемпионаты, конкурсы</p>
+                            </div>
+                            <div class="feature-card">
+                                <span class="feature-icon">ℹ️</span>
+                                <h3>Информационные события</h3>
+                                <p>Дни открытых дверей, встречи с деканами</p>
+                            </div>
+                            <div class="feature-card">
+                                <span class="feature-icon">👨‍🏫</span>
+                                <h3>Образовательные события</h3>
+                                <p>Лекции, мастер-классы, вебинары</p>
+                            </div>
+                            <div class="feature-card">
+                                <span class="feature-icon">🌐</span>
+                                <h3>Онлайн-ресурсы</h3>
+                                <p>YouTube каналы, Telegram, порталы</p>
                             </div>
                         </div>
                     </div>
@@ -72,18 +91,29 @@
                             <label class="filter-label">Тип ресурса:</label>
                             <div class="filter-buttons">
                                 <button class="filter-btn active" data-filter="all">Все</button>
-                                <button class="filter-btn" data-filter="olympiad">Олимпиады</button>
-                                <button class="filter-btn" data-filter="online">Онлайн-курсы</button>
-                                <button class="filter-btn" data-filter="offline">Очные курсы</button>
-                                <button class="filter-btn" data-filter="classes">Классы</button>
-                                <button class="filter-btn" data-filter="festival">Фестивали</button>
+                                <button class="filter-btn" data-filter="olympiad">🏆 Олимпиады</button>
+                                <button class="filter-btn" data-filter="course">📚 Курсы</button>
+                                <button class="filter-btn" data-filter="school">🎓 Лицеи</button>
+                                <button class="filter-btn" data-filter="summerProgram">☀️ Летние программы</button>
+                                <button class="filter-btn" data-filter="practicalEvent">💡 Практические события</button>
+                                <button class="filter-btn" data-filter="infoEvent">ℹ️ Информационные события</button>
+                                <button class="filter-btn" data-filter="educationalEvent">👨‍🏫 Образовательные события</button>
+                                <button class="filter-btn" data-filter="onlineResource">🌐 Онлайн-ресурсы</button>
+                            </div>
+                        </div>
+
+                        <div class="filter-group">
+                            <label class="filter-label">Стоимость:</label>
+                            <div class="filter-buttons">
+                                <button class="cost-filter-btn active" data-cost-filter="all">Все</button>
+                                <button class="cost-filter-btn" data-cost-filter="free">💰 Бесплатно</button>
+                                <button class="cost-filter-btn" data-cost-filter="paid">💸 Платно</button>
                             </div>
                         </div>
 
                         <div class="filter-group">
                             <label class="filter-label">Льготы:</label>
                             <div class="filter-buttons">
-                                <button class="benefit-btn" data-benefit="all" style="display: none;">-</button>
                                 <label class="checkbox">
                                     <input type="checkbox" class="benefit-filter" value="bvi"> БВИ
                                 </label>
@@ -91,10 +121,33 @@
                                     <input type="checkbox" class="benefit-filter" value="points100"> 100 баллов
                                 </label>
                                 <label class="checkbox">
-                                    <input type="checkbox" class="benefit-filter" value="additionalPoints"> Допбаллы
+                                    <input type="checkbox" class="benefit-filter" value="additionalPoints"> Доп.баллы
+                                </label>
+                                <label class="checkbox">
+                                    <input type="checkbox" class="benefit-filter" value="grants"> Гранты/Стипендии
+                                </label>
+                                <label class="checkbox">
+                                    <input type="checkbox" class="benefit-filter" value="tuitionDiscount"> Скидка на обучение
+                                </label>
+                                <label class="checkbox">
+                                    <input type="checkbox" class="benefit-filter" value="priority"> Приоритет
+                                </label>
+                                <label class="checkbox">
+                                    <input type="checkbox" class="benefit-filter" value="earlyAdmission"> Досрочное зачисление
                                 </label>
                             </div>
                         </div>
+
+                        <!-- ЗАКОММЕНТИРОВАН ФИЛЬТР ПО ДАТАМ
+                        <div class="filter-group">
+                            <label class="filter-label">По датам:</label>
+                            <div class="filter-buttons">
+                                <button class="date-filter-btn active" data-date-filter="all">Все</button>
+                                <button class="date-filter-btn" data-date-filter="upcoming">Предстоящие (3 месяца)</button>
+                                <button class="date-filter-btn" data-date-filter="active-registration">Идёт набор</button>
+                            </div>
+                        </div>
+                        -->
 
                         <button id="resetBtn" class="btn btn-outline">Сбросить фильтры</button>
                     </div>
@@ -108,11 +161,11 @@
         <!-- Подвал -->
         <footer class="footer">
             <div class="container">
-                <p>&copy; 2026 РесурсПоступ. Помогаем школьникам поступить в лучшие ВУЗы Москвы</p>
+                <p>&copy; 2026 ВУЗресурс. Разработано Стефаном Огульником</p>
             </div>
         </footer>
     </div>
 
-    <script src="app.js"></script>
+    <script type="module" src="js/app.js"></script>
 </body>
 </html>

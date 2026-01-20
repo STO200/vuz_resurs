@@ -1,0 +1,220 @@
+[
+  {
+    "id": "general_open_day_hse",
+    "name": "Общеуниверситетский день открытых дверей НИУ ВШЭ",
+    "description": "Масштабное мероприятие, где школьники и их родители знакомятся с факультетами, программами, встречаются с преподавателями и студентами ВШЭ. Лекции о поступлении, экскурсии, консультации.",
+    "type": "openDay",
+    "format": "очно",
+    "duration": "6-8 часов",
+    "location": "Москва (кампус ВШЭ, Центр культур)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-08-15 - 2025-09-05",
+      "event": "2025-09-14 - 2025-09-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником или интересоваться ВШЭ", "Зарегистрироваться на сайте"],
+    "participantLimit": 2000,
+    "website": "https://dod.hse.ru",
+    "regulations": "https://dod.hse.ru"
+  },
+  {
+    "id": "fcs_open_day",
+    "name": "День открытых дверей факультета компьютерных наук ФКН",
+    "description": "День открытых дверей ФКН НИУ ВШЭ с образовательной выставкой, презентациями программ, встречами с преподавателями и студентами, интерактивными лекциями.",
+    "type": "openDay",
+    "format": "очно",
+    "duration": "6 часов",
+    "location": "Москва (ФКН НИУ ВШЭ)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "бизнес", "экономика", "финансы"],
+    "dates": {
+      "registration": "2025-10-01 - 2025-11-09",
+      "event": "2025-11-16 10:00 - 16:00"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интерес к компьютерным наукам", "Регистрация на сайте"],
+    "participantLimit": 500,
+    "website": "https://cs.hse.ru/fcsday_autumn2025/",
+    "regulations": "https://cs.hse.ru/fcsday_autumn2025/"
+  },
+  {
+    "id": "regional_open_days",
+    "name": "Дни открытых дверей в региональных кампусах НИУ ВШЭ",
+    "description": "Дни открытых дверей в кампусах ВШЭ в Санкт-Петербурге, Нижнем Новгороде, Перми и других городах. Знакомство с региональными программами и возможностями обучения.",
+    "type": "openDay",
+    "format": "очно",
+    "duration": "4-6 часов",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-08-01 - 2025-12-31",
+      "event": "по расписанию в течение года"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Живать в регионе или планировать приезд", "Регистрация на мероприятие"],
+    "website": "https://admissions.hse.ru",
+    "regulations": "https://admissions.hse.ru"
+  },
+  {
+    "id": "meeting_with_deans",
+    "name": "Встречи с деканами и преподавателями факультетов",
+    "description": "Неформальные встречи школьников с руководителями факультетов и преподавателями ВШЭ. Обсуждение вопросов о поступлении, обучении, карьере.",
+    "type": "meetup",
+    "format": "смешанное_очно_онлайн",
+    "duration": "1-2 часа",
+    "targetAudience": ["10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-05-31",
+      "event": "по расписанию"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником 10-11 класса", "Зарегистрироваться заранее"],
+    "website": "https://admissions.hse.ru",
+    "regulations": "https://admissions.hse.ru"
+  },
+  {
+    "id": "one_day_at_university",
+    "name": "\"Один день в вузе\" - программа знакомства с вузом",
+    "description": "Программа, где школьники проводят день в университете: посещают лекции студентов, встречаются с преподавателями, знакомятся с кампусом, общаются со студентами.",
+    "type": "visitProgram",
+    "format": "очно",
+    "duration": "8-10 часов",
+    "location": "Москва (кампус ВШЭ)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-04-30",
+      "event": "по расписанию"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником", "Зарегистрироваться за неделю"],
+    "participantLimit": 50,
+    "website": "https://admissions.hse.ru",
+    "regulations": "https://admissions.hse.ru"
+  },
+  {
+    "id": "excursion_campus",
+    "name": "Экскурсии по кампусам ВШЭ",
+    "description": "Пешеходные экскурсии по историческим зданиям и современным объектам ВШЭ. Знакомство с инфраструктурой университета, библиотеками, лабораториями.",
+    "type": "tour",
+    "format": "очно",
+    "duration": "2-3 часа",
+    "location": "Москва (различные кампусы ВШЭ)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-05-31",
+      "event": "по расписанию (несколько раз в неделю)"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Зарегистрироваться", "Прийти в указанное время и место"],
+    "participantLimit": 30,
+    "website": "https://dod.hse.ru",
+    "regulations": "https://dod.hse.ru"
+  },
+  {
+    "id": "career_consultation",
+    "name": "Консультации по карьере и поступлению",
+    "description": "Индивидуальные и групповые консультации с сотрудниками приёмной комиссии и отдела по развитию карьеры ВШЭ. Помощь в выборе программы и подготовке к поступлению.",
+    "type": "consultation",
+    "format": "смешанное_очно_онлайн",
+    "duration": "30-60 минут",
+    "targetAudience": ["10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-06-30",
+      "event": "по запросу"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником 10-11 класса", "Записаться заранее"],
+    "website": "https://admissions.hse.ru",
+    "regulations": "https://admissions.hse.ru"
+  }
+]

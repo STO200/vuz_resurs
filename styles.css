@@ -301,6 +301,127 @@ body {
     border-color: var(--primary);
 }
 
+
+
+/* Стили для кнопок фильтра по стоимости */
+.cost-filter-btn {
+    padding: 0.5rem 1rem;
+    border: 2px solid var(--border);
+    background: white;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--text);
+}
+
+.cost-filter-btn:hover {
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.cost-filter-btn.active {
+    background: var(--primary);
+    color: white;
+    border-color: var(--primary);
+}
+
+/* Стили для кнопок фильтра по датам (используются, но скрыты в UI) */
+.date-filter-btn {
+    padding: 0.5rem 1rem;
+    border: 2px solid var(--border);
+    background: white;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--text);
+}
+
+.date-filter-btn:hover {
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.date-filter-btn.active {
+    background: var(--primary);
+    color: white;
+    border-color: var(--primary);
+}
+
+/* Блок дат в карточке */
+.dates-block {
+    margin: 1rem 0;
+    padding: 0.75rem;
+    background: #f0f4f8;
+    border-radius: 6px;
+    border-left: 3px solid var(--primary);
+}
+
+.dates-block .meta-row {
+    margin-bottom: 0.5rem;
+}
+
+.dates-block .meta-row:last-child {
+    margin-bottom: 0;
+}
+
+/* Улучшенные стили для бейджей льгот */
+.benefit-badge {
+    display: inline-block;
+    background: #E0F2FE;
+    color: var(--primary);
+    padding: 0.35rem 0.85rem;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.benefit-badge.bvi {
+    background: #DBEAFE;
+}
+
+.benefit-badge.points {
+    background: #FEF3C7;
+    color: #92400E;
+}
+
+.benefit-badge.additional {
+    background: #DCFCE7;
+    color: #166534;
+}
+
+.benefit-badge.grants {
+    background: #F0F4F8;
+    color: #1e40af;
+}
+
+.benefit-badge.discount {
+    background: #FFF7ED;
+    color: #c2410c;
+}
+
+.benefit-badge.priority {
+    background: #FCE7F3;
+    color: #be185d;
+}
+
+.benefit-badge.early {
+    background: #F3E8FF;
+    color: #7e22ce;
+}
+
+.benefits {
+    margin: 0.75rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
 .checkbox {
     display: flex;
     align-items: center;

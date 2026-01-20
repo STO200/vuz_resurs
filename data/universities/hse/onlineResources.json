@@ -1,0 +1,245 @@
+[
+  {
+    "id": "youtube_channel_shkolnikam",
+    "name": "YouTube-канал \"Вышка школьникам\"",
+    "description": "Официальный YouTube-канал ВШЭ для школьников с бесплатными видеолекциями, туториалами по подготовке к ЕГЭ и олимпиадам, вебинарами о поступлении.",
+    "type": "youtube",
+    "format": "онлайн",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "active": "постоянно"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "website": "https://www.youtube.com/@hse_school",
+    "regulations": "https://www.youtube.com/@hse_school"
+  },
+  {
+    "id": "telegram_channel_skolnikam",
+    "name": "Telegram-канал @skolnikam (Вышка школьникам)",
+    "description": "Официальный Telegram-канал НИУ ВШЭ с новостями о мероприятиях для школьников, анонсами олимпиад, курсов, советами по подготовке к экзаменам и поступлению.",
+    "type": "telegram",
+    "format": "онлайн",
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "active": "постоянно"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "website": "https://t.me/skolnikam",
+    "regulations": "https://t.me/skolnikam"
+  },
+  {
+    "id": "telegram_channel_official_hse",
+    "name": "Официальный Telegram-канал ВШЭ (@hse_official)",
+    "description": "Основной Telegram-канал НИУ ВШЭ с новостями университета, объявлениями мероприятий, информацией о поступлении и жизни в вузе.",
+    "type": "telegram",
+    "format": "онлайн",
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "active": "постоянно"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "website": "https://t.me/hse_official",
+    "regulations": "https://t.me/hse_official"
+  },
+  {
+    "id": "portal_shkolnikam",
+    "name": "Портал \"Вышка школьникам\" (shkolnikam.hse.ru)",
+    "description": "Центральный портал ВШЭ для школьников с информацией о курсах, программах подготовки, летних школах, олимпиадах, мероприятиях и новостях для абитуриентов.",
+    "type": "portal",
+    "format": "онлайн",
+    "targetAudience": ["4 класс", "5 класс", "6 класс", "7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "active": "постоянно"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "website": "https://shkolnikam.hse.ru",
+    "regulations": "https://shkolnikam.hse.ru"
+  },
+  {
+    "id": "admissions_portal",
+    "name": "Портал приёмной комиссии (admissions.hse.ru)",
+    "description": "Официальный портал приёмной комиссии НИУ ВШЭ с информацией о правилах поступления, программах, сроках подачи заявок, льготах и требованиях к ЕГЭ.",
+    "type": "portal",
+    "format": "онлайн",
+    "targetAudience": ["10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "active": "постоянно"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "website": "https://admissions.hse.ru",
+    "regulations": "https://admissions.hse.ru"
+  },
+  {
+    "id": "olympiad_portal",
+    "name": "Портал олимпиад НИУ ВШЭ (olymp.hse.ru)",
+    "description": "Центральный сайт по олимпиадам НИУ ВШЭ с информацией обо всех олимпиадах, их профилях, сроках, регистрации, архивных заданиях и решениях.",
+    "type": "portal",
+    "format": "онлайн",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "active": "постоянно"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "website": "https://olymp.hse.ru",
+    "regulations": "https://olymp.hse.ru"
+  },
+  {
+    "id": "career_portal",
+    "name": "Портал карьеры и развития НИУ ВШЭ (career.hse.ru)",
+    "description": "Портал с информацией о стажировках, вакансиях, программах развития карьеры, встречах с работодателями и возможностях для студентов и выпускников ВШЭ.",
+    "type": "portal",
+    "format": "онлайн",
+    "targetAudience": ["10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "active": "постоянно"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "website": "https://career.hse.ru",
+    "regulations": "https://career.hse.ru"
+  },
+  {
+    "id": "vk_community_hse",
+    "name": "Сообщество ВШЭ \"Вышка родителям\" в ВКонтакте",
+    "description": "Сообщество в ВКонтакте с информацией для родителей и абитуриентов о жизни в университете, событиях, мероприятиях и вопросах поступления.",
+    "type": "vk_community",
+    "format": "онлайн",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "active": "постоянно"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "website": "https://vk.com/hse4parents",
+    "regulations": "https://vk.com/hse4parents"
+  },
+  {
+    "id": "online_courses_platform",
+    "name": "Платформа онлайн-курсов НИУ ВШЭ (online.hse.ru)",
+    "description": "Платформа с онлайн-курсами, лекциями и программами для школьников и студентов. Включает курсы по экономике, математике, информатике и другим предметам.",
+    "type": "online_platform",
+    "format": "онлайн",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "active": "постоянно"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 25000,
+      "currency": "RUB",
+      "note": "Примерная стоимость; различается для разных курсов"
+    },
+    "website": "https://online.hse.ru",
+    "regulations": "https://online.hse.ru"
+  }
+]

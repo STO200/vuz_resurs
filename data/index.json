@@ -1,0 +1,23 @@
+{
+  "universities": [
+    {
+      "id": "hse",
+      "name": "ВШЭ (Высшая школа экономики)",
+      "shortName": "ВШЭ",
+      "website": "https://hse.ru",
+      "description": "Лидирующий ВУЗ в экономике и бизнесе с ориентиром на международные стандарты",
+      "mainDirections": ["экономика", "бизнес", "менеджмент", "финансы", "IT"],
+      "contacts": {
+        "admissions": {
+          "website": "https://admissions.hse.ru",
+          "email": "enter@hse.ru",
+          "phone": "+7 (495) 111-11-11"
+        },
+        "school": {
+          "website": "https://shkolnikam.hse.ru",
+          "email": "school@hse.ru"
+        }
+      }
+    }
+  ]
+}

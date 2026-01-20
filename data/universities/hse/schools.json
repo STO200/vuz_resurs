@@ -1,0 +1,148 @@
+[
+  {
+    "id": "lyceum_hse_ochnoe",
+    "name": "Лицей НИУ ВШЭ (очное обучение)",
+    "description": "Профильный лицей при НИУ ВШЭ в центре Москвы. Ученики самостоятельно выбирают образовательное направление, составляют индивидуальный учебный план, защищают выпускную работу.",
+    "type": "lyceum",
+    "format": "очно",
+    "location": "Москва (центр, м. Боровицкая)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Русский язык", "История", "Обществознание", "Иностранные языки", "Экономика", "Право", "Информатика", "Дизайн"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "admissions": "2025-05-01 - 2025-08-31",
+      "startOfYear": "2025-09-01",
+      "enrollment": "2025-09-01"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0,
+      "note": "Бесплатно для бюджетных мест; платное отделение доступно"
+    },
+    "participationRequirements": [
+      "Пройти тестирование и собеседование",
+      "Заполнить электронную заявку",
+      "Иметь образование, соответствующее поступлению в класс"
+    ],
+    "selectionProcess": "Электронная заявка, тестирование по предметам, собеседование",
+    "participantLimit": 500,
+    "website": "https://school.hse.ru",
+    "regulations": "https://school.hse.ru/abitur/"
+  },
+  {
+    "id": "lyceum_hse_online",
+    "name": "Онлайн-Лицей НИУ ВШЭ (программа \"Экономика и математика\")",
+    "description": "Очно-заочная программа обучения для 10-11 классов в формате онлайн с дистанционными технологиями. Направлена на подготовку к ведущим вузам и олимпиадам.",
+    "type": "online_lyceum",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2 года (10-11 класс)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Экономика", "Математика", "Русский язык", "История", "Обществознание", "Физкультура", "ОБЖ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-06-01 - 2025-08-31",
+      "admissions": "2025-05-01 - 2025-09-30",
+      "startOfYear": "2025-09-01"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 450000,
+      "currency": "RUB",
+      "note": "За один год обучения; возможны скидки на обучение для высоких результатов"
+    },
+    "participationRequirements": [
+      "Иметь аттестат об основном общем образовании (для 10 класса)",
+      "Пройти вступительные испытания (эссе, тестирование)",
+      "Продемонстрировать способность к самостоятельной работе"
+    ],
+    "selectionProcess": "Проверка аттестата, эссе (мотивационное письмо), вступительные испытания",
+    "participantLimit": 150,
+    "website": "https://school.hse.ru/lyceum-online/",
+    "regulations": "https://school.hse.ru/lyceum-online/documents"
+  },
+  {
+    "id": "raspredelennye_klassy",
+    "name": "Распределённые лицейские классы НИУ ВШЭ (в партнёрских школах Москвы)",
+    "description": "Специализированные классы в школах-партнёрах Москвы, где преподают преподаватели ВШЭ. Дают приоритет при поступлении в университет.",
+    "type": "distributed_classes",
+    "format": "очно",
+    "location": "Москва (различные школы-партнёры)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Русский язык", "История", "Обществознание", "Экономика", "Право"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы", "все направления"],
+    "dates": {
+      "registration": "2025-05-01 - 2025-08-31",
+      "startOfYear": "2025-09-01"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Пройти отбор в школу-партнёра", "Обучаться в эти классах в течение 2-3 лет"],
+    "selectionProcess": "Отбор в школе-партнёре, согласование с ВШЭ",
+    "website": "https://school.hse.ru",
+    "regulations": "https://school.hse.ru"
+  },
+  {
+    "id": "school_young_economists",
+    "name": "Школа юных экономистов НИУ ВШЭ (ФДП)",
+    "description": "Программа развития для одарённых школьников, интересующихся экономикой и бизнесом. Проводится факультетом довузовской подготовки.",
+    "type": "specialized_school",
+    "format": "очно",
+    "duration": "1-3 года обучения",
+    "location": "Москва",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Математика", "Обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "финансы"],
+    "dates": {
+      "registration": "2025-08-01 - 2025-09-30",
+      "enrollment": "2025-09-01"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 10000,
+      "currency": "RUB",
+      "note": "Примерная стоимость в месяц"
+    },
+    "participationRequirements": ["Пройти вступительное тестирование", "Продемонстрировать интерес к экономике"],
+    "selectionProcess": "Тестирование, определение уровня подготовки",
+    "website": "https://fdp.hse.ru",
+    "regulations": "https://fdp.hse.ru"
+  }
+]
