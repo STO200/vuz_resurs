@@ -1,0 +1,200 @@
+[
+  {
+    "id": "unikum_prep_courses",
+    "name": "Центр довузовской подготовки Уникум РУДН - подготовка к ЕГЭ и олимпиадам",
+    "description": "Центр дополнительного образования РУДН предлагает очные и онлайн-курсы подготовки к ОГЭ, ЕГЭ и вступительным экзаменам по всем основным предметам. 98% выпускников поступают в вузы своей мечты, средний прирост баллов 20+.",
+    "type": "подготовительные курсы",
+    "format": "смешанное_очно_онлайн",
+    "duration": "8 месяцев (с декабря по август)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Русский язык", "Обществознание", "Экономика", "История", "Английский язык", "Физика", "Химия", "Биология", "Информатика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": "10%",
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-11-01 - 2026-07-31",
+      "event": "2025-12-01 - 2026-08-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 9-11 классов", "Наличие компьютера/ноутбука и интернета для онлайн-курсов"],
+    "selectionProcess": "Записьоткрыта на все курсы. Возможна диагностика уровня знаний перед началом обучения.",
+    "participantLimit": 1000,
+    "website": "https://unikum.rudn.ru",
+    "regulations": "https://unikum.rudn.ru/rules"
+  },
+  {
+    "id": "unikum_summer_startup",
+    "name": "Летняя школа 'START-UP' Уникум РУДН",
+    "description": "5-дневный интенсив для школьников 9-11 классов, который познакомит с миром бизнеса и основами стартапостроения. Программа включает лекции от экспертов, кейс-чемпионаты, работу в командах.",
+    "type": "летний интенсив",
+    "format": "очно",
+    "duration": "5 дней",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Бизнес", "Предпринимательство", "Менеджмент"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-05-01 - 2025-06-10",
+      "event": "2025-06-16 - 2025-06-20"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 15900
+    },
+    "participationRequirements": ["Учащиеся 9-11 классов", "Интерес к предпринимательству"],
+    "selectionProcess": "Регистрация через сайт. Победители и призеры олимпиад могут участвовать бесплатно.",
+    "participantLimit": 150,
+    "website": "https://unikum.rudn.ru/profschool/letnyaya-shkola-startap",
+    "regulations": "https://unikum.rudn.ru/conditions"
+  },
+  {
+    "id": "olymp_education_econ",
+    "name": "Онлайн-школа 'Олимп' - подготовка к олимпиадам по экономике",
+    "description": "Специализированная онлайн-школа для подготовки к олимпиадам по экономике (ВсОШ, 'Высшая проба', МОШ) для 9-11 классов. Преподаватели - победители олимпиад с опытом подготовки от ВШЭ и МГУ.",
+    "type": "онлайн-курсы",
+    "format": "онлайн",
+    "duration": "2-7 месяцев в зависимости от программы",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Микроэкономика", "Макроэкономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-06-30",
+      "event": "2025-09-01 - 2026-06-30"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 9-11 классов", "Интернет, компьютер"],
+    "selectionProcess": "Регистрация по интересующей программе. Демоуроки доступны бесплатно.",
+    "participantLimit": 2000,
+    "website": "https://olymp.education",
+    "regulations": "https://olymp.education/conditions"
+  },
+  {
+    "id": "olmat_econ_prep",
+    "name": "Школа 'Олмат' - подготовка к олимпиадам по экономике",
+    "description": "Онлайн-платформа 'Олмат' предлагает подготовку к олимпиадам по экономике (ВсОШ, 'Высшая проба', МОШ, Финатлон) для 8-11 классов. Видеоуроки, задачи по уровням, живые вебинары.",
+    "type": "онлайн-курсы",
+    "format": "онлайн",
+    "duration": "2-6 месяцев в зависимости от курса",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-06-30",
+      "event": "2025-09-01 - 2026-06-30"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 8-11 классов", "Компьютер с интернетом"],
+    "selectionProcess": "Регистрация на платформе. Возможна демо-неделя курса бесплатно.",
+    "participantLimit": 3000,
+    "website": "https://olmath.ru/oleconomics",
+    "regulations": "https://olmath.ru/rules"
+  },
+  {
+    "id": "cpm_vsos_econ",
+    "name": "ЦПМ - Интенсив подготовки к региональному этапу ВсОШ по экономике",
+    "description": "7-дневный интенсив для 9-11 классов с насыщенной подготовкой к региональному этапу Всероссийской олимпиады по экономике. 12 занятий по 90 минут + пробный этап с разбором.",
+    "type": "интенсив",
+    "format": "онлайн",
+    "duration": "7 дней (12 часов занятий)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес"],
+    "dates": {
+      "registration": "2025-12-10 - 2025-12-21",
+      "event": "2025-12-22 - 2025-12-28"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 9-11 классов", "Интернет и компьютер"],
+    "selectionProcess": "Регистрация на сайте. Для учеников ЦПМ - скидки.",
+    "participantLimit": 200,
+    "website": "https://olymp.education/courses/cpm-intensive-economics",
+    "regulations": "https://olymp.education/conditions"
+  },
+  {
+    "id": "rudn_dpo_econ",
+    "name": "Курсы по экономике и менеджменту от ИМЭБ РУДН",
+    "description": "Центр дополнительного профессионального образования Экономического факультета и ИМЭБ предлагает различные курсы по экономике, менеджменту, финансам для абитуриентов и школьников.",
+    "type": "курсы повышения квалификации",
+    "format": "смешанное_очно_онлайн",
+    "duration": "от 36 до 256 часов в зависимости от программы",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Менеджмент", "Финансы", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "менеджмент", "финансы", "бизнес"],
+    "dates": {
+      "registration": "2025-11-01 - 2026-06-30",
+      "event": "2025-12-01 - 2026-08-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интернет для онлайн-курсов", "Высшее или среднее образование для ряда программ"],
+    "selectionProcess": "Регистрация по интересующему курсу. По запросу подбираются оптимальные программы.",
+    "participantLimit": 500,
+    "website": "https://dpo.rudn.ru/courses/",
+    "regulations": "https://dpo.rudn.ru/conditions"
+  }
+]

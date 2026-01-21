@@ -1,0 +1,177 @@
+[
+  {
+    "id": "t_education_platform",
+    "name": "Платформа Т-Образование - education.tbank.ru",
+    "description": "Официальная платформа Т-Образования с бесплатными курсами, подготовкой к олимпиадам и интерактивными материалами. Включает курсы по математике, информатике, физике, анализу данных.",
+    "type": "образовательный портал",
+    "format": "онлайн",
+    "duration": "самостоятельное обучение",
+    "targetAudience": ["5 класс", "6 класс", "7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Информатика", "Физика", "Анализ данных", "Программирование"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес", "IT"],
+    "dates": {
+      "registration": "доступно круглый год",
+      "event": "постоянный доступ"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Иметь доступ в Интернет",
+      "Создать аккаунт на платформе"
+    ],
+    "selectionProcess": "Без отбора",
+    "website": "https://education.tbank.ru",
+    "regulations": null
+  },
+  {
+    "id": "cu_telegram_bachelor",
+    "name": "Telegram сообщество \"Абитуриенты бакалавриата ЦУ\"",
+    "description": "Официальный Telegram канал для абитуриентов бакалавриата Центрального университета. Информация о мероприятиях, условиях поступления, ответы на вопросы.",
+    "type": "социальная сеть",
+    "format": "онлайн",
+    "duration": "постоянный доступ",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Информация о поступлении", "Новости ЦУ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "доступно круглый год",
+      "event": "постоянное обновление"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Иметь Telegram",
+      "Подписаться на канал"
+    ],
+    "selectionProcess": "Без отбора",
+    "participantLimit": 5155,
+    "website": "https://t.me/centraluniversity_bachelor",
+    "regulations": null
+  },
+  {
+    "id": "cu_official_website",
+    "name": "Официальный сайт Центрального университета - cu.ru",
+    "description": "Официальный веб-сайт Центрального университета с информацией о программах, мероприятиях, процессе поступления, грантах и контактах.",
+    "type": "образовательный портал",
+    "format": "онлайн",
+    "duration": "постоянный доступ",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Информация о вузе", "Программы", "Мероприятия"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "доступно круглый год",
+      "event": "постоянное обновление"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Иметь доступ в Интернет"
+    ],
+    "selectionProcess": "Без отбора",
+    "website": "https://cu.ru",
+    "regulations": null
+  },
+  {
+    "id": "t_number_online_trainer",
+    "name": "Число Т - Интерактивный онлайн-тренажер по математике",
+    "description": "Бесплатный адаптивный тренажер по математике в приложении Т-Банка. Содержит задачи от простых до ЕГЭ уровня с разборами решений и персональной подстройкой сложности.",
+    "type": "интерактивный тренажер",
+    "format": "онлайн",
+    "duration": "самостоятельное обучение",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Проценты", "Пропорции", "Экономические задачи", "ЕГЭ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "доступно с декабря 2024",
+      "event": "постоянный доступ"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Установить приложение Т-Банка или использовать веб-версию",
+      "Иметь доступ в Интернет"
+    ],
+    "selectionProcess": "Без отбора",
+    "website": "https://tnumber.tbank.ru",
+    "regulations": null
+  },
+  {
+    "id": "tbank_invest_academy",
+    "name": "Академия инвестиций от Т-Инвестиций",
+    "description": "Бесплатная образовательная программа по финансам и инвестициям. Курсы по акциям, облигациям, фьючерсам и другим финансовым инструментам для начинающих и опытных инвесторов.",
+    "type": "онлайн академия",
+    "format": "онлайн",
+    "duration": "самостоятельное обучение",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансы", "Инвестиции", "Биржа", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика", "бизнес"],
+    "dates": {
+      "registration": "доступно круглый год",
+      "event": "постоянный доступ"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Иметь доступ в Интернет",
+      "Интерес к финансам и инвестициям"
+    ],
+    "selectionProcess": "Без отбора",
+    "website": "https://www.tbank.ru/invest/education/",
+    "regulations": null
+  }
+]

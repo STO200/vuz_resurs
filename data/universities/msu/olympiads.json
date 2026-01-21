@@ -1,0 +1,224 @@
+[
+  {
+    "id": "olym_001",
+    "name": "XV Открытый чемпионат школ по экономике",
+    "description": "Единственная всероссийская олимпиада по экономике, объединяющая индивидуальный и командный туры с нестандартными задачами и реальными бизнес-кейсами.",
+    "type": "олимпиада",
+    "format": "очно",
+    "duration": "1 день (8 часов)",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Математика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-03-31",
+      "event": "2026-04-13 09:30",
+      "final": "2026-04-13"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Учащиеся 7-11 классов школ России",
+      "Регистрация на сайте опечемпионата"
+    ],
+    "selectionProcess": "Индивидуальный и командный туры. Лучшие 20 участников из каждого класса входят в Цифровой Золотой Запас экономистов. Победители 10-11 классов могут попасть в ПАН ЭФ МГУ без доп. отбора",
+    "participantLimit": 200,
+    "website": "https://openchampionship.ru",
+    "regulations": "https://openchampionship.ru/och-dashboard/och-register/"
+  },
+  {
+    "id": "olym_002",
+    "name": "Олимпиада 'Ломоносов' - Предпринимательство",
+    "description": "Олимпиада по предпринимательству, направленная на выявление интереса школьников к бизнесу и демонстрацию применения экономических законов в реальной жизни.",
+    "type": "олимпиада",
+    "format": "очно",
+    "duration": "2 дня",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Предпринимательство", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": true,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2025-11-01 - 2026-01-31",
+      "event": "2026-03-15 - 2026-03-16",
+      "final": "2026-03-16"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьники 8-11 классов",
+      "Заполнить форму регистрации"
+    ],
+    "selectionProcess": "Отборочный тур (заочный) + финальный тур (очный). Жюри оценивает знание предпринимательских принципов и их применение",
+    "participantLimit": 500,
+    "website": "https://olymp.msu.ru/rus/event/10022/",
+    "regulations": null
+  },
+  {
+    "id": "olym_003",
+    "name": "Экономико-Математическая Олимпиада (ЭМО) МГУ",
+    "description": "Престижная олимпиада, сочетающая задачи по экономике и математике, проводится ежегодно с целью выявления способных школьников.",
+    "type": "олимпиада",
+    "format": "очно",
+    "duration": "1 день (4-5 часов)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Математика"],
+    "benefits": {
+      "bvi": true,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика"],
+    "dates": {
+      "registration": "2025-12-01 - 2026-02-15",
+      "event": "2026-03-13",
+      "final": "2026-03-13"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Учащиеся 9-11 классов школ Москвы и Подмосковья",
+      "Предварительная регистрация"
+    ],
+    "selectionProcess": "Одноэтапная олимпиада с проверкой знаний по экономике и математике. Учитывается как формальная правильность, так и логическое обоснование решений",
+    "participantLimit": 400,
+    "website": "https://www.econ.msu.ru/entrance/school/",
+    "regulations": "https://olymp.mccme.ru/emo/20042005/emo2005.htm"
+  },
+  {
+    "id": "olym_004",
+    "name": "Всероссийская олимпиада школьников по экономике",
+    "description": "Государственная олимпиада, включенная в Перечень Минобранауки, с высокими льготами при поступлении в вузы.",
+    "type": "олимпиада",
+    "format": "очно",
+    "duration": "2 этапа (школьный, муниципальный, региональный, финальный)",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": true,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["экономика", "финансы", "менеджмент"],
+    "dates": {
+      "registration": "2025-09-01 - 2025-10-15",
+      "event": "2025-10-20 - 2026-04-20",
+      "final": "2026-04-20"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Учащиеся 7-11 классов всех российских школ"
+    ],
+    "selectionProcess": "4 этапа: школьный (сентябрь-октябрь), муниципальный (ноябрь-декабрь), региональный (январь-февраль), финальный (март-апрель)",
+    "participantLimit": null,
+    "website": "https://www.econ.msu.ru/entrance/school/",
+    "regulations": "https://www.ucheba.ru/for-abiturients/olympiads/61"
+  },
+  {
+    "id": "olym_005",
+    "name": "Всероссийская олимпиада по предпринимательству 'Создавай!'",
+    "description": "Инновационная олимпиада, нацеленная на развитие предпринимательского мышления и генерирование бизнес-идей молодыми людьми.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "6 месяцев (3 интернет-тура + финалы)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Предпринимательство", "Бизнес", "Финансы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 10,
+      "grants": "до 100000 рублей за лучшие проекты",
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "предпринимательство", "менеджмент"],
+    "dates": {
+      "registration": "2025-10-01 - 2025-11-30",
+      "event": "2025-12-01 - 2026-04-30",
+      "final": "2026-04-30"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Учащиеся 9-11 классов",
+      "Интерес к предпринимательству",
+      "Готовность работать в команде и генерировать идеи"
+    ],
+    "selectionProcess": "3 интернет-тура (кейсы и обучение) + региональные финалы (очные защиты в ведущих вузах)",
+    "participantLimit": null,
+    "website": "https://dream-create.ru",
+    "regulations": null
+  },
+  {
+    "id": "olym_006",
+    "name": "Международная олимпиада школьников по экономике",
+    "description": "Международное соревнование, организованное НИУ ВШЭ и РЭШ при поддержке Сбербанка, включающее решение сложных экономических задач и бизнес-кейсов.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3 тура",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансовая грамотность", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы"],
+    "dates": {
+      "registration": "2025-09-01 - 2025-12-31",
+      "event": "2026-02-01 - 2026-04-30",
+      "final": "2026-04-30"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьники 9-11 классов из России и других стран",
+      "Знание английского языка (задания на русском и английском)"
+    ],
+    "selectionProcess": "3 тура: экономико-математические задачи, практические задания, бизнес-кейсы и эссе",
+    "participantLimit": 500,
+    "website": "https://xn--80a2ac.xn--p1ai/",
+    "regulations": null
+  }
+]

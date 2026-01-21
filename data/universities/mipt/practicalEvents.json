@@ -1,0 +1,172 @@
+[
+  {
+    "id": "practical_001",
+    "name": "Хакатон МФТИ и партнеров (ежегодный)",
+    "description": "Ежегодный открытый хакатон для школьников и студентов от МФТИ совместно с партнерами (Яндекс, Сбер, Mail.ru и др.). Участники работают над решением реальных технических и бизнес-задач в командах.",
+    "type": "хакатон",
+    "format": "выездное",
+    "duration": "2-3 дня",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Программирование", "Анализ данных", "Машинное обучение", "Бизнес-разработка"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "бизнес", "экономика"],
+    "dates": {
+      "registration": "2026-08-01 - 2026-09-30",
+      "event": "2026-10-15 - 2026-10-17",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["9-11 класс", "Базовые навыки программирования", "Команда из 3-4 человек", "Регистрация на сайте"],
+    "selectionProcess": "Регистрация команд, отбор по relevance к тематике хакатона",
+    "participantLimit": 500,
+    "website": "https://start.mipt.ru/events",
+    "regulations": null
+  },
+  {
+    "id": "practical_002",
+    "name": "Кейс-чемпионат 'Сбер.Case' для школьников",
+    "description": "Ежегодный кейс-чемпионат от Сбербанка для школьников по решению реальных бизнес-кейсов. Участники работают над задачами из различных направлений финансового бизнеса в командах.",
+    "type": "кейс_чемпионат",
+    "format": "смешанное_очно_онлайн",
+    "duration": "1-2 месяца (с отборочного до финала)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансы", "Экономика", "Бизнес-анализ", "Управление"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "бизнес", "менеджмент", "экономика"],
+    "dates": {
+      "registration": "2026-09-01 - 2026-10-31",
+      "event": "2026-11-01 - 2026-12-15",
+      "final": "2026-12-20"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["9-11 класс", "Команда из 4-5 человек", "Интерес к финансам и бизнесу", "Заявка от школы или независимо"],
+    "selectionProcess": "Отборочный этап онлайн (решение кейсов), затем приглашение в финал",
+    "participantLimit": 200,
+    "website": "https://sbercase.ru/school",
+    "regulations": null
+  },
+  {
+    "id": "practical_003",
+    "name": "Чемпионат 'УМНАЖА' по финансовой грамотности",
+    "description": "Национальный чемпионат по финансовой грамотности для школьников. Участники проходят тесты и решают задачи по различным аспектам личных финансов, инвестиций и защиты от мошенничества.",
+    "type": "чемпионат",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2 месяца",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансовая грамотность", "Инвестиции", "Личные финансы", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика"],
+    "dates": {
+      "registration": "2026-10-01 - 2026-11-30",
+      "event": "2026-12-01 - 2027-02-28",
+      "final": "2027-03-20"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Индивидуальное участие или командное", "Регистрация на официальном сайте"],
+    "selectionProcess": "Отборочные раунды онлайн, затем финальные туры",
+    "participantLimit": 5000,
+    "website": "https://xn--80ahvfl8l.xn--p1ai/",
+    "regulations": null
+  },
+  {
+    "id": "practical_004",
+    "name": "Бизнес-симуляция 'VK Cup Бизнес' для школьников",
+    "description": "Командная бизнес-симуляция от компании VK для школьников 9-11 классов. Участники управляют виртуальными компаниями, принимают стратегические и финансовые решения, конкурируют в симуляции.",
+    "type": "бизнес_симуляция",
+    "format": "онлайн",
+    "duration": "4-6 недель",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Менеджмент", "Финансы", "Стратегия", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "финансы", "экономика"],
+    "dates": {
+      "registration": "2026-10-01 - 2026-10-31",
+      "event": "2026-11-01 - 2026-12-15",
+      "final": "2026-12-20"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["9-11 класс", "Команда 3-5 человек", "Регистрация на платформе VK"],
+    "selectionProcess": "Открытая регистрация команд через сайт VK",
+    "participantLimit": 300,
+    "website": "https://vk.com/vkcup",
+    "regulations": null
+  },
+  {
+    "id": "practical_005",
+    "name": "Конкурс проектов 'Инновации в образовании' МФТИ",
+    "description": "Конкурс школьных проектов для поощрения инновационной деятельности в области образования, бизнеса и технологий. Участники представляют готовые или в разработке проекты-стартапы.",
+    "type": "проектный_конкурс",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3-4 месяца",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Предпринимательство", "Инновации", "Технология", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 8,
+      "grants": "100%",
+      "tuitionDiscount": "100%",
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "экономика"],
+    "dates": {
+      "registration": "2026-09-01 - 2026-11-30",
+      "event": "2026-12-01 - 2027-02-28",
+      "final": "2027-03-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["8-11 класс", "Наличие проекта или идеи", "Команда или индивидуальное участие", "Защита проекта"],
+    "selectionProcess": "Отборочный этап - подача описания проекта, финальный этап - очная защита в МФТИ",
+    "participantLimit": 100,
+    "website": "https://start.mipt.ru/events",
+    "regulations": null
+  }
+]

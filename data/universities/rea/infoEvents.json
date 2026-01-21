@@ -1,0 +1,172 @@
+[
+  {
+    "id": "info_001",
+    "name": "День открытых дверей РЭУ им. Г.В. Плеханова",
+    "description": "Ежегодное мероприятие для абитуриентов и школьников, где они могут познакомиться с университетом, встретиться с руководством, узнать о направлениях подготовки и процессе поступления. Включает экскурсии по кампусу и встречи с деканами.",
+    "type": "день открытых дверей",
+    "format": "очно",
+    "duration": "1 день",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все направления"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-10 - 2026-01-24",
+      "event": "2026-01-25",
+      "final": "2026-01-25"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Предварительная регистрация на сайте РЭУ", "Паспорт для входа в здание"],
+    "selectionProcess": "Онлайн-регистрация по ссылке на сайте",
+    "participantLimit": null,
+    "website": "https://www.rea.ru/pk/entrant",
+    "regulations": null
+  },
+  {
+    "id": "info_002",
+    "name": "Встречи с деканами и руководителями факультетов",
+    "description": "Регулярные встречи для школьников с руководителями учебных подразделений РЭУ, где они рассказывают о направлениях подготовки, возможностях трудоустройства и внеучебной жизни студентов.",
+    "type": "встреча с руководством",
+    "format": "очно",
+    "duration": "1-2 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все направления"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "по расписанию",
+      "event": "2026-01-01 - 2026-08-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Заявка от школы или предварительное уведомление"],
+    "selectionProcess": "Контактирование с приемной комиссией РЭУ для согласования встречи",
+    "participantLimit": null,
+    "website": "https://www.rea.ru/pk/entrant",
+    "regulations": null
+  },
+  {
+    "id": "info_003",
+    "name": "Экскурсии по кампусу РЭУ",
+    "description": "Проводятся для групп школьников и представляют современную инфраструктуру РЭУ: учебные аудитории, библиотеку, общежития, спортивные объекты, научные лаборатории и новый корпус цифровых технологий.",
+    "type": "экскурсия",
+    "format": "очно",
+    "duration": "2-3 часа",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Инфраструктура РЭУ", "Студенческая жизнь"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "по заявкам",
+      "event": "2026-01-01 - 2026-08-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Групповая заявка от школы (минимум 15 человек)", "Сопровождающий преподаватель"],
+    "selectionProcess": "Согласование даты экскурсии через приемную комиссию",
+    "participantLimit": null,
+    "website": "https://www.rea.ru/pk/entrant",
+    "regulations": null
+  },
+  {
+    "id": "info_004",
+    "name": "Профориентационные мероприятия в школах",
+    "description": "РЭУ проводит лекции и презентации в средних общеобразовательных школах Москвы для профориентации учащихся. Рассказывают о специальностях, требованиях при поступлении и карьерных возможностях.",
+    "type": "профориентационное мероприятие",
+    "format": "очно",
+    "duration": "45-90 минут",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все направления", "Карьера", "Выбор профессии"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "по заявкам школ",
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Заявка от школы", "Возможность предоставления аудитории"],
+    "selectionProcess": "Контакт с приемной комиссией РЭУ: +7 (499) 237-85-17",
+    "participantLimit": null,
+    "website": "https://www.rea.ru/pk/entrant",
+    "regulations": null
+  },
+  {
+    "id": "info_005",
+    "name": "'Один день в РЭУ' - программа погружения",
+    "description": "Программа для школьников, желающих попробовать себя в роли студента. Включает посещение реальных лекций, семинаров, работу в лабораториях и общение со студентами и преподавателями.",
+    "type": "день погружения",
+    "format": "очно",
+    "duration": "1 день",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Менеджмент", "Финансы", "IT", "Маркетинг"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-03-31",
+      "event": "2026-04-01 - 2026-06-30",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Индивидуальная регистрация или групповая заявка", "Интерес к выбранному направлению"],
+    "selectionProcess": "Онлайн-заявка на сайте РЭУ",
+    "participantLimit": 20,
+    "website": "https://www.rea.ru/pk/entrant",
+    "regulations": null
+  }
+]

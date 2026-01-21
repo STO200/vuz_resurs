@@ -250,7 +250,7 @@ export function createResourceCard(resource) {
     }
 
     // ЗАКОММЕНТИРОВАН БЛОК С ДАТАМИ
-    // content += renderDatesBlock(resource);
+    content += renderDatesBlock(resource);
 
     // Блок стоимости
     content += renderCostBlock(resource);

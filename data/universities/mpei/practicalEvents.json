@@ -1,0 +1,134 @@
+[
+  {
+    "id": "practical_001",
+    "name": "Международный инженерный чемпионат CASE-IN - школьная лига",
+    "description": "Крупнейший российский чемпионат по решению инженерных кейсов для школьников 9-11 классов. Участники в командах разрабатывают решения реальных производственных задач. Финал проходит в МЭИ. Дополнительные баллы при поступлении в 161 вуз-партнер.",
+    "type": "кейс-чемпионат",
+    "format": "смешанное_очно_онлайн",
+    "duration": "4-5 месяцев (от регистрации до финала)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Инженерное дело", "Бизнес", "Анализ данных"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 10,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2026-08-01 - 2026-09-30",
+      "event": "2026-10-01 - 2026-11-30"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Команда из 3-5 школьников 9-11 класса", "Регистрация на сайте case-in.ru"],
+    "selectionProcess": "Онлайн-этап, затем командный финал",
+    "participantLimit": 500,
+    "website": "https://case-in.ru",
+    "regulations": "https://case-in.ru/article/110/"
+  },
+  {
+    "id": "practical_002",
+    "name": "Городская научно-практическая конференция МЭИ - Потенциал",
+    "description": "Открытая московская научно-практическая конференция для школьников 8-11 классов по физике, математике, информатике, экологии и химии. Практико-ориентированные доклады и защита проектов. До 10 дополнительных баллов при поступлении.",
+    "type": "конференция",
+    "format": "очно",
+    "duration": "1-2 дня (конференция)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Физика", "Математика", "Информатика", "Экология", "Химия"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 10,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "экономика", "бизнес"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-02-28",
+      "event": "2026-03-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьник 8-11 класса", "Подготовленный доклад или проект"],
+    "selectionProcess": "Конкурсный отбор работ",
+    "participantLimit": 300,
+    "website": "https://im.mcko.ru/potential.php",
+    "regulations": null
+  },
+  {
+    "id": "practical_003",
+    "name": "Бизнес-симуляция от Высшей школы управления МЭИ",
+    "description": "Интерактивная деловая игра, в которой школьники создают и управляют виртуальной компанией. Развитие навыков стратегического планирования, переговоров и финансового анализа. Практическое применение экономических знаний.",
+    "type": "практическая игра",
+    "format": "очно",
+    "duration": "2-3 дня",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Менеджмент", "Экономика", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "экономика", "финансы"],
+    "dates": {
+      "registration": "2026-03-01 - 2026-04-30",
+      "event": "2026-05-10 - 2026-05-12"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Команда 3-6 человек из 10-11 класса", "Интерес к бизнесу"],
+    "selectionProcess": "Регистрация команды",
+    "participantLimit": 200,
+    "website": "https://mpei.ru/Structure/Universe/inei/structure/eep/Pages/training_areas.aspx",
+    "regulations": null
+  },
+  {
+    "id": "practical_004",
+    "name": "Хакатон МЭИ по информационным технологиям",
+    "description": "Интенсивный 24-48 часовой конкурс для разработки IT-решений по заданным задачам и кейсам. Команды школьников программируют, дизайнят и презентуют свои проекты. Привлечение спонсоров из крупных IT-компаний.",
+    "type": "хакатон",
+    "format": "очно",
+    "duration": "24-48 часов",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Программирование", "Информатика", "Дизайн"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 8,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "бизнес"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-03-31",
+      "event": "2026-04-15 - 2026-04-17"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Команда 2-4 человека", "Базовые знания программирования", "Ноутбуки"],
+    "selectionProcess": "Регистрация команды на сайте",
+    "participantLimit": 150,
+    "website": "https://mpei.ru/news/potencial/Pages/engineer.aspx",
+    "regulations": null
+  }
+]

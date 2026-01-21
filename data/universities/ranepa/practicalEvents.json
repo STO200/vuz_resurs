@@ -1,0 +1,191 @@
+[
+  {
+    "id": "practical_001",
+    "name": "Всероссийский МедиаХакатон ЭМИТ × Яндекс при РАНХиГС",
+    "description": "Крупный хакатон по медиатехнологиям с участием студентов и специалистов из ведущих компаний. Позволяет выполнять реальные задачи в области медиа, технологий и бизнеса.",
+    "type": "хакатон",
+    "format": "очно",
+    "duration": "2-3 дня",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Технологии", "Бизнес", "Медиа"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "бизнес"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-02-28",
+      "event": "2026-04-15 - 2026-04-17",
+      "final": "2026-04-17"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьник 10-11 класса",
+      "Базовые знания в области медиа или технологий",
+      "Возможность участвовать в команде"
+    ],
+    "selectionProcess": "Открытый набор команд, регистрация на сайте мероприятия",
+    "participantLimit": 500,
+    "website": "https://im.ranepa.ru/news/",
+    "regulations": "https://www.ranepa.ru/"
+  },
+  {
+    "id": "practical_002",
+    "name": "Московский управленческий хакатон",
+    "description": "Крупное соревнование управленческих и предпринимательских команд. Проводится ежегодно в РАНХиГС. Позволяет применить знания в решении реальных управленческих задач.",
+    "type": "хакатон",
+    "format": "очно",
+    "duration": "4 дня",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Менеджмент", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["менеджмент", "бизнес"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-01-31",
+      "event": "2026-02-25 - 2026-02-28",
+      "final": "2026-02-28"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьник 10-11 класса",
+      "Интерес к управлению и бизнесу",
+      "Команда из 3-4 человек"
+    ],
+    "selectionProcess": "Открытая регистрация команд",
+    "participantLimit": 400,
+    "website": "https://im.ranepa.ru/news/",
+    "regulations": "https://www.ranepa.ru/"
+  },
+  {
+    "id": "practical_003",
+    "name": "Кейс-чемпионат 'GRаница влияния' ИОН РАНХиГС",
+    "description": "Кейс-чемпионат по государственным отношениям и лоббизму. Организуется ИОН РАНХиГС совместно с компаниями-партнерами. Включает мастер-классы от профессионалов и решение реальных кейсов.",
+    "type": "кейс-чемпионат",
+    "format": "очно",
+    "duration": "4 дня (01-04 декабря)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Право", "Управление", "Государственная служба"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["менеджмент", "бизнес", "финансы"],
+    "dates": {
+      "registration": "2026-10-01 - 2026-10-31",
+      "event": "2026-12-01 - 2026-12-04",
+      "final": "2026-12-04"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьник 10-11 класса",
+      "Интерес к государственному управлению",
+      "Команда из 3-4 человек"
+    ],
+    "selectionProcess": "Открытая регистрация, отбор лучших команд по результатам предварительного задания",
+    "participantLimit": 250,
+    "website": "https://ion.ranepa.ru/announcement/startuet-masshtabnyy-keys-chempionat-po-gr-i-lobbizmu-granitsa-vliyaniya/",
+    "regulations": "https://ion.ranepa.ru/"
+  },
+  {
+    "id": "practical_004",
+    "name": "EnMan Case Battle - Международный чемпионат по решению управленческих кейсов",
+    "description": "Международный чемпионат для школьников и студентов по решению бизнес-кейсов. Позволяет приобрести опыт работы с реальными задачами от компаний-партнеров.",
+    "type": "кейс-чемпионат",
+    "format": "очно",
+    "duration": "2-3 дня",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Бизнес", "Менеджмент", "Финансы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-03-31",
+      "event": "2026-05-01 - 2026-06-30",
+      "final": "2026-06-30"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 5000
+    },
+    "participationRequirements": [
+      "Школьник 10-11 класса",
+      "Знание английского языка (как минимум базовый уровень)",
+      "Команда из 3-4 человек"
+    ],
+    "selectionProcess": "Открытая регистрация с предварительным отбором",
+    "participantLimit": 300,
+    "website": "https://www.ranepa.ru/blog/megaklastery/business/",
+    "regulations": "https://www.ranepa.ru/"
+  },
+  {
+    "id": "practical_005",
+    "name": "Бизнес-симуляции и деловые игры РАНХиГС",
+    "description": "Серия практических мероприятий, включающих бизнес-симуляции, экономические игры и проектные конкурсы. Помогает школьникам применить теоретические знания на практике.",
+    "type": "практическое мероприятие",
+    "format": "очно",
+    "duration": "1-5 дней",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Бизнес", "Финансы", "Управление"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "по расписанию мероприятий",
+      "event": "в течение всего года",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьник 9-11 класса",
+      "Регистрация на конкретное мероприятие"
+    ],
+    "selectionProcess": "Открытый набор, зависит от конкретного мероприятия",
+    "participantLimit": 500,
+    "website": "https://www.ranepa.ru/",
+    "regulations": "https://my.ranepa.ru/shkolnik/"
+  }
+]

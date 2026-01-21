@@ -1,0 +1,101 @@
+[
+  {
+    "id": "rudn_summer_startup_school",
+    "name": "Летняя школа 'START-UP' РУДН Уникум",
+    "description": "5-дневный летний интенсив для школьников 9-11 классов, который познакомит с миром бизнеса, основами стартапостроения и предпринимательства. Включает лекции, работу в командах, кейс-чемпионаты, презентации проектов.",
+    "type": "летний интенсив",
+    "format": "очно",
+    "duration": "5 дней",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Бизнес", "Предпринимательство", "Менеджмент", "Стартапы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-04-01 - 2025-06-10",
+      "event": "2025-06-16 - 2025-06-20"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 15900
+    },
+    "participationRequirements": ["Учащиеся 9-11 классов", "Интерес к бизнесу и предпринимательству"],
+    "selectionProcess": "Регистрация через сайт Уникум. Победители и призеры олимпиад участвуют бесплатно.",
+    "participantLimit": 150,
+    "website": "https://unikum.rudn.ru/profschool/letnyaya-shkola-startap",
+    "regulations": "https://unikum.rudn.ru/conditions"
+  },
+  {
+    "id": "rudn_summer_digital_trends",
+    "name": "Летняя школа 'Тренды цифровых коммуникаций' ИМЭБ РУДН",
+    "description": "Международный молодежный интенсив в июле на площадке РУДН по digital-трендам. Мастер-классы от профессионалов индустрии, интерактивные коворкинги, экскурсии, проживание в кампусе. Подходит для студентов и молодежи, интересующейся цифровыми технологиями.",
+    "type": "летний интенсив",
+    "format": "выездное",
+    "duration": "12 дней (18-29 июля)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Digital-маркетинг", "Коммуникации", "Реклама", "Связи с общественностью"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2025-04-01 - 2025-06-15",
+      "event": "2025-07-18 - 2025-07-29"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 15000
+    },
+    "participationRequirements": ["Студенты вузов и молодежь (16+ лет)", "Интернет, компьютер для онлайн-мероприятий"],
+    "selectionProcess": "Регистрация на сайте ИМЭБ. Проживание в кампусе по льготной цене (около 500 руб/сутки).",
+    "participantLimit": 100,
+    "website": "https://imeb.rudn.ru/programs/upgrading/letnyaya-shkola-digital/",
+    "regulations": "https://imeb.rudn.ru/conditions"
+  },
+  {
+    "id": "rudn_summer_russian",
+    "name": "Летняя школа русского языка РУДН",
+    "description": "Летняя программа обучения русскому языку для иностранных граждан с 16 июня по 28 августа 2025. Образовательные, просветительские и адаптационные цели. Знакомство с русской культурой и традициями через языковое обучение.",
+    "type": "летний интенсив",
+    "format": "выездное",
+    "duration": "2-3 месяца",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Русский язык", "Русская культура", "История России"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-03-01 - 2025-05-31",
+      "event": "2025-06-16 - 2025-08-28"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0
+    },
+    "participationRequirements": ["Иностранные граждане", "Возраст 16+"],
+    "selectionProcess": "Регистрация через сайт. Онлайн-консультации перед началом программы.",
+    "participantLimit": 500,
+    "website": "https://www.rudn.ru/media/events/9e81d3d4-6948-4b7e-8c2e-303d94be2313",
+    "regulations": "https://rusist24.rudn.ru/index.php/meropriyatiya/letnie-shkoly"
+  }
+]

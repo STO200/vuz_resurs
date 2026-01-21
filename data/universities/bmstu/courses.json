@@ -1,0 +1,103 @@
+[
+  {
+    "id": "podgot_kursy_isot",
+    "name": "Подготовительные курсы ИСОТ МГТУ им. Баумана",
+    "description": "Интенсивные очные курсы подготовки к ОГЭ и ЕГЭ по математике, информатике, физике, русскому языку, обществознанию. Занятия проводятся 1 раз в неделю по 4 академических часа с несколькими параллельными потоками.",
+    "type": "подготовительные курсы",
+    "format": "очно",
+    "duration": "4-5 месяцев (сентябрь 2025 - февраль 2026)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика", "Информатика", "Русский язык", "Обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": "10%",
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-08-15 - 2025-09-30",
+      "event": "2025-09-22 - 2026-02-28"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 25000,
+      "currency": "RUB",
+      "note": "цена за один предмет (точная стоимость зависит от класса и модуля)"
+    },
+    "participationRequirements": ["Быть школьником 8-11 класса", "Подать заявку на сайте"],
+    "selectionProcess": "Без отбора, открытая запись (места ограничены)",
+    "participantLimit": 500,
+    "website": "https://isot.bmstu.ru/dovuz/",
+    "regulations": "https://isot.bmstu.ru/dovuz/"
+  },
+  {
+    "id": "cifrovaya_kafedra_it",
+    "name": "Цифровая кафедра МГТУ - IT-курсы для школьников",
+    "description": "Бесплатные IT-курсы для школьников на базе МГТУ им. Баумана. Программы разработаны совместно с ведущими специалистами индустрии и адаптированы под школьную программу.",
+    "type": "онлайн-курсы",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3-6 месяцев",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Программирование", "IT", "Веб-разработка", "Мобильная разработка"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "бизнес", "все направления"],
+    "dates": {
+      "registration": "2025-08-01 - 2025-12-31",
+      "event": "2025-09-01 - 2026-06-30"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником", "Иметь базовые знания по информатике"],
+    "selectionProcess": "Отбор по результатам тестирования и интервью",
+    "participantLimit": 100,
+    "website": "https://dc.bmstu.ru/i/",
+    "regulations": "https://dc.bmstu.ru/i/"
+  },
+  {
+    "id": "kursy_shkola_molodogo_baumanca",
+    "name": "Школа молодого Баумана - программа подготовки",
+    "description": "Специальная программа МГТУ для школьников 9-11 классов по профессиональной ориентации и подготовке к поступлению. Включает лекции, мастер-классы и экскурсии по университету.",
+    "type": "подготовительная программа",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3-4 месяца",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Менеджмент", "Инновационное предпринимательство"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-09-01 - 2025-10-31",
+      "event": "2025-10-15 - 2026-01-30"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 9-11 классов московских школ", "Заполнение анкеты участника"],
+    "selectionProcess": "Свободная запись, небольшой конкурс",
+    "participantLimit": 150,
+    "website": "https://t.me/s/pk_bmstu",
+    "regulations": "https://t.me/s/pk_bmstu"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "course_001",
+    "name": "Учебный центр \"Азъ\" - Подготовительные курсы при ГУУ",
+    "description": "Факультет довузовской подготовки ГУУ. Подготовка к ЕГЭ, ОГЭ и вступительным испытаниям ГУУ. 98% выпускников поступают в вузы Москвы, 50% на бюджетные места.",
+    "type": "подготовительные курсы",
+    "format": "очно",
+    "duration": "1-2 года",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["математика", "русский язык", "обществознание", "информатика", "история", "английский язык", "география"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-06-01 - 2025-09-15",
+      "event": "2025-09-15 - 2026-07-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 37000
+    },
+    "participationRequirements": ["Прохождение вступительного тестирования (бесплатно)"],
+    "selectionProcess": "Бесплатное вступительное тестирование по основным предметам в сентябре",
+    "participantLimit": null,
+    "website": "https://az.guu.ru/vi",
+    "regulations": null
+  },
+  {
+    "id": "course_002",
+    "name": "Интенсивные курсы при ГУУ (экспресс-подготовка)",
+    "description": "Краткосрочные программы подготовки к ЕГЭ/ОГЭ интенсивного формата на период январь-май или февраль-апрель.",
+    "type": "подготовительные курсы",
+    "format": "очно",
+    "duration": "3-5 месяцев",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["математика", "русский язык", "обществознание", "информатика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-12-01 - 2026-01-15",
+      "event": "2026-01-20 - 2026-05-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 30400
+    },
+    "participationRequirements": ["Наличие базовых знаний по предметам"],
+    "selectionProcess": "Регистрация через личный кабинет",
+    "participantLimit": null,
+    "website": "https://az.guu.ru/vi",
+    "regulations": null
+  },
+  {
+    "id": "course_003",
+    "name": "Экспресс-курс при ГУУ (12 часов перед экзаменом)",
+    "description": "Минимальный курс повторения основных тем за 12 часов перед ЕГЭ/ОГЭ для срочной подготовки.",
+    "type": "подготовительные курсы",
+    "format": "очно",
+    "duration": "2 недели",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["математика", "русский язык", "обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-05-15",
+      "event": "2026-05-20 - 2026-06-03",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 6500
+    },
+    "participationRequirements": ["Обучение в 10-11 классах"],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": null,
+    "website": "https://az.guu.ru/vi",
+    "regulations": null
+  }
+]

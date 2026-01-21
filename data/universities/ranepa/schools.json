@@ -1,0 +1,154 @@
+[
+  {
+    "id": "school_001",
+    "name": "Лицей Президентской академии РАНХиГС",
+    "description": "Профильный лицей при РАНХиГС с классами 8-11. Предлагает углубленное изучение социально-экономических и гуманитарных дисциплин. Выпускники получают преимущество при поступлении в РАНХиГС.",
+    "type": "профильный лицей",
+    "format": "очно",
+    "duration": "4 года обучения (8-11 классы)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Русский язык", "Английский язык", "Обществознание", "История", "Экономика", "Право", "Информатика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": "основная программа бесплатна",
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-05-31",
+      "event": "2026-09-01 - 2027-05-31",
+      "final": "2027-05-31"
+    },
+    "cost": {
+      "type": "частично_платно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Проживание в Москве или готовность к переезду",
+      "Успешное прохождение вступительных испытаний",
+      "Учащийся 7-9 классов (для 8-10 классов набор)"
+    ],
+    "selectionProcess": "Конкурсный отбор: экзамены по русскому языку, математике и английскому языку. Минимальный набор баллов обязателен.",
+    "participantLimit": 130,
+    "website": "https://www.ranepa.ru/litsey-prezidentskoy-akademii/",
+    "regulations": "https://ranepa-lyceum.ru/applicants/"
+  },
+  {
+    "id": "school_002",
+    "name": "Профильные классы РАНХиГС - Экономический профиль",
+    "description": "Специализированные классы с углубленным изучением математики и экономики. Подготавливают учащихся к поступлению на экономические направления РАНХиГС.",
+    "type": "профильный класс",
+    "format": "очно",
+    "duration": "2-3 года (10-11 классы)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Математика", "Экономика", "Обществознание", "Английский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "менеджмент", "бизнес"],
+    "dates": {
+      "registration": "2026-03-01 - 2026-06-30",
+      "event": "2026-09-01 - 2028-05-31",
+      "final": "2028-05-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Завершение 9 класса",
+      "Успешные результаты по математике и экономике",
+      "Вступительные испытания"
+    ],
+    "selectionProcess": "Отбор по результатам ОГЭ и вступительных экзаменов по математике и экономике",
+    "participantLimit": 80,
+    "website": "https://my.ranepa.ru/shkolnik/profilnyj-klass/",
+    "regulations": "https://www.ranepa.ru/litsey-prezidentskoy-akademii/"
+  },
+  {
+    "id": "school_003",
+    "name": "Профильные классы РАНХиГС - Гуманитарный профиль",
+    "description": "Классы с углубленным изучением истории, литературы и обществознания. Ориентированы на развитие гуманитарных способностей и подготовку к профильным направлениям.",
+    "type": "профильный класс",
+    "format": "очно",
+    "duration": "2-3 года (10-11 классы)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["История", "Литература", "Обществознание", "Английский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["менеджмент", "бизнес"],
+    "dates": {
+      "registration": "2026-03-01 - 2026-06-30",
+      "event": "2026-09-01 - 2028-05-31",
+      "final": "2028-05-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Завершение 9 класса",
+      "Способность к гуманитарным наукам",
+      "Вступительные испытания"
+    ],
+    "selectionProcess": "Отбор по результатам ОГЭ и экзаменов по истории и русскому языку",
+    "participantLimit": 75,
+    "website": "https://my.ranepa.ru/shkolnik/profilnyj-klass/",
+    "regulations": "https://ranepa-lyceum.ru/applicants/"
+  },
+  {
+    "id": "school_004",
+    "name": "Академия юного психолога РАНХиГС",
+    "description": "Открытая образовательная программа для учеников 9-11 классов, стремящихся к изучению психологии. Бесплатные практико-ориентированные занятия с преподавателями факультета психологии.",
+    "type": "школа при вузе",
+    "format": "очно",
+    "duration": "семестровый курс (4 месяца)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Психология", "Обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["менеджмент", "все направления"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-02-28",
+      "event": "2026-03-01 - 2026-06-30",
+      "final": "2026-06-30"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьник 9-11 класса",
+      "Интерес к психологии",
+      "Регистрация на сайте ИОН РАНХиГС"
+    ],
+    "selectionProcess": "Открытый набор, место проведения на территории Института общественных наук",
+    "participantLimit": 300,
+    "website": "https://ion.ranepa.ru/abitur/akademiya-yunogo-psikhologa/",
+    "regulations": "https://ion.ranepa.ru/abitur/akademiya-yunogo-psikhologa/"
+  }
+]

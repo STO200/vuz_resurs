@@ -1,0 +1,101 @@
+[
+  {
+    "id": "info_001",
+    "name": "День открытых дверей ВАВТ (Бакалавриат и Специалитет)",
+    "description": "Главное информационное мероприятие ВАВТ для школьников и абитуриентов. Включает экскурсии по кампусу, встречи с деканами факультетов, преподавателями и студентами, сессии вопрос-ответ по условиям поступления, информацию об обучении и студенческой жизни. Проводится в очном и онлайн форматах.",
+    "type": "день открытых дверей",
+    "format": "смешанное_очно_онлайн",
+    "duration": "1 день",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Общая информация о вузе"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы", "все направления"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-03-20",
+      "event": "2026-03-22"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники, студенты и их родители"],
+    "selectionProcess": "Открытая регистрация на сайте",
+    "participantLimit": null,
+    "website": "https://dod.vavt.ru/e3",
+    "regulations": null
+  },
+  {
+    "id": "info_002",
+    "name": "День открытых дверей магистратуры ВАВТ",
+    "description": "Специализированное мероприятие для абитуриентов магистратуры. Информация о магистерских программах, встречи с координаторами программ, сессии вопрос-ответ о поступлении и условиях обучения.",
+    "type": "день открытых дверей",
+    "format": "очно",
+    "duration": "1 день",
+    "targetAudience": ["11 класс"],
+    "subjects": ["Информация о магистратуре"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы", "все направления"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-03-31",
+      "event": "2026-04-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Абитуриенты магистратуры"],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": null,
+    "website": "https://dod.vavt.ru",
+    "regulations": null
+  },
+  {
+    "id": "info_003",
+    "name": "Встречи с приемной комиссией ВАВТ (вебинары и консультации)",
+    "description": "Регулярные онлайн-встречи с ответственным секретарем приемной комиссии и специалистами. Обсуждение вопросов поступления, расписания приема документов, льгот и преимуществ, информация о ходе приемной кампании.",
+    "type": "информационное мероприятие",
+    "format": "онлайн",
+    "duration": "1-2 часа (по расписанию)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Информация о поступлении"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы", "все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-08-31",
+      "event": "2026-01-01 - 2026-08-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники и абитуриенты"],
+    "selectionProcess": "Регистрация на указанные даты",
+    "participantLimit": null,
+    "website": "https://t.me/postupau_v_vavt",
+    "regulations": null
+  }
+]

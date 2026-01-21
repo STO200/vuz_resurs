@@ -1,0 +1,150 @@
+[
+  {
+    "id": "info_001",
+    "name": "День открытых дверей МГУ имени М.В. Ломоносова",
+    "description": "Общеуниверситетское мероприятие, на котором школьники и их родители могут познакомиться с факультетами МГУ, встретиться с декурьерами и приемной комиссией, посетить лекции и экскурсии по кампусу.",
+    "type": "день открытых дверей",
+    "format": "смешанное_очно_онлайн",
+    "duration": "1 день (5-6 часов)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": [],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-02-08",
+      "event": "2026-02-08 12:00",
+      "final": "2026-02-08"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьники, абитуриенты, их родители",
+      "Предварительная регистрация (опционально)"
+    ],
+    "selectionProcess": "Свободный вход. Онлайн-трансляция для иногородних участников",
+    "participantLimit": 5000,
+    "website": "https://openday.msu.ru",
+    "regulations": null
+  },
+  {
+    "id": "info_002",
+    "name": "Встречи с представителями Экономического факультета МГУ в школах",
+    "description": "Лекции и встречи преподавателей ЭФ МГУ и его аспирантов в московских школах на темы экономики, истории экономики и экономической политики.",
+    "type": "встреча с преподавателями",
+    "format": "очно",
+    "duration": "1-2 часа",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Экономическая история"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-05-31",
+      "event": "2025-10-01 - 2026-05-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьники 8-11 классов",
+      "Образовательное учреждение должно пригласить преподавателей"
+    ],
+    "selectionProcess": "Договорная основа между школой и ЭФ МГУ",
+    "participantLimit": null,
+    "website": "https://www.econ.msu.ru",
+    "regulations": "max.econ@org.msu.ru, +7 (495) 939-37-45"
+  },
+  {
+    "id": "info_003",
+    "name": "Университетские субботы МГУ",
+    "description": "Еженедельные очные встречи для школьников разных возрастов с преподавателями МГУ, где обсуждаются актуальные темы науки, культуры и образования.",
+    "type": "университетские встречи",
+    "format": "очно",
+    "duration": "1.5-2 часа",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Наука", "Культура", "История"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "Каждую субботу в течение года",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьники всех возрастов",
+      "Заинтересованность в знаниях"
+    ],
+    "selectionProcess": "Свободный вход. Возможна регистрация на сайте",
+    "participantLimit": 500,
+    "website": "https://www.msu.ru/projects/Subbotas/",
+    "regulations": null
+  },
+  {
+    "id": "info_004",
+    "name": "Экскурсии по кампусу МГУ для школьников",
+    "description": "Проводимые группой гидов экскурсии по историческому зданию МГУ на Воробьевых горах с рассказом о факультетах, студенческой жизни и поступлении.",
+    "type": "экскурсия",
+    "format": "очно",
+    "duration": "1.5-2 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": [],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-12-31",
+      "event": "По расписанию (уточнять на сайте)",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьники 9-11 классов",
+      "Группа от 5 человек"
+    ],
+    "selectionProcess": "Предварительное согласование с ЦПК МГУ",
+    "participantLimit": 30,
+    "website": "https://www.msu.ru",
+    "regulations": null
+  }
+]

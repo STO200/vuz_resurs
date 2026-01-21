@@ -1,0 +1,172 @@
+[
+  {
+    "id": "info_001",
+    "name": "День открытых дверей МФТИ (осенний)",
+    "description": "Ежегодный осенний день открытых дверей МФТИ (обычно в ноябре) для школьников и абитуриентов. Участники могут посетить лекции преподавателей, экскурсии по кампусам, встречи с деканами факультетов и студентами.",
+    "type": "день_открытых_дверей",
+    "format": "очно",
+    "duration": "1 день",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все направления МФТИ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-10-01 - 2026-11-15",
+      "event": "2026-11-20 - 2026-11-21",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Регистрация через сайт МФТИ", "Предварительная запись обязательна"],
+    "selectionProcess": "Открытая регистрация на первые доступные слоты",
+    "participantLimit": 1000,
+    "website": "https://start.mipt.ru/news/1024",
+    "regulations": null
+  },
+  {
+    "id": "info_002",
+    "name": "День открытых дверей МФТИ (весенний)",
+    "description": "Весенний день открытых дверей МФТИ (обычно в апреле) для школьников 8-11 классов и их родителей. Возможность увидеть лаборатории, встретиться со студентами и преподавателями.",
+    "type": "день_открытых_дверей",
+    "format": "очно",
+    "duration": "1 день",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все направления МФТИ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2027-03-01 - 2027-03-31",
+      "event": "2027-04-15 - 2027-04-16",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Предварительная регистрация на сайте"],
+    "selectionProcess": "Открытая регистрация, приоритет для зарегистрировавшихся раньше",
+    "participantLimit": 1200,
+    "website": "https://start.mipt.ru",
+    "regulations": null
+  },
+  {
+    "id": "info_003",
+    "name": "'Один день в МФТИ' - индивидуальные экскурсии",
+    "description": "Программа знакомства школьников с жизнью МФТИ. Экскурсии по территории кампуса, посещение лабораторий, встречи с учеными и студентами, рассказ о структуре вуза и системе Физтеха.",
+    "type": "экскурсия",
+    "format": "очно",
+    "duration": "2 часа",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Общее знакомство с вузом"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 2000
+    },
+    "participationRequirements": ["Группа минимум 8 человек", "Предварительная запись", "Предпочтение учебным группам"],
+    "selectionProcess": "Регистрация через сайт повузам.ру или прямая заявка в МФТИ",
+    "participantLimit": 20,
+    "website": "https://povuzam.ru/excursions/mfti",
+    "regulations": null
+  },
+  {
+    "id": "info_004",
+    "name": "Встречи с деканами и преподавателями МФТИ",
+    "description": "Регулярные встречи деканов факультетов и ведущих преподавателей МФТИ со школьниками. Обсуждение направлений подготовки, требований к поступлению, особенностей обучения на факультетах.",
+    "type": "встреча",
+    "format": "очно",
+    "duration": "1-2 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все факультеты МФТИ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-09-01 - 2026-12-31",
+      "event": "2026-10-01 - 2027-05-01",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Заявка от школы или индивидуально", "Предварительное бронирование"],
+    "selectionProcess": "Согласование даты и времени со структурой МФТИ",
+    "participantLimit": 50,
+    "website": "https://start.mipt.ru/news",
+    "regulations": null
+  },
+  {
+    "id": "info_005",
+    "name": "Профориентационные лекции от сотрудников приёмной комиссии",
+    "description": "Выездные лекции и презентации от приёмной комиссии МФТИ в школах, в которых рассказывается о структуре МФТИ, критериях поступления, правилах приёма, льготах и особенностях обучения.",
+    "type": "профориентационное_мероприятие",
+    "format": "очно",
+    "duration": "1-2 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Информация о поступлении в МФТИ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-06-01 - 2026-12-31",
+      "event": "2026-09-01 - 2027-03-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Заявка от школы на участие", "Минимум 30 человек аудитории"],
+    "selectionProcess": "Согласование графика посещения школ",
+    "participantLimit": null,
+    "website": "https://start.mipt.ru/news",
+    "regulations": null
+  }
+]

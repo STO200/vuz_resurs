@@ -1,0 +1,113 @@
+[
+  {
+    "id": "summer_001",
+    "name": "Летняя школа ЭМШ",
+    "description": "Интенсивная летняя программа для учащихся ЭМШ 9-10 классов, сочетающая углубленное изучение математики, экономики и русского языка перед началом учебного года.",
+    "type": "летняя программа",
+    "format": "очно",
+    "duration": "10-14 дней (начало августа)",
+    "targetAudience": ["9 класс", "10 класс"],
+    "subjects": ["Математика", "Экономика", "Русский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-07-01",
+      "event": "2026-08-01 - 2026-08-15",
+      "final": "2026-08-15"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 15000
+    },
+    "participationRequirements": [
+      "Учащиеся ЭМШ 9-10 классов",
+      "Желание углубить знания перед новым учебным годом"
+    ],
+    "selectionProcess": "Открытый набор для учащихся ЭМШ",
+    "participantLimit": 100,
+    "website": "https://emsch.ru",
+    "regulations": null
+  },
+  {
+    "id": "summer_002",
+    "name": "Летний семинар для учителей экономики",
+    "description": "Программа повышения квалификации для учителей экономики и смежных дисциплин, включающая лекции преподавателей ЭФ МГУ и тренеров Всероссийской олимпиады школьников по экономике.",
+    "type": "летняя программа",
+    "format": "очно",
+    "duration": "5 дней (17-21 июня 2025)",
+    "targetAudience": [],
+    "subjects": ["Экономика", "Финансы", "Макроэкономика", "Предпринимательство", "Бюджетный федерализм"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-06-01",
+      "event": "2026-06-17 - 2026-06-21",
+      "final": "2026-06-21"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Учителя экономики, обществознания, финансовой грамотности",
+      "Классные руководители и кураторы групп СПО"
+    ],
+    "selectionProcess": "Регистрация через Google Forms. Свободный прием",
+    "participantLimit": 200,
+    "website": "https://www.econ.msu.ru/entrance/school/Events.20250528141231_9778/",
+    "regulations": "https://forms.gle/RwDHETNJnYfqXQDaA"
+  },
+  {
+    "id": "summer_003",
+    "name": "Летняя экономическая школа 'I Love Economics'",
+    "description": "Летний интенсивный лагерь, сочетающий отдых с глубоким изучением экономики и решением бизнес-кейсов для школьников.",
+    "type": "летняя программа",
+    "format": "выездное",
+    "duration": "10-14 дней (июль-август)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Бизнес", "Финансы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-06-30",
+      "event": "2026-07-01 - 2026-08-31",
+      "final": "2026-08-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 80000
+    },
+    "participationRequirements": [
+      "Школьники 9-11 классов",
+      "Интерес к экономике и предпринимательству"
+    ],
+    "selectionProcess": "Свободный набор на основе заявки",
+    "participantLimit": 80,
+    "website": "https://iloveeconomics.ru/lesh",
+    "regulations": null
+  }
+]

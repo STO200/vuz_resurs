@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mai_lektsii_shkoolnikam_ekonomika",
+    "name": "Публичные лекции по экономике и финансам для школьников",
+    "description": "Серия лекций для школьников по актуальным темам экономики, финансов, управления и бизнеса. Лекции проводят ведущие преподаватели МАИ и приглашённые эксперты из финансовых и консалтинговых компаний.",
+    "type": "Лекция",
+    "format": "очно",
+    "duration": "1,5-2 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Управление проектами", "Бизнес-анализ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "event": "В течение учебного года 2025-2026 по расписанию"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником", "Интерес к экономике и финансам"],
+    "website": "https://mai.ru/press/events/",
+    "regulations": "https://mai.ru/press/events/"
+  },
+  {
+    "id": "mai_masterklass_biznes_analiz",
+    "name": "Мастер-класс «Введение в бизнес-анализ»",
+    "description": "Практический мастер-класс по основам бизнес-анализа, аналитики и работе с данными. Школьники учатся использовать аналитические инструменты и методики анализа рынка.",
+    "type": "Мастер-класс",
+    "format": "очно",
+    "duration": "2-3 часа",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Бизнес-анализ", "Data анализ", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "event": "В течение учебного года"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником", "Интерес к анализу данных"],
+    "website": "https://mai.ru/press/events/",
+    "regulations": "https://mai.ru/press/events/"
+  },
+  {
+    "id": "mai_vebinar_postuplenie_mai",
+    "name": "Вебинары о поступлении в МАИ",
+    "description": "Онлайн-встречи и вебинары для абитуриентов о процессе поступления в МАИ, требуемых документах, способах получения льгот, специальностях и направлениях подготовки.",
+    "type": "Вебинар",
+    "format": "онлайн",
+    "duration": "1-1,5 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Информация о поступлении", "Образовательные программы", "Льготы и стипендии"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "На портале МАИ",
+      "event": "Регулярно в течение года"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником", "Зарегистрироваться на вебинар"],
+    "website": "https://priem.mai.ru/",
+    "regulations": "https://priem.mai.ru/"
+  },
+  {
+    "id": "mai_konferentsiya_buduschee_nachinayetsya",
+    "name": "Конференция «Будущее начинается сегодня»",
+    "description": "Конференция исследовательских и прикладных работ обучающихся, проводимая МАИ совместно с АО «ГКНПЦ им. М.В. Хруничева» и ГБОУ «Образовательный центр «Протон». Победители получают дополнительные баллы при поступлении.",
+    "type": "Конференция",
+    "format": "очно",
+    "duration": "1-2 дня",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Инженерные науки", "Технология", "Космонавтика", "Авиация"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "event": "В течение учебного года 2025-2026"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником", "Подготовить исследовательскую или прикладную работу"],
+    "selectionProcess": "Конкурсный отбор работ на основе их качества",
+    "website": "https://pre.mai.ru/contests/",
+    "regulations": "https://pre.mai.ru/contests/"
+  },
+  {
+    "id": "mai_seminar_upravlenie_personalom",
+    "name": "Семинар «Управление персоналом в аэрокосмической отрасли»",
+    "description": "Практический семинар по HR-управлению в высокотехнологичных отраслях. Участники узнают о особенностях управления командами в авиационной и космической промышленности.",
+    "type": "Семинар",
+    "format": "очно",
+    "duration": "2-3 часа",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Управление персоналом", "HR-аналитика", "Менеджмент"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["менеджмент", "бизнес"],
+    "dates": {
+      "event": "В течение учебного года"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником", "Интерес к HR и менеджменту"],
+    "website": "https://mai.ru/press/events/",
+    "regulations": "https://mai.ru/press/events/"
+  }
+]

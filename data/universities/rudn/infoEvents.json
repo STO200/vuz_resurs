@@ -1,0 +1,134 @@
+[
+  {
+    "id": "rudn_dod_main",
+    "name": "Дни открытых дверей РУДН - общие информационные мероприятия",
+    "description": "Цикл дней открытых дверей в РУДН, проводимых в разных форматах (очные и онлайн). Возможность встречи с деканами факультетов, экскурсий по кампусу, профориентационного тестирования, консультаций по поступлению.",
+    "type": "информационное мероприятие",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3-4 часа",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все направления РУДН"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-12-01 - 2026-11-30",
+      "event": "2026-01-24 2026-02-14 2026-03-14 2026-05-16 2026-09-26 2026-10-24 2026-11-21"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 8-11 классов", "Для онлайн - компьютер и интернет"],
+    "selectionProcess": "Регистрация на сайте РУДН. Очные мероприятия по предварительной записи. Онлайн-мероприятия по ссылке.",
+    "participantLimit": 5000,
+    "website": "https://dod.rudn.ru",
+    "regulations": "https://dod.rudn.ru"
+  },
+  {
+    "id": "rudn_noch_v_univere",
+    "name": "'Ночь в Универе' РУДН - развлекательно-образовательное мероприятие",
+    "description": "Ежегодное мероприятие 'Ночь в универе' 10 апреля 2026 года на площадке РУДН. Интерактивные мастер-классы, демонстрации экспериментов, встречи со студентами, кулинарный фестиваль, концерт.",
+    "type": "информационное мероприятие",
+    "format": "очно",
+    "duration": "вечер (20:00-24:00)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все направления - интерактивный формат"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-12-01 - 2026-04-05",
+      "event": "2026-04-10 20:00"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0
+    },
+    "participationRequirements": ["Предварительная регистрация", "Для пансионерских проживание возможно (от 600 руб./сутки)"],
+    "selectionProcess": "Онлайн-регистрация на сайте. Мест ограниченное количество.",
+    "participantLimit": 3000,
+    "website": "https://nightinuni.rudn.ru",
+    "regulations": "https://nightinuni.rudn.ru"
+  },
+  {
+    "id": "rudn_festival_of_science",
+    "name": "Фестиваль науки РУДН 'Наука 2026'",
+    "description": "Ежегодный фестиваль науки в РУДН с 10 по 12 октября 2025 года. В программе: интерактивные лекции от преподавателей, мастер-классы, выставки проектов, викторины, экскурсии по кампусу, встречи с деканами.",
+    "type": "информационное мероприятие",
+    "format": "очно",
+    "duration": "3 дня",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все направления - лекции и мастер-классы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-08-01 - 2025-10-09",
+      "event": "2025-10-10 - 2025-10-12"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники любых классов", "Предварительная регистрация рекомендуется"],
+    "selectionProcess": "Регистрация через сайт РУДН. Входной билет можно получить в день мероприятия.",
+    "participantLimit": 10000,
+    "website": "https://www.rudn.ru/media/events/9fc052f5-2968-4d0c-a636-7bf3b3308258",
+    "regulations": "https://www.rudn.ru/media/events/9fc052f5-2968-4d0c-a636-7bf3b3308258"
+  },
+  {
+    "id": "rudn_marathon_sustainable_dev",
+    "name": "Марафон по устойчивому развитию РУДН (ШОС, БРИКС, ЕАЭС)",
+    "description": "Международный марафон по устойчивому развитию 2025-2026, проводимый при сотрудничестве вузов ШОС, БРИКС и ЕАЭС. Семинары, круглые столы, конкурсы студенческих проектов, лекции по корпоративной устойчивости и экономической безопасности.",
+    "type": "конференция",
+    "format": "смешанное_очно_онлайн",
+    "duration": "8 месяцев (20 октября 2025 - 19 июня 2026)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Экономика", "Устойчивое развитие", "Инновационное управление"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "менеджмент"],
+    "dates": {
+      "registration": "2025-09-01 - 2025-10-15",
+      "event": "2025-10-20 - 2026-06-19"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Активный интерес к экономике и устойчивому развитию", "Интернет для участия в онлайн-событиях"],
+    "selectionProcess": "Регистрация команд и участников на сайте. Участие в семинарах по интересам.",
+    "participantLimit": 500,
+    "website": "https://www.rudn.ru/media/events/a0284e7f-9c2f-4bf6-a6fd-3af97e52ab76",
+    "regulations": "https://www.rudn.ru/media/events/a0284e7f-9c2f-4bf6-a6fd-3af97e52ab76"
+  }
+]

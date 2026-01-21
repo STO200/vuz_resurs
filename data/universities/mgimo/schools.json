@@ -1,0 +1,206 @@
+[
+  {
+    "id": "school_gorchakovskiy_lyceum",
+    "name": "Горчаковский лицей МГИМО",
+    "description": "Собственная школа МГИМО на Одинцовском кампусе для учащихся 8-11 классов. Школа ориентирована на подготовку к ЕГЭ, изучение иностранных языков и получение знаний на уровне вуза. Лидер в Московской области с 8 стобальниками ЕГЭ.",
+    "type": "Профильный лицей при вузе",
+    "format": "очно",
+    "duration": "4 года (8-11 класс)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все предметы школьной программы", "Иностранные языки (2-3 языка)", "Экономика", "Право", "Обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": "100%",
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-03-01 - 2026-05-31",
+      "event": "2026-09-01",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Успешное прохождение вступительных испытаний", "ОГЭ по основным предметам"],
+    "selectionProcess": "Вступительные экзамены по русскому языку, математике и английскому",
+    "participantLimit": 30,
+    "website": "https://lyceum.mgimo.ru",
+    "regulations": null
+  },
+  {
+    "id": "school_gorchakovskiy_distrib_classes",
+    "name": "Распределённые лицейские классы Горчаковского лицея МГИМО",
+    "description": "Классы Горчаковского лицея при партнерских школах в регионах: Ростов, Краснодар, Ставрополь, Волгоград и других городах России. Обучение по программе МГИМО с ориентацией на подготовку к ЕГЭ.",
+    "type": "Партнерские классы при школе",
+    "format": "очно",
+    "duration": "2 года (10-11 класс)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Все предметы школьной программы", "Иностранные языки", "Экономика", "Право"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": "50%",
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-03-01 - 2026-05-31",
+      "event": "2026-09-01",
+      "final": null
+    },
+    "cost": {
+      "type": "частично_платно",
+      "amount": 50000
+    },
+    "participationRequirements": ["Проживание в регионе размещения класса", "Успехи в учебе"],
+    "selectionProcess": "Конкурс по результатам учебы в школе",
+    "participantLimit": 25,
+    "website": "https://russianabroad.school/programs/academic/",
+    "regulations": null
+  },
+  {
+    "id": "school_gorchakovskiy_zaochnoe",
+    "name": "Очно-заочные классы Горчаковского лицея МГИМО (дистанционная форма)",
+    "description": "Программа очно-заочного обучения для школьников 8-11 классов, обучающихся за рубежом. Сочетает дистанционное обучение на платформе IBLS с 3 ежегодными очными интенсивами. Подготовка к ОГЭ и ЕГЭ с лингвистическим уклоном.",
+    "type": "Онлайн-лицей",
+    "format": "смешанное_очно_онлайн",
+    "duration": "4 года (8-11 класс)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Русский язык", "Математика", "Иностранные языки", "Обществознание", "История"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": "50%",
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-08-31",
+      "event": "2026-09-01",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 100000
+    },
+    "participationRequirements": ["Обучение за рубежом", "Русскоговорящие школьники"],
+    "selectionProcess": "Онлайн собеседование и оценка уровня русского языка",
+    "participantLimit": 50,
+    "website": "https://russianabroad.school/programs/academic/",
+    "regulations": null
+  },
+  {
+    "id": "school_online_lyceum_nes",
+    "name": "Онлайн-лицей партнерских программ МГИМО",
+    "description": "Полностью дистанционное обучение по программе, соответствующей стандартам Горчаковского лицея МГИМО. Доступно для учащихся по всему миру.",
+    "type": "Онлайн-лицей",
+    "format": "онлайн",
+    "duration": "4 года (8-11 класс)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все предметы школьной программы", "Иностранные языки"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-09-01",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 150000
+    },
+    "participationRequirements": ["Доступ в интернет", "Соответствие возрасту класса"],
+    "selectionProcess": "Онлайн регистрация и оплата",
+    "participantLimit": null,
+    "website": "https://russianabroad.school",
+    "regulations": null
+  },
+  {
+    "id": "school_lyceum_tashkent",
+    "name": "Лицей МГИМО-Ташкент",
+    "description": "Филиал Горчаковского лицея МГИМО в Ташкенте (Узбекистан), работающий на базе лицеев 'Интерхаус' и Университета мировой экономики и дипломатии. Классы для учащихся 8-11 классов.",
+    "type": "Зарубежный филиал лицея",
+    "format": "очно",
+    "duration": "4 года (8-11 класс)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все предметы школьной программы", "Иностранные языки", "Узбекский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": "50%",
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-03-01 - 2026-05-31",
+      "event": "2026-09-01",
+      "final": null
+    },
+    "cost": {
+      "type": "частично_платно",
+      "amount": 80000
+    },
+    "participationRequirements": ["Проживание в Ташкенте или готовность к переезду", "Успехи в учебе"],
+    "selectionProcess": "День открытых дверей 28 мая, собеседование и тестирование",
+    "participantLimit": 30,
+    "website": "https://tashkent.russianabroad.school",
+    "regulations": null
+  },
+  {
+    "id": "school_small_lyceum_moscow",
+    "name": "Школа при МГИМО (центр Москвы) - проект 'Новый взгляд'",
+    "description": "Небольшая школа на 550 человек в московских Хамовниках в сотрудничестве с МГИМО. Включает начальную и среднюю школу с гуманитарным и международным профилем.",
+    "type": "Частная школа при вузе",
+    "format": "очно",
+    "duration": "11 лет (1-11 класс)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все предметы", "Иностранные языки", "История международных отношений"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-05-31",
+      "event": "2026-09-01",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 800000
+    },
+    "participationRequirements": ["Конкурс на поступление", "Финансовые возможности"],
+    "selectionProcess": "Вступительные экзамены и интервью с администрацией",
+    "participantLimit": 40,
+    "website": "https://schooloffuture.education",
+    "regulations": null
+  }
+]

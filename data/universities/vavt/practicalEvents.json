@@ -1,0 +1,101 @@
+[
+  {
+    "id": "practical_001",
+    "name": "Экономический марафон ВАВТ",
+    "description": "Бесплатная образовательная игра-стратегия для школьников 9-11 классов. Участники в командах (4-7 человек) продвигают виртуальный продукт на международный рынок. Включает кейс-метод, геймификацию, персонального куратора и дополнительные образовательные материалы. Участники получают дипломы и сертификаты.",
+    "type": "кейс-чемпионат, образовательная игра",
+    "format": "онлайн",
+    "duration": "2-3 месяца (по расписанию проведения)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Международный бизнес", "Маркетинг", "Переговоры"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-05-31",
+      "event": "2026-03-01 - 2026-06-30"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 9-11 классов", "Участие индивидуально или командой из 4-7 человек"],
+    "selectionProcess": "Открытая регистрация на платформе марафона",
+    "participantLimit": null,
+    "website": "https://marafon.vavt.ru",
+    "regulations": null
+  },
+  {
+    "id": "practical_002",
+    "name": "Case Marathon ВАВТ (Case Club RFTA)",
+    "description": "Онлайн-марафон по решению кейсов для школьников и студентов. Участники работают с реальными и образовательными кейсами компаний, развивая навыки аналитического мышления и стратегического решения задач. Проводится регулярно в течение года.",
+    "type": "кейс-марафон",
+    "format": "онлайн",
+    "duration": "2-4 недели (по расписанию)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Бизнес-анализ", "Финансы", "Экономика", "Менеджмент"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-01-01 - 2026-12-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники и студенты", "Навыки аналитического мышления"],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": null,
+    "website": "https://vk.com/rfta_cc",
+    "regulations": null
+  },
+  {
+    "id": "practical_003",
+    "name": "Международный образовательный марафон по переговорам ВАВТ",
+    "description": "Марафон по ведению международных деловых переговоров на трех языках (русском, китайском, английском) между командами российских и китайских вузов. Развивает навыки кросс-культурного взаимодействия и переговорной компетентности.",
+    "type": "образовательный марафон",
+    "format": "онлайн",
+    "duration": "3 дня (интенсивный формат)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Переговоры", "Международный бизнес", "Культура", "Языки"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-04-30",
+      "event": "2026-05-15 - 2026-05-17"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 10-11 классов", "Владение иностранными языками (желательно)"],
+    "selectionProcess": "Приглашение или открытая регистрация",
+    "participantLimit": null,
+    "website": "https://negotiations.vavt.ru",
+    "regulations": null
+  }
+]

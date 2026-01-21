@@ -1,0 +1,70 @@
+[
+  {
+    "id": "summer_001",
+    "name": "Летние профориентационные программы ГУУ (Управляя детством)",
+    "description": "Летние смены ГУУ в июне-июле для школьников 8-10 классов. Профориентационные программы по различным направлениям с участием преподавателей ГУУ и партнёрских организаций.",
+    "type": "летняя программа",
+    "format": "выездное",
+    "duration": "2-4 недели",
+    "targetAudience": ["8 класс", "9 класс", "10 класс"],
+    "subjects": ["обществознание", "экономика", "право", "менеджмент", "предпринимательство"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "экономика", "менеджмент"],
+    "dates": {
+      "registration": "2026-03-01 - 2026-04-15",
+      "event": "2026-06-01 - 2026-07-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 35000
+    },
+    "participationRequirements": ["Обучение в 8-10 классах", "Наличие свидетельства о рождении и документов об образовании"],
+    "selectionProcess": "Регистрация на сайте ГУУ с указанием пожеланий",
+    "participantLimit": 50,
+    "website": "https://guu.ru/university/career_guidance/",
+    "regulations": null
+  },
+  {
+    "id": "summer_002",
+    "name": "Летние интенсивные курсы ГУУ (подготовка к ЕГЭ)",
+    "description": "Интенсивные однопредметные курсы подготовки к ЕГЭ в июне-июле. Курсы по математике, русскому языку, обществознанию, информатике для учащихся 10-11 классов.",
+    "type": "летняя программа",
+    "format": "очно",
+    "duration": "2-3 недели",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["математика", "русский язык", "обществознание", "информатика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-05-15",
+      "event": "2026-06-01 - 2026-07-15",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 22000
+    },
+    "participationRequirements": ["Обучение в 10-11 классах", "Предварительное тестирование"],
+    "selectionProcess": "Регистрация и онлайн-тестирование для определения уровня подготовки",
+    "participantLimit": 30,
+    "website": "https://az.guu.ru/vi",
+    "regulations": null
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": "event_practical_case_championship_key",
+    "name": "Всероссийский кейс-чемпионат 'КЛЮЧ' (практический этап)",
+    "description": "Практическое состязание для школьников, где команды решают реальные бизнес-кейсы из компаний и разрабатывают собственные проекты. Обучающий формат с поддержкой менторов от компаний-партнеров.",
+    "type": "Кейс-чемпионат",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2 недели + финал",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Бизнес", "Предпринимательство"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "экономика", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-08-20 - 2025-09-30",
+      "event": "2025-10-01 - 2026-03-31",
+      "final": "2026-02-20 - 2026-03-10"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Команда из 2-4 человек", "Школьники 9-11 классов", "Регистрация онлайн"],
+    "selectionProcess": "Регистрация, решение кейса, финальный этап по результатам",
+    "participantLimit": null,
+    "website": "https://olymp.hse.ru/championship/",
+    "regulations": null
+  },
+  {
+    "id": "event_case_battle_sber",
+    "name": "Кейс-батлы в партнерстве со Сбербанком",
+    "description": "Интенсивные кейс-батлы (4 часа на решение) от Сбербанка и других крупных компаний. Команды разрабатывают бизнес-планы и стратегии на реальных примерах компаний Сбера.",
+    "type": "Кейс-батл",
+    "format": "очно",
+    "duration": "4-6 часов",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Бизнес", "Финансы", "Стратегия"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "финансы", "менеджмент"],
+    "dates": {
+      "registration": "2026-01-15 - 2026-02-15",
+      "event": "2026-03-01 - 2026-04-30",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Команда из 2-3 человек", "Старшеклассники", "Интерес к бизнесу"],
+    "selectionProcess": "Онлайн регистрация, отбор команд по заявкам",
+    "participantLimit": 30,
+    "website": "https://sberstudent.ru",
+    "regulations": null
+  },
+  {
+    "id": "event_hackathon_mgimo_gpt",
+    "name": "MGIMO GPT Challenge - бизнес-хакатон по ИИ",
+    "description": "Межвузовский промпт-хакатон для школьников и студентов по применению ИИ в маркетинге и бизнесе. Участники разрабатывают инновационные решения с использованием нейросетей и ChatGPT.",
+    "type": "Хакатон",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2-3 дня интенсива",
+    "targetAudience": ["11 класс"],
+    "subjects": ["Искусственный интеллект", "Маркетинг", "Бизнес", "Цифровые технологии"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": "50%",
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "IT", "финансы"],
+    "dates": {
+      "registration": "2025-11-01 - 2025-11-30",
+      "event": "2025-12-01 - 2025-12-04",
+      "final": "2025-12-04"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Выпускники школ и студенты", "Базовые знания ИИ желательны"],
+    "selectionProcess": "Онлайн регистрация, интенсивная работа на площадке",
+    "participantLimit": 50,
+    "website": "https://mgimo.ru/about/news/main/gpt-challenge/",
+    "regulations": null
+  },
+  {
+    "id": "event_business_simulation",
+    "name": "Бизнес-симуляции и деловые игры",
+    "description": "Практические деловые игры на факультетах МГИМО, где школьники симулируют работу компаний, принимают управленческие решения и видят результаты. Проводится на основе платформы 'Бизнес-курс: максимум'.",
+    "type": "Деловая игра",
+    "format": "смешанное_очно_онлайн",
+    "duration": "1-3 дня",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Бизнес", "Менеджмент", "Экономика", "Финансы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "экономика", "финансы"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-03-31",
+      "event": "2026-03-15 - 2026-05-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 9-11 классов", "Команды от 5 человек"],
+    "selectionProcess": "Регистрация через сайт факультета",
+    "participantLimit": null,
+    "website": "https://mgimo.ru/about/news/",
+    "regulations": null
+  },
+  {
+    "id": "event_project_competition",
+    "name": "Проектные конкурсы и конкурсы стартапов",
+    "description": "Конкурсы проектных работ для школьников, где участники разрабатывают собственные бизнес-идеи и проекты в области экономики, бизнеса, финансов. Включает защиту проектов перед жюри из представителей компаний.",
+    "type": "Конкурс проектов",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2-3 месяца (проектная работа) + презентация",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Бизнес", "Предпринимательство", "Финансы", "Инновации"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "экономика", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-03-31",
+      "event": "2026-02-01 - 2026-05-31",
+      "final": "2026-05-15 - 2026-05-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Индивидуальное участие или команда до 3 человек"],
+    "selectionProcess": "Подача проекта через портал, оценка жюри, финальная защита",
+    "participantLimit": null,
+    "website": "https://mgimo.ru/about/news/",
+    "regulations": null
+  }
+]

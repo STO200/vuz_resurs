@@ -1,0 +1,187 @@
+[
+  {
+    "id": "course_001",
+    "name": "Подготовительные курсы РАНХиГС - Математика профильная",
+    "description": "Интенсивные курсы по профильной математике для подготовки к ЕГЭ и вступительным испытаниям в РАНХиГС. Проводятся опытными преподавателями Академии с систематизацией знаний и разбором сложных тем.",
+    "type": "курс подготовки",
+    "format": "очно",
+    "duration": "96 часов, 24 занятия",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Математика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2025-09-01 - 2025-09-30",
+      "event": "2025-10-01 - 2026-05-31",
+      "final": "2026-05-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 31900
+    },
+    "participationRequirements": [
+      "Школьник 10-11 класса",
+      "Регистрация в филиале РАНХиГС"
+    ],
+    "selectionProcess": "Открытый набор, регистрация на курсы по мере комплектования групп",
+    "participantLimit": 200,
+    "website": "https://www.ranepa.ru/pre-university/",
+    "regulations": "https://priem.spb.ranepa.ru/dovuzovskaya-podgotovka/"
+  },
+  {
+    "id": "course_002",
+    "name": "Подготовительные курсы РАНХиГС - Обществознание",
+    "description": "Углубленный курс по обществознанию для подготовки к ЕГЭ и поступлению в РАНХиГС. Включает разбор всех ключевых тем: право, социология, экономика, философия и политология.",
+    "type": "курс подготовки",
+    "format": "очно",
+    "duration": "72 часа, 18 занятий",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Обществознание", "Право", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["менеджмент", "бизнес", "финансы"],
+    "dates": {
+      "registration": "2025-09-01 - 2025-09-30",
+      "event": "2025-10-01 - 2026-05-31",
+      "final": "2026-05-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 25900
+    },
+    "participationRequirements": [
+      "Школьник 10-11 класса",
+      "Регистрация в филиале РАНХиГС"
+    ],
+    "selectionProcess": "Открытый набор, нет конкурсного отбора",
+    "participantLimit": 250,
+    "website": "https://www.ranepa.ru/pre-university/",
+    "regulations": "https://priem.spb.ranepa.ru/dovuzovskaya-podgotovka/"
+  },
+  {
+    "id": "course_003",
+    "name": "Подготовительные курсы РАНХиГС СПб филиал - История",
+    "description": "Курсы по подготовке к ЕГЭ по истории. Проводятся в СПб филиале РАНХиГС с учетом требований вступительных испытаний Академии.",
+    "type": "курс подготовки",
+    "format": "очно",
+    "duration": "96 часов, 24 занятия",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["История"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["менеджмент", "бизнес"],
+    "dates": {
+      "registration": "2025-09-01 - 2025-09-30",
+      "event": "2025-10-01 - 2026-05-31",
+      "final": "2026-05-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 31900
+    },
+    "participationRequirements": [
+      "Школьник 10-11 класса",
+      "Проживание в СПб или возможность приезжать на занятия"
+    ],
+    "selectionProcess": "Открытый набор, комплектование групп по мере поступления заявок",
+    "participantLimit": 200,
+    "website": "https://priem.spb.ranepa.ru/dovuzovskaya-podgotovka/",
+    "regulations": "https://priem.spb.ranepa.ru/dovuzovskaya-podgotovka/"
+  },
+  {
+    "id": "course_004",
+    "name": "Подготовительные курсы ИОН РАНХиГС - Дизайн",
+    "description": "Специализированные курсы по современному дизайну для подготовки к поступлению на программу бакалавриата 'Современный дизайн'. Включает обучение профессиональным инструментам дизайна и подготовку портфолио.",
+    "type": "курс подготовки",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3 дисциплины по 48 часов каждая (144 часа всего)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Дизайн", "Искусство"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-15 - 2026-02-15",
+      "event": "2026-03-02 - 2026-05-24",
+      "final": "2026-05-24"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 28800
+    },
+    "participationRequirements": [
+      "Школьник 10-11 класса",
+      "Портфолио творческих работ"
+    ],
+    "selectionProcess": "Конкурсный отбор по портфолио",
+    "participantLimit": 100,
+    "website": "https://ion.ranepa.ru/ba/podgotovitelnye-kursy-dlya-abiturientov-programmy-bakalavriata-sovremennyy-dizayn/",
+    "regulations": "https://ion.ranepa.ru/"
+  },
+  {
+    "id": "course_005",
+    "name": "Дистанционные подготовительные курсы РАНХиГС - Обществознание",
+    "description": "Онлайн-курсы по обществознанию для подготовки к вступительным испытаниям РАНХиГС. Проводятся на платформе дистанционного обучения с возможностью изучения в удобном темпе.",
+    "type": "курс подготовки",
+    "format": "онлайн",
+    "duration": "12 часов, 6 занятий",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "менеджмент", "финансы", "бизнес"],
+    "dates": {
+      "registration": "по мере комплектования",
+      "event": "2025-10-01 - 2026-06-30",
+      "final": "2026-06-30"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 9000
+    },
+    "participationRequirements": [
+      "Наличие интернета и персональный компьютер",
+      "Регистрация на платформе дистанционного обучения"
+    ],
+    "selectionProcess": "Открытый набор, достаточно заявки на регистрацию",
+    "participantLimit": 1000,
+    "website": "https://priem.spb.ranepa.ru/dovuzovskaya-podgotovka/",
+    "regulations": "https://www.ranepa.ru/pre-university/"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mai_preduniversariy",
+    "name": "Предуниверсарий МАИ",
+    "description": "Школа при МАИ для учеников 8-11 классов с углубленным изучением технических дисциплин (математика, физика, информатика) и прикладными проектными задачами. В 2024-2025 году - 1 место в рейтинге школ Москвы по показателям ЕГЭ (средний балл 268 по трём предметам).",
+    "type": "Школа при вузе",
+    "format": "очно",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика", "Информатика", "Проектная деятельность"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы", "все направления"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-08-31",
+      "startOfYear": "2026-09-01",
+      "admissions": "2026-04-01 - 2026-05-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0,
+      "note": "Для всех жителей Москвы"
+    },
+    "participationRequirements": ["Быть жителем Москвы", "Желание изучать технические дисциплины на повышенном уровне"],
+    "selectionProcess": "Вступительные испытания по математике, физике, информатике и русскому языку (проводятся в апреле)",
+    "website": "https://preduniversariy.mai.ru/",
+    "regulations": "https://preduniversariy.mai.ru/"
+  },
+  {
+    "id": "mai_litzei_shkola",
+    "name": "Лицей НИУ МАИ при Московском авиационном институте",
+    "description": "Профильный лицей при МАИ для учеников 8-11 классов с несколькими профилями обучения. Выпускники получают аттестат государственного образца и имеют приоритет при поступлении в МАИ.",
+    "type": "Школа при вузе",
+    "format": "очно",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика", "Информатика", "Инженерное дело", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы", "все направления"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-08-31",
+      "startOfYear": "2026-09-01",
+      "admissions": "2026-04-01 - 2026-05-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0,
+      "note": "Для бюджетных мест; платные места доступны"
+    },
+    "participationRequirements": ["Быть школьником 8-11 классов", "Интерес к техническим и бизнес-дисциплинам"],
+    "selectionProcess": "Конкурсный отбор на основе академических показателей и вступительных испытаний",
+    "website": "https://pre.mai.ru/education/preduniversariy-mai/",
+    "regulations": "https://pre.mai.ru/education/preduniversariy-mai/"
+  }
+]

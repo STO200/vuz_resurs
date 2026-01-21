@@ -1,0 +1,147 @@
+[
+  {
+    "id": "cu_youtube_lectures",
+    "name": "YouTube канал Центрального университета - Открытые лекции и вебинары",
+    "description": "Официальный YouTube канал Центрального университета с открытыми лекциями для школьников. Видеоуроки по hard skills, методологиям разработки, статистике и другим темам от преподавателей ЦУ.",
+    "type": "вебинар",
+    "format": "онлайн",
+    "duration": "30 минут - 2 часа",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Программирование", "Методологии разработки", "Статистика", "Математика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "бизнес", "все направления"],
+    "dates": {
+      "registration": "доступно круглый год",
+      "event": "новые видео регулярно"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Иметь доступ в Интернет",
+      "YouTube аккаунт (необязательно)"
+    ],
+    "selectionProcess": "Без отбора, открытый доступ",
+    "website": "https://www.youtube.com/@CentralUniversity",
+    "regulations": null
+  },
+  {
+    "id": "cu_economclass_club",
+    "name": "Студенческий клуб EconomClass при Центральном университете",
+    "description": "Студенческий клуб для погружения в мир экономики и финансов. Клуб проводит лекции, встречи с экспертами и обсуждения экономических тем для студентов и заинтересованных школьников.",
+    "type": "клуб",
+    "format": "смешанное_очно_онлайн",
+    "duration": "1.5-2 часа за встречу",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "менеджмент", "бизнес"],
+    "dates": {
+      "registration": "2026-09-01 - постоянно",
+      "event": "по расписанию клуба"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Интерес к экономике",
+      "Готовность к открытому обсуждению",
+      "Возможность посещения (очно или онлайн)"
+    ],
+    "selectionProcess": "Открытый прием членов",
+    "participantLimit": 100,
+    "website": "https://cntrluniv.ru",
+    "regulations": null
+  },
+  {
+    "id": "cu_master_classes",
+    "name": "Мастер-классы и семинары от преподавателей ЦУ",
+    "description": "Практические мастер-классы от опытных преподавателей Центрального университета. Занятия по направлениям: разработка, аналитика, дизайн, бизнес.",
+    "type": "мастер-класс",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2-3 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Разработка", "Аналитика", "Дизайн", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-06-01 - 2026-12-31",
+      "event": "по расписанию"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть школьником",
+      "Интерес к теме мастер-класса",
+      "Зарегистрироваться заранее"
+    ],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": 150,
+    "website": "https://event.centraluniversity.ru",
+    "regulations": null
+  },
+  {
+    "id": "cu_webinars_open_lessons",
+    "name": "Открытые онлайн-уроки магистратуры от ЦУ для школьников",
+    "description": "Цикл открытых онлайн-уроков с экспертами Центрального университета, имеющими опыт в Google, Яндексе, Т-Банке. Знакомство с профессиями и карьерными перспективами в IT и бизнесе.",
+    "type": "вебинар",
+    "format": "онлайн",
+    "duration": "1-2 часа",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["IT", "Бизнес", "Карьера", "Профориентация"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "за 1-2 недели до события",
+      "event": "по расписанию"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть школьником",
+      "Зарегистрироваться на вебинар"
+    ],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": 500,
+    "website": "https://event.centraluniversity.ru",
+    "regulations": null
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "hackathon_vyzov_prinyat",
+    "name": "Хакатон «Вызов принят» (зимняя сессия)",
+    "description": "Зимний хакатон для московских школьников 9-17 лет по робототехнике, CAD-моделированию, программированию. Участники работают над решением инженерных задач в разных направлениях.",
+    "type": "hackathon",
+    "format": "очно",
+    "duration": "7 дней (21-27 января)",
+    "subjects": ["Робототехника", "CAD-моделирование", "Программирование", "Инженерия"],
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "бизнес"],
+    "dates": {
+      "registration": "2026-12-01 - 2026-12-20",
+      "hackathon": "2026-01-21 - 2026-01-27"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Московские школьники 9-17 лет", "Интерес к инженерным наукам"],
+    "selectionProcess": "Отбор по времени подачи заявок (места ограничены)",
+    "participantLimit": 100,
+    "website": "https://www.xn--80aa3anexr8c.xn--p1acf/tpost/s1edh9dub1-hakaton-vizov-prinyat",
+    "regulations": null
+  },
+  {
+    "id": "kidsdev_demo_day",
+    "name": "KIDSDEV Demo Day - Демонстрация бизнес-проектов",
+    "description": "Итоговое мероприятие курсов KIDSDEV, где школьники презентуют свои бизнес-проекты и бизнес-планы перед экспертным жюри из департамента предпринимательства Москвы и Агентства стратегических инициатив.",
+    "type": "demo_day",
+    "format": "очно",
+    "duration": "1 день (3-4 часа)",
+    "subjects": ["Бизнес", "Предпринимательство"],
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент"],
+    "dates": {
+      "registration": "в конце каждого цикла курсов",
+      "event": "по расписанию (обычно в конце курса)"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Завершение курса KIDSDEV", "Наличие готового бизнес-проекта"],
+    "website": "https://kidsdev.academy",
+    "regulations": null
+  },
+  {
+    "id": "sk_challenge_finals",
+    "name": "Sk Challenge - Финалы конкурса молодежных проектов",
+    "description": "Финальные соревнования по демонстрации молодежных технологических проектов. Проводится в технопарке Сколково с интерактивными мастер-классами и профориентационными воркшопами.",
+    "type": "competition",
+    "format": "очно",
+    "duration": "1 день (5 часов)",
+    "subjects": ["Технологии", "Инновации", "Предпринимательство"],
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "IT"],
+    "dates": {
+      "registration": "2026-08-01 - 2026-11-10",
+      "event": "2026-11-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Дети и молодежь 7-20 лет", "Готовый технологический проект"],
+    "website": "https://kids.sk.ru/skkidschallenge",
+    "regulations": null
+  }
+]

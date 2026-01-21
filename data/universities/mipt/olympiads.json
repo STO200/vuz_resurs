@@ -1,0 +1,172 @@
+[
+  {
+    "id": "oly_001",
+    "name": "Олимпиада школьников по экономике Физтех.Бизнес",
+    "description": "Ежегодная олимпиада МФТИ для школьников 9-11 классов по экономике, бизнесу, технологическому предпринимательству и инновациям. Проводится в два этапа: онлайн-отборочный и очный заключительный.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3 месяца",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Бизнес", "Технологическое предпринимательство", "Инновации"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-11-01 - 2026-12-31",
+      "event": "2026-11-15 - 2027-05-01",
+      "final": "2027-05-01"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Обучение в школе на момент проведения олимпиады", "Уровень знаний по экономике и математике"],
+    "selectionProcess": "Двухэтапная система: онлайн-отборочный этап (решение 10 задач), затем приглашение финалистов на очный этап с индивидуальными и групповыми кейсами",
+    "participantLimit": 500,
+    "website": "https://start.mipt.ru/event/4686",
+    "regulations": "https://start.mipt.ru/event/4686"
+  },
+  {
+    "id": "oly_002",
+    "name": "Олимпиада Высшая проба - Экономика",
+    "description": "Всероссийская олимпиада школьников по экономике от ВШЭ и партнеров (включая МФТИ). I уровень перечня РСОШ. Задачи охватывают экономическую теорию и прикладные навыки.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2 месяца",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Анализ данных"],
+    "benefits": {
+      "bvi": false,
+      "points100": true,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "2026-10-01 - 2026-11-15",
+      "event": "2026-11-20 - 2027-02-28",
+      "final": "2027-03-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Регистрация на сайте олимпиады", "Уровень школьной программы"],
+    "selectionProcess": "Онлайн-отборочный этап для всех желающих, приглашение финалистов по результатам",
+    "participantLimit": 1000,
+    "website": "https://www.hse.ru/ourprojects/activities/olympiads/probe/",
+    "regulations": null
+  },
+  {
+    "id": "oly_003",
+    "name": "Высшая проба - Финансовая грамотность",
+    "description": "Олимпиада от ВШЭ по финансовой грамотности, финансовому рынку и защите прав потребителей финансовых услуг. Задачи ориентированы на практическое применение знаний.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2 месяца",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансовая грамотность", "Финансовые рынки", "Инвестиции"],
+    "benefits": {
+      "bvi": false,
+      "points100": true,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика"],
+    "dates": {
+      "registration": "2026-10-01 - 2026-11-15",
+      "event": "2026-11-20 - 2027-02-28",
+      "final": "2027-03-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Регистрация на портале олимпиады"],
+    "selectionProcess": "Онлайн-отборочный этап, затем финал для лучших участников",
+    "participantLimit": 800,
+    "website": "https://www.hse.ru/ourprojects/activities/olympiads/probe/",
+    "regulations": null
+  },
+  {
+    "id": "oly_004",
+    "name": "Всероссийская экономическая олимпиада имени Н.Д. Кондратьева",
+    "description": "Престижная олимпиада I уровня по экономике для 5-11 классов. Ежегодно собирает тысячи участников. Организуется Институтом экономики РАН и другими ведущими вузами.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3 месяца",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Экономическая история", "Политическая экономия"],
+    "benefits": {
+      "bvi": true,
+      "points100": true,
+      "additionalPoints": 8,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "2026-01-15 - 2026-02-28",
+      "event": "2026-02-15 - 2026-04-13",
+      "final": "2026-04-13"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Участие открыто для всех школьников РФ"],
+    "selectionProcess": "Отборочный этап (тесты и эссе), затем заключительный этап дистанционно",
+    "participantLimit": 5000,
+    "website": "https://olimpiada-kondratiev.ru",
+    "regulations": "https://olimpiada-kondratiev.ru/wp-content/uploads/2025/02/kondratiev_otbor_2024-25.pdf"
+  },
+  {
+    "id": "oly_005",
+    "name": "Высшая проба - Основы бизнеса",
+    "description": "Олимпиада по основам бизнеса и предпринимательства. Профиль олимпиады соответствует направлениям подготовки в области менеджмента и бизнеса.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2 месяца",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Бизнес", "Менеджмент", "Организационная теория"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2026-10-01 - 2026-11-15",
+      "event": "2026-11-20 - 2027-02-28",
+      "final": "2027-03-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Регистрация на платформе Высшей пробы"],
+    "selectionProcess": "Онлайн-отборочный этап для всех участников",
+    "participantLimit": 600,
+    "website": "https://www.hse.ru/ourprojects/activities/olympiads/probe/",
+    "regulations": null
+  }
+]

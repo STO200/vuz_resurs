@@ -1,0 +1,104 @@
+[
+  {
+    "id": "practical_001",
+    "name": "Хакатоны ГУУ и партнёров (Точка кипения ГУУ)",
+    "description": "Регулярные хакатоны по предпринимательству, технологиям и бизнес-разработкам. Организуются ГУУ совместно с партнёрскими организациями (РВБ, НАМИ и другие).",
+    "type": "хакатон",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2-3 дня",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["предпринимательство", "информатика", "экономика", "менеджмент"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "экономика", "IT", "менеджмент"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-03-01",
+      "event": "2026-04-10 - 2026-04-12",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Обучение в 9-11 классах", "Интерес к технологиям и бизнесу", "Наличие команды (3-5 человек)"],
+    "selectionProcess": "Регистрация команд на сайте, подача идеи проекта",
+    "participantLimit": 100,
+    "website": "https://guu.ru/university/career_guidance/",
+    "regulations": null
+  },
+  {
+    "id": "practical_002",
+    "name": "Бизнес-симуляции и кейс-чемпионаты ГУУ",
+    "description": "Образовательные игры и соревнования по решению бизнес-задач. Развивают аналитические и стратегические навыки. Проводятся в течение учебного года.",
+    "type": "бизнес-симуляция",
+    "format": "смешанное_очно_онлайн",
+    "duration": "1-2 месяца",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["экономика", "менеджмент", "финансовая грамотность", "аналитика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "экономика", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-10-01 - 2025-11-15",
+      "event": "2025-11-20 - 2026-02-15",
+      "final": "2026-03-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Обучение в 8-11 классах", "Регистрация команды"],
+    "selectionProcess": "Регистрация в личном кабинете на сайте ГУУ",
+    "participantLimit": 200,
+    "website": "https://guu.ru/university/career_guidance/",
+    "regulations": null
+  },
+  {
+    "id": "practical_003",
+    "name": "Проектные конкурсы и питч-сессии ГУУ",
+    "description": "Конкурсы на лучший бизнес-проект для школьников. Возможность защитить идею перед инвесторами, преподавателями и экспертами.",
+    "type": "конкурс проектов",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3 месяца",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["предпринимательство", "бизнес-планирование", "инновации"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": "100%",
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "предпринимательство"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-02-28",
+      "event": "2026-03-01 - 2026-04-30",
+      "final": "2026-05-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Наличие бизнес-идеи", "Студенты в составе 1-5 человек", "Наличие тезисов проекта"],
+    "selectionProcess": "Подача документов онлайн, защита перед жюри из экспертов",
+    "participantLimit": 50,
+    "website": "https://guu.ru/university/career_guidance/",
+    "regulations": null
+  }
+]

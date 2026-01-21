@@ -1,0 +1,134 @@
+[
+  {
+    "id": "summer_001",
+    "name": "Летняя школа МЭИ",
+    "description": "Интенсивная летняя образовательная программа от МЭИ для школьников с занятиями по физике, математике и инженерии. Включает практические работы в лабораториях, мастер-классы и лекции от ведущих преподавателей.",
+    "type": "летняя школа",
+    "format": "очное_выездное",
+    "duration": "10-14 дней",
+    "targetAudience": ["8 класс", "9 класс", "10 класс"],
+    "subjects": ["Физика", "Математика", "Инженерное дело"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "экономика", "бизнес"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-05-31",
+      "event": "2026-06-15 - 2026-08-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 15000
+    },
+    "participationRequirements": ["Возраст 14-17 лет", "Регистрация на сайте"],
+    "selectionProcess": "Конкурсный отбор по заявкам",
+    "participantLimit": 100,
+    "website": "https://mpei.ru/internationalactivities/international_programs_for_students_MPEI/Pages/summer-school.aspx",
+    "regulations": null
+  },
+  {
+    "id": "summer_002",
+    "name": "Летняя школа UPC 2026 (Циндао, Китай)",
+    "description": "Международная летняя школа в партнёрстве с университетом UPC (Китай). Интенсивные курсы на английском языке по физике энергоресурсов и использованию низкопотенциального тепла. Погружение в международную образовательную среду.",
+    "type": "летняя школа",
+    "format": "очное_выездное",
+    "duration": "10-12 дней",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Физика", "Энергетика", "Английский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "IT"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-04-30",
+      "event": "2026-07-15 - 2026-08-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 35000
+    },
+    "participationRequirements": ["Английский язык (не ниже Upper Intermediate)", "Возраст 16-18 лет"],
+    "selectionProcess": "Конкурсный отбор, собеседование на английском",
+    "participantLimit": 30,
+    "website": "https://mpei.ru/news/Pages/adItem.aspx?adID=3002",
+    "regulations": null
+  },
+  {
+    "id": "summer_003",
+    "name": "Летний интенсив подготовки к CASE-IN",
+    "description": "Специализированный летний курс по подготовке к Международному инженерному чемпионату CASE-IN. Решение реальных инженерных кейсов, разработка проектов, работа в команде.",
+    "type": "летний интенсив",
+    "format": "очно",
+    "duration": "7-10 дней",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Инженерное дело", "Проектирование", "Математика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 10,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "бизнес", "экономика"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-05-31",
+      "event": "2026-06-20 - 2026-08-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьник 8-11 класса", "Интерес к техническому творчеству"],
+    "selectionProcess": "Регистрация на сайте",
+    "participantLimit": 150,
+    "website": "https://case-in.ru",
+    "regulations": null
+  },
+  {
+    "id": "summer_004",
+    "name": "Летняя школа МЭИ «Энергетика и инновации»",
+    "description": "Профильная летняя школа с направленностью на энергетику, возобновляемые источники энергии и инновационные технологии. Экскурсии на энергетические объекты и практические занятия.",
+    "type": "летняя школа",
+    "format": "очное_выездное",
+    "duration": "10 дней",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Физика", "Энергетика", "Математика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес"],
+    "dates": {
+      "registration": "2026-03-15 - 2026-05-15",
+      "event": "2026-06-20 - 2026-08-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 12000
+    },
+    "participationRequirements": ["Возраст 14-18 лет", "Интерес к энергетике"],
+    "selectionProcess": "Регистрация и анкетирование",
+    "participantLimit": 80,
+    "website": "https://mpei.ru/internationalactivities/jubilee/mobility/sum/Pages/default.aspx",
+    "regulations": null
+  }
+]

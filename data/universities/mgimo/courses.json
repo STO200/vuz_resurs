@@ -1,0 +1,274 @@
+[
+  {
+    "id": "course_dvi_language_mgimo",
+    "name": "Консультационный курс по ДВИ (английский язык)",
+    "description": "Интенсивный курс подготовки к дополнительному вступительному испытанию МГИМО по иностранному языку. 20 часов обучения за 10 дней. Уровень B2-C1.",
+    "type": "Очный курс подготовки",
+    "format": "очно",
+    "duration": "20 часов (10 дней)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Английский язык", "ДВИ МГИМО"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-07-31",
+      "event": "2026-06-01 - 2026-08-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 20000
+    },
+    "participationRequirements": ["Абитуриенты МГИМО", "Уровень английского не ниже B1"],
+    "selectionProcess": "Открытая запись, тестирование уровня языка",
+    "participantLimit": 15,
+    "website": "https://abiturient.mgimo.ru/pre",
+    "regulations": null
+  },
+  {
+    "id": "course_dvi_language_intensive",
+    "name": "Интенсивный курс подготовки к ДВИ по английскому языку",
+    "description": "Полный курс подготовки к ДВИ МГИМО по английскому. 50 часов обучения за 3 месяца с уделением внимания тонкостям экзамена и разбором тестов прошлых лет.",
+    "type": "Очный курс подготовки",
+    "format": "очно",
+    "duration": "50 часов (3 месяца)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Английский язык", "ДВИ МГИМО", "Грамматика", "Лексика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-06-30",
+      "event": "2026-03-01 - 2026-05-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 42000
+    },
+    "participationRequirements": ["Абитуриенты МГИМО", "Уровень английского не ниже Pre-Intermediate"],
+    "selectionProcess": "Открытая запись, тестирование уровня",
+    "participantLimit": 12,
+    "website": "https://abiturient.mgimo.ru/pre",
+    "regulations": null
+  },
+  {
+    "id": "course_dvi_language_annual",
+    "name": "Годичный курс подготовки к ДВИ по английскому языку",
+    "description": "Полный годичный курс подготовки к ДВИ (128 часов за 32 недели). Включает все аспекты подготовки к экзамену с регулярным тренингом на тестах прошлых лет.",
+    "type": "Очный курс подготовки",
+    "format": "очно",
+    "duration": "128 часов (32 недели, 1 год)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Английский язык", "ДВИ МГИМО", "Грамматика", "Лексика", "Чтение", "Письмо"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-08-01 - 2026-02-28",
+      "event": "2025-09-01 - 2026-05-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 64000
+    },
+    "participationRequirements": ["Будущие абитуриенты МГИМО", "Уровень английского не ниже Elementary"],
+    "selectionProcess": "Открытая запись, бесплатное тестирование уровня",
+    "participantLimit": 10,
+    "website": "https://mgimoexam.ru/o-mgimo/yazyikovyie-kursyi-v-mgimo/",
+    "regulations": null
+  },
+  {
+    "id": "course_online_language_international",
+    "name": "Онлайн-курсы подготовки для иностранных абитуриентов",
+    "description": "Дистанционные семестровые курсы по русскому и английскому языкам для иностранных абитуриентов МГИМО. Углубленное изучение лексико-грамматических разделов для поступления.",
+    "type": "Онлайн курс подготовки",
+    "format": "онлайн",
+    "duration": "64 часа за семестр",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Русский язык", "Английский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-06-30",
+      "event": "2026-02-01 - 2026-06-30",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 75000
+    },
+    "participationRequirements": ["Иностранные граждане", "Уровень языка не ниже B1", "Готовящиеся поступать на программы бакалавриата МГИМО"],
+    "selectionProcess": "Онлайн регистрация, уровневое тестирование",
+    "participantLimit": 20,
+    "website": "https://rusbac.mgimo.ru/online-courses/",
+    "regulations": null
+  },
+  {
+    "id": "course_ege_preparation_junior",
+    "name": "MGIMO Junior - курсы подготовки к ОГЭ и ЕГЭ",
+    "description": "Комплексная подготовка школьников 8-11 классов к ОГЭ и ЕГЭ по основным предметам: русский язык, математика, информатика, английский язык, обществознание, история и другим.",
+    "type": "Комбинированный курс",
+    "format": "смешанное_очно_онлайн",
+    "duration": "Круглогодично, от 2 до 6 месяцев",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Русский язык", "Математика", "Информатика", "Английский язык", "Обществознание", "История", "Литература"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-08-01 - 2026-05-31",
+      "event": "2025-09-01 - 2026-05-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 15000
+    },
+    "participationRequirements": ["Школьники 8-11 классов"],
+    "selectionProcess": "Открытая запись, вступительное тестирование уровня",
+    "participantLimit": null,
+    "website": "https://junior.mgimo.ru/courses",
+    "regulations": null
+  },
+  {
+    "id": "course_fdp_distant_preparation",
+    "name": "Дистанционные программы подготовки Факультета довузовской подготовки",
+    "description": "Дистанционные программы подготовки к поступлению на программы бакалавриата МГИМО. Занятия 1 раз в неделю по 4 акт. часа (февраль-май).",
+    "type": "Дистанционный подготовительный курс",
+    "format": "онлайн",
+    "duration": "4 недели (16 часов)",
+    "targetAudience": ["11 класс"],
+    "subjects": ["Английский язык", "Экономика", "Право", "Обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-01-31",
+      "event": "2026-02-01 - 2026-05-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 5000
+    },
+    "participationRequirements": ["Абитуриенты МГИМО", "Доступ в интернет"],
+    "selectionProcess": "Открытая запись",
+    "participantLimit": null,
+    "website": "https://fdp.mgimo.ru",
+    "regulations": null
+  },
+  {
+    "id": "course_online_finance_banking",
+    "name": "Онлайн-курсы МГИМО по финансам и банкам",
+    "description": "Бесплатные онлайн-курсы от МГИМО на платформе онлайн-обучения, посвященные финансам, банкам и финансовой системе. Курс 'Банки и банковский бизнес в условиях цифровой революции'.",
+    "type": "Онлайн-курс",
+    "format": "онлайн",
+    "duration": "6-8 недель",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансы", "Банковское дело", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика", "бизнес"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-02-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 9-11 классов", "Доступ в интернет"],
+    "selectionProcess": "Открытая регистрация на платформе",
+    "participantLimit": null,
+    "website": "https://online.mgimo.ru",
+    "regulations": null
+  },
+  {
+    "id": "course_dvi_online_distance",
+    "name": "Онлайн-курс подготовки к ДВИ 'Английский язык: путь к олимпийским высотам'",
+    "description": "Дистанционный курс подготовки к ДВИ МГИМО по английскому языку от специализированной платформы. Интенсивная подготовка с изучением тонкостей экзамена и стратегий выполнения заданий.",
+    "type": "Онлайн-курс подготовки",
+    "format": "онлайн",
+    "duration": "12-16 недель",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Английский язык", "ДВИ МГИМО"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-06-30",
+      "event": "2026-02-01 - 2026-06-30",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 25000
+    },
+    "participationRequirements": ["Абитуриенты МГИМО", "Уровень английского не ниже B1"],
+    "selectionProcess": "Онлайн регистрация и оплата",
+    "participantLimit": null,
+    "website": "https://dvinglish.ru",
+    "regulations": null
+  }
+]

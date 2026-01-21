@@ -1,0 +1,223 @@
+[
+  {
+    "id": "online_001",
+    "name": "YouTube канал Президентской академии РАНХиГС",
+    "description": "Официальный YouTube канал РАНХиГС с лекциями преподавателей, видеоуроками, интервью со студентами и выпускниками. Содержит контент по экономике, менеджменту и другим направлениям подготовки.",
+    "type": "онлайн-канал",
+    "format": "онлайн",
+    "duration": "по запросу",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["все направления"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "не требуется",
+      "event": "постоянно обновляется",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Доступ в интернет",
+      "Аккаунт YouTube (опционально для подписки)"
+    ],
+    "selectionProcess": "Нет отбора, открытый контент",
+    "participantLimit": null,
+    "website": "https://www.youtube.com/@rusacademy",
+    "regulations": "https://www.ranepa.ru/"
+  },
+  {
+    "id": "online_002",
+    "name": "Telegram канал 'Абитура. Президентская академия'",
+    "description": "Официальный Telegram канал РАНХиГС для абитуриентов и школьников. Публикуются новости о конкурсах, олимпиадах, днях открытых дверей, советы по подготовке и интересные факты об Академии.",
+    "type": "онлайн-сообщество",
+    "format": "онлайн",
+    "duration": "постоянный контент",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["все направления"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "не требуется, просто подписка",
+      "event": "постоянно обновляется",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Приложение Telegram",
+      "Интернет-соединение"
+    ],
+    "selectionProcess": "Открытый канал, доступен всем",
+    "participantLimit": null,
+    "website": "https://t.me/ranepaabitura",
+    "regulations": "https://www.ranepa.ru/"
+  },
+  {
+    "id": "online_003",
+    "name": "Сообщество РАНХиГС в VK (ВКонтакте)",
+    "description": "Официальная группа РАНХиГС ВКонтакте для школьников и абитуриентов. Новости о конкурсах, олимпиадах, жизни студентов и советы по поступлению. Возможность задавать вопросы и общаться с другими абитуриентами.",
+    "type": "онлайн-сообщество",
+    "format": "онлайн",
+    "duration": "постоянный контент",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["все направления"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "не требуется",
+      "event": "постоянно обновляется",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Профиль ВКонтакте",
+      "Доступ в интернет"
+    ],
+    "selectionProcess": "Открытое сообщество",
+    "participantLimit": null,
+    "website": "https://vk.com/theacademy",
+    "regulations": "https://www.ranepa.ru/"
+  },
+  {
+    "id": "online_004",
+    "name": "Портал для школьников РАНХиГС (my.ranepa.ru/shkolnik)",
+    "description": "Централизованный онлайн-портал Академии для школьников с информацией о программах подготовки, конкурсах, олимпиадах и мероприятиях. Включает регистрацию на события и доступ к учебным материалам.",
+    "type": "образовательный портал",
+    "format": "онлайн",
+    "duration": "постоянный доступ",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["все направления"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "бесплатная регистрация на портале",
+      "event": "доступен круглый год",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Электронная почта",
+      "Интернет-соединение"
+    ],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": null,
+    "website": "https://my.ranepa.ru/shkolnik/",
+    "regulations": "https://my.ranepa.ru/shkolnik/"
+  },
+  {
+    "id": "online_005",
+    "name": "Конференция по финансовой грамотности (finlit-conf.ru)",
+    "description": "Интернет-платформа и координационный центр конференций по финансовой грамотности с участием РАНХиГС. Размещает записи вебинаров, предоставляет учебные материалы и информацию о программах финансового образования.",
+    "type": "образовательный портал",
+    "format": "онлайн",
+    "duration": "постоянный доступ",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансы", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика"],
+    "dates": {
+      "registration": "не требуется или бесплатная регистрация",
+      "event": "постоянно обновляется",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Доступ в интернет"
+    ],
+    "selectionProcess": "Открытый доступ",
+    "participantLimit": null,
+    "website": "https://www.finlit-conf.ru/",
+    "regulations": "https://www.finlit-conf.ru/"
+  },
+  {
+    "id": "online_006",
+    "name": "Карьерный центр РАНХиГС (онлайн-услуги)",
+    "description": "Виртуальные сервисы карьерного центра для школьников и студентов. Включает тестирование способностей, консультации по выбору специальности и информацию о стажировках.",
+    "type": "образовательный ресурс",
+    "format": "онлайн",
+    "duration": "постоянный доступ",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["профориентация"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "бесплатная регистрация",
+      "event": "доступен круглый год",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Регистрация на сайте РАНХиГС",
+      "Электронная почта"
+    ],
+    "selectionProcess": "Открытый доступ после регистрации",
+    "participantLimit": null,
+    "website": "https://www.ranepa.ru/career-center/",
+    "regulations": "https://www.ranepa.ru/"
+  }
+]

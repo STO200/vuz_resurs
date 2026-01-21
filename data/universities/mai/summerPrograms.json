@@ -1,0 +1,69 @@
+[
+  {
+    "id": "mai_letnyaya_shkola_teknopark",
+    "name": "Летние программы технопарка «Траектория взлёта»",
+    "description": "Летние смены для школьников в детском технопарке МАИ включают обучение по технологическим направлениям с мастер-классами от опытных преподавателей. Доступно несколько циклов обучения в течение лета (июль-август).",
+    "type": "Летняя программа",
+    "format": "очно",
+    "duration": "1-4 недели",
+    "targetAudience": ["5 класс", "6 класс", "7 класс", "8 класс", "9 класс", "10 класс"],
+    "subjects": ["Авиация", "Беспилотники", "Программирование", "Робототехника", "Инженерная физика", "3D-моделирование"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": "50%",
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-06-30",
+      "program": "2026-06-01 - 2026-08-31",
+      "cycles": "3 цикла по программам в течение лета"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0,
+      "note": "Уточняется на сайте; питание и материалы включены в стоимость"
+    },
+    "participationRequirements": ["Быть школьником", "Интерес к выбранному направлению"],
+    "selectionProcess": "Открытый набор с регистрацией на сайте",
+    "website": "https://traektoria.mai.ru/",
+    "regulations": "https://traektoria.mai.ru/"
+  },
+  {
+    "id": "mai_global_summer_school_shujtu",
+    "name": "Global Summer School в Шанхайском университете Цзяотун",
+    "description": "Летняя программа в одном из лучших университетов мира для студентов и старшеклассников МАИ. Программа включает обучение по различным дисциплинам, экскурсии по местным достопримечательностям и культурные мероприятия.",
+    "type": "Международная летняя программа",
+    "format": "очно_выездное",
+    "duration": "2 недели",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Аэрокосмическая техника", "ESG решения", "Здравоохранение", "Китайское право", "AI в культуре", "Энергетика", "Лингвистика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-03-01 - 2026-05-31",
+      "program": "2026-06-30 - 2026-07-13"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0,
+      "note": "Уточняется в МАИ; проживание и питание могут быть включены"
+    },
+    "participationRequirements": ["Быть студентом или старшеклассником МАИ", "Английский язык на уровне B1 и выше"],
+    "selectionProcess": "Отбор на основе академических показателей и мотивационного письма",
+    "website": "https://mai.ru/education/international/maisjtu/summer_school/",
+    "regulations": "https://mai.ru/education/international/maisjtu/summer_school/"
+  }
+]

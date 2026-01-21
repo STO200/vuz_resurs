@@ -1,0 +1,206 @@
+[
+  {
+    "id": "online_001",
+    "name": "YouTube-канал МФТИ - Лекции и лекции-вебинары",
+    "description": "Официальный YouTube-канал МФТИ с записями лекций преподавателей, вебинаров для школьников, видео о жизни студентов, факультетах и программах обучения. Ресурс полностью бесплатен и открыт для всех.",
+    "type": "видео_контент",
+    "format": "онлайн",
+    "duration": "на любое время",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Физика", "Математика", "Экономика", "Наука", "Карьера"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интернет и устройство для просмотра"],
+    "selectionProcess": "Открытый доступ к контенту",
+    "participantLimit": null,
+    "website": "https://www.youtube.com/@miptru",
+    "regulations": null
+  },
+  {
+    "id": "online_002",
+    "name": "Telegram-сообщество МФТИ (@miptru)",
+    "description": "Официальное Telegram-сообщество МФТИ с новостями, объявлениями о вступительных испытаниях, олимпиадах, событиях, а также советами абитуриентов. Активное сообщество школьников и абитуриентов.",
+    "type": "сообщество",
+    "format": "онлайн",
+    "duration": "на любое время",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Информация о поступлении", "Новости МФТИ", "Советы абитуриентов"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Телеграм-аккаунт", "Подписка на канал"],
+    "selectionProcess": "Открытая подписка",
+    "participantLimit": null,
+    "website": "https://t.me/miptru",
+    "regulations": null
+  },
+  {
+    "id": "online_003",
+    "name": "Портал 'Поступи онлайн' МФТИ",
+    "description": "Официальный портал для поступления в МФТИ с информацией о программах, требованиях, сроках, процедуре приема. Полезная информация для абитуриентов на сайте old.mipt.ru/russian/entrance/.",
+    "type": "портал",
+    "format": "онлайн",
+    "duration": "на любое время",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Информация о поступлении", "Программы обучения", "Требования"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интернет и браузер"],
+    "selectionProcess": "Открытый доступ",
+    "participantLimit": null,
+    "website": "https://start.mipt.ru",
+    "regulations": null
+  },
+  {
+    "id": "online_004",
+    "name": "Центр карьеры МФТИ - Портал стажировок и вакансий",
+    "description": "Онлайн-портал центра карьеры МФТИ с информацией о стажировках, вакансиях для студентов, информацией о компаниях-работодателях, событиях по развитию карьеры и дню карьеры МФТИ.",
+    "type": "карьерный_портал",
+    "format": "онлайн",
+    "duration": "на любое время",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Карьера", "Стажировки", "Трудоустройство", "Компании-партнеры"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интернет и браузер"],
+    "selectionProcess": "Открытый доступ",
+    "participantLimit": null,
+    "website": "https://careerday-mipt.ru",
+    "regulations": null
+  },
+  {
+    "id": "online_005",
+    "name": "Базы задач для олимпиад и подготовки - Физтеха",
+    "description": "Свободно доступные базы задач с олимпиад МФТИ, решениями и разборами. Материалы подготовки к олимпиадам по физике, математике, информатике, экономике. Ресурс для самостоятельной подготовки.",
+    "type": "образовательный_ресурс",
+    "format": "онлайн",
+    "duration": "на любое время",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Физика", "Математика", "Информатика", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интернет"],
+    "selectionProcess": "Открытый доступ",
+    "participantLimit": null,
+    "website": "https://go2phystech.ru/2022/05/13/olimpiadnie_zadachi_po_matematike_i_fizike/",
+    "regulations": null
+  },
+  {
+    "id": "online_006",
+    "name": "Подкаст 'МФТИ Digital' - о стартапах и инновациях",
+    "description": "Подкаст от МФТИ о предпринимательстве, инновациях, цифровых трендах с приглашением экспертов из индустрии, основателей стартапов и лидеров бизнеса. Доступен на всех платформах подкастов.",
+    "type": "подкаст",
+    "format": "онлайн",
+    "duration": "на любое время",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Предпринимательство", "Инновации", "Бизнес", "Технологии"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Наушники и доступ к подкастам (Apple, Spotify, Яндекс.Музыка и т.д.)"],
+    "selectionProcess": "Открытый доступ",
+    "participantLimit": null,
+    "website": "https://podcast.mipt.ru",
+    "regulations": null
+  }
+]

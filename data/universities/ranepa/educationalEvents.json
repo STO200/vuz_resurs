@@ -1,0 +1,190 @@
+[
+  {
+    "id": "edu_001",
+    "name": "Вебинары по финансовой грамотности от РАНХиГС",
+    "description": "Регулярные онлайн-вебинары по финансовой грамотности для школьников. Охватывают темы: налоги, кредиты, финансовое планирование, потребительские права. Проводятся экспертами от РАНХиГС и Министерства финансов РФ.",
+    "type": "вебинар",
+    "format": "онлайн",
+    "duration": "1-2 часа",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансы", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика", "бизнес"],
+    "dates": {
+      "registration": "за 1-2 дня до вебинара",
+      "event": "еженедельно, в течение всего года",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьник 8-11 класса",
+      "Доступ в интернет",
+      "Регистрация на сайте finlit-conf.ru"
+    ],
+    "selectionProcess": "Открытая регистрация на каждый вебинар",
+    "participantLimit": 5000,
+    "website": "https://www.finlit-conf.ru/",
+    "regulations": "https://www.finlit-conf.ru/"
+  },
+  {
+    "id": "edu_002",
+    "name": "Лекции преподавателей РАНХиГС для школьников",
+    "description": "Открытые лекции ведущих преподавателей Академии по экономике, менеджменту, праву и другим направлениям. Проводятся как в очном, так и онлайн-формате.",
+    "type": "лекция",
+    "format": "смешанное_очно_онлайн",
+    "duration": "1-2 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Менеджмент", "Право", "Обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "в течение года по расписанию",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьник 9-11 класса",
+      "Регистрация на лекцию"
+    ],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": 500,
+    "website": "https://www.ranepa.ru/",
+    "regulations": "https://my.ranepa.ru/shkolnik/"
+  },
+  {
+    "id": "edu_003",
+    "name": "Мастер-классы от преподавателей и экспертов РАНХиГС",
+    "description": "Интерактивные мастер-классы от преподавателей и практиков по различным навыкам: презентация, аналитика, создание чат-ботов, дизайн. Часть программы дней открытых дверей и других мероприятий.",
+    "type": "мастер-класс",
+    "format": "очно",
+    "duration": "1-3 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["все направления"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "в течение года, особенно в дни открытых дверей",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьник 9-11 класса",
+      "Регистрация на конкретный мастер-класс"
+    ],
+    "selectionProcess": "Открытая регистрация, ограничение мест",
+    "participantLimit": 300,
+    "website": "https://www.ranepa.ru/dni-otkrytykh-dverey/",
+    "regulations": "https://www.ranepa.ru/"
+  },
+  {
+    "id": "edu_004",
+    "name": "Конференции с участием школьников от РАНХиГС",
+    "description": "Научные конференции и форумы, на которых школьники могут представить свои исследовательские проекты или выступить в качестве слушателей. Помогает развить исследовательские навыки.",
+    "type": "конференция",
+    "format": "очно",
+    "duration": "1-3 дня",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Экономика", "Бизнес", "Общественные науки"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-01-15 - 2026-12-15",
+      "event": "в течение года по расписанию",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьник 10-11 класса",
+      "Для участников со своими проектами: подготовленная работа",
+      "Регистрация"
+    ],
+    "selectionProcess": "Открытая регистрация для слушателей, конкурсный отбор для участников с проектами",
+    "participantLimit": 1000,
+    "website": "https://www.ranepa.ru/nauka/",
+    "regulations": "https://www.ranepa.ru/"
+  },
+  {
+    "id": "edu_005",
+    "name": "Семинары по направлениям подготовки РАНХиГС",
+    "description": "Тематические семинары для школьников по конкретным направлениям: экономика, менеджмент, финансы. Проводятся экспертами и позволяют глубже ознакомиться со специальностями.",
+    "type": "семинар",
+    "format": "очно",
+    "duration": "2-4 часа",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Экономика", "Менеджмент", "Финансы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "в течение года по расписанию",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьник 10-11 класса",
+      "Интерес к направлению",
+      "Регистрация"
+    ],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": 400,
+    "website": "https://www.ranepa.ru/",
+    "regulations": "https://my.ranepa.ru/shkolnik/"
+  }
+]

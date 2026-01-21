@@ -1,0 +1,101 @@
+[
+  {
+    "id": "lesh_ile_summer_school",
+    "name": "Летняя экономическая школа ILE (ЛЭШ ILE)",
+    "description": "Крупнейшая выездная экономическая школа для юных экономистов. Проводится в августе в течение 17 дней. Два трека: «Экономика» и «Бизнес-кейсы и анализ данных». Лекции от топ-менеджеров крупных компаний. Доступны гранты до 100%.",
+    "type": "summer_school",
+    "format": "выездное",
+    "duration": "17 дней",
+    "subjects": ["Экономика", "Бизнес-кейсы", "Анализ данных", "Финансовая грамотность"],
+    "targetAudience": ["8 класс", "9 класс", "10 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": "100%",
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "финансы"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-05-31",
+      "grants_deadline": "2026-05-20",
+      "program": "2026-08-01 - 2026-08-17"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 99000,
+      "note": "Проживание и питание включены. Возможны скидки и гранты до 100%"
+    },
+    "participationRequirements": ["Школьники 8-10 классов", "Интерес к экономике", "Заполненное мотивационное письмо"],
+    "selectionProcess": "Отбор по резюме, мотивационному письму, олимпиадным успехам",
+    "website": "https://lesh.info",
+    "regulations": null
+  },
+  {
+    "id": "hse_summer_entrepreneurship_school",
+    "name": "Летняя многопрофильная школа «Грани предпринимательства» (ВШЭ)",
+    "description": "Летняя выездная школа для школьников 8-10 классов, интересующихся предпринимательством. Проводится в июле на базе санатория «Буран» в Московской области.",
+    "type": "summer_school",
+    "format": "выездное",
+    "duration": "11 дней (4-14 июля)",
+    "subjects": ["Предпринимательство", "Бизнес", "Инновации"],
+    "targetAudience": ["8 класс", "9 класс", "10 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-05-26",
+      "program": "2026-07-04 - 2026-07-14"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 20000,
+      "note": "Только оплата, проживание и питание дополнительно"
+    },
+    "participationRequirements": ["Школьники 8-10 классов", "Мотивационное письмо", "Видеовизитка", "Портфолио"],
+    "selectionProcess": "Отбор по мотивационному письму, видеовизитке и портфолио",
+    "website": "https://www.hse.ru/news/edu/921498806.html",
+    "regulations": null
+  },
+  {
+    "id": "kidsdev_summer_camps",
+    "name": "KIDSDEV - Летние бизнес-каникулы",
+    "description": "Короткие летние программы бизнес-образования для детей 7-16 лет. Выездные и городские программы. Совместные проекты с профессионалами из крупных компаний (Mail.ru, SuperJob и др.).",
+    "type": "summer_camp",
+    "format": "очно_выездное",
+    "duration": "от 5 до 10 дней",
+    "subjects": ["Бизнес", "Маркетинг", "Финансы", "Веб-дизайн", "Предпринимательство"],
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "финансы", "менеджмент"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-07-31",
+      "program": "2026-06-01 - 2026-08-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 45000,
+      "note": "Стоимость программы, варьируется в зависимости от продолжительности и формата"
+    },
+    "participationRequirements": ["Школьники 7-16 лет", "Интерес к бизнесу"],
+    "website": "https://kidsdev.academy",
+    "regulations": null
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "id": "olymp_mgimo_digital_economy_2026",
+    "name": "Олимпиада МГИМО по цифровой экономике",
+    "description": "Олимпиада для школьников по тематике цифровой экономики, состоящая из общетеоретической части и кейс-заданий. Проводится Факультетом международных экономических отношений МГИМО.",
+    "type": "Олимпиада школьного уровня",
+    "format": "онлайн",
+    "duration": "120 минут (выполнение заданий)",
+    "targetAudience": ["11 класс"],
+    "subjects": ["Экономика", "Цифровая экономика", "Международные экономические отношения"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 10,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "финансы"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-04-05",
+      "event": "2026-04-11",
+      "final": "2026-04-30"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 11 классов", "Российские и иностранные участники"],
+    "selectionProcess": "Заочный формат, онлайн заполнение анкеты и выполнение заданий",
+    "participantLimit": null,
+    "website": "https://olimp-econom.mgimo.ru",
+    "regulations": null
+  },
+  {
+    "id": "olymp_mgimo_humanitarian",
+    "name": "Олимпиада МГИМО по гуманитарным и социальным наукам",
+    "description": "Олимпиада МГИМО МИД России совместно с редакцией 'Российской газеты' по профилю гуманитарные и социальные науки. Входит в Перечень олимпиад, дающих льготы при поступлении в вузы.",
+    "type": "Перечневая олимпиада II уровня",
+    "format": "смешанное_очно_онлайн",
+    "duration": "120 минут",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["История", "Обществознание", "Право", "Литература"],
+    "benefits": {
+      "bvi": true,
+      "points100": true,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "экономика"],
+    "dates": {
+      "registration": "2025-10-01 - 2026-01-31",
+      "event": "2026-02-15",
+      "final": "2026-03-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Отборочный этап обязателен", "Минимум 75 баллов ЕГЭ для подтверждения льготы"],
+    "selectionProcess": "Двухэтапная (отборочный и заключительный)",
+    "participantLimit": null,
+    "website": "https://olymp.mgimo.ru",
+    "regulations": null
+  },
+  {
+    "id": "vso_economics",
+    "name": "Всероссийская олимпиада школьников по экономике",
+    "description": "Престижная всероссийская олимпиада по экономике с региональным и заключительным этапами. Наибольшая льгота при поступлении в экономические вузы страны.",
+    "type": "Всероссийская олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "180 минут",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Математика"],
+    "benefits": {
+      "bvi": true,
+      "points100": true,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "финансы", "менеджмент"],
+    "dates": {
+      "registration": "2025-09-01 - 2025-10-31",
+      "event": "2026-01-20 - 2026-02-20",
+      "final": "2026-03-01 - 2026-03-10"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 8-11 класса", "Начинаются с отборочного этапа"],
+    "selectionProcess": "Районный, региональный и заключительный этапы",
+    "participantLimit": null,
+    "website": "https://vseros.hse.ru",
+    "regulations": null
+  },
+  {
+    "id": "vso_socialstudies",
+    "name": "Всероссийская олимпиада школьников по обществознанию",
+    "description": "Олимпиада по обществознанию как один из основных предметов, связанных с экономикой и бизнесом. Включает разделы по экономике и финансовой грамотности.",
+    "type": "Всероссийская олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "180 минут",
+    "targetAudience": ["6 класс", "7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Обществознание", "Экономика", "Право", "Политология"],
+    "benefits": {
+      "bvi": true,
+      "points100": true,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-09-01 - 2025-10-31",
+      "event": "2026-01-20 - 2026-02-20",
+      "final": "2026-03-01 - 2026-03-10"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 6-11 класса"],
+    "selectionProcess": "Районный, региональный и заключительный этапы",
+    "participantLimit": null,
+    "website": "https://олимпиада.рф",
+    "regulations": null
+  },
+  {
+    "id": "hse_higherappraisal_econ",
+    "name": "Олимпиада ВШЭ 'Высшая проба' по экономике",
+    "description": "Всероссийская олимпиада школьников 'Высшая проба' от ВШЭ по профилям 'Экономика' и 'Основы бизнеса'. Дает льготы при поступлении в ведущие вузы.",
+    "type": "Перечневая олимпиада I уровня",
+    "format": "смешанное_очно_онлайн",
+    "duration": "180 минут",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Математика", "Обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": true,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-10-01 - 2026-01-31",
+      "event": "2026-02-15 - 2026-02-22",
+      "final": "2026-03-15 - 2026-03-22"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Отборочный этап обязателен", "Минимум 75 баллов ЕГЭ для подтверждения"],
+    "selectionProcess": "Отборочный этап (онлайн) и заключительный этап (очно)",
+    "participantLimit": null,
+    "website": "https://olymp.hse.ru/mmo/eco",
+    "regulations": null
+  },
+  {
+    "id": "case_championship_key",
+    "name": "Всероссийский кейс-чемпионат 'КЛЮЧ'",
+    "description": "Всероссийский кейс-чемпионат школьников по экономике и предпринимательству 'КЛЮЧ'. Команды решают реальные бизнес-задачи и разрабатывают собственные проекты. Проходит при поддержке Сбербанка и других компаний.",
+    "type": "Кейс-чемпионат",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2 недели на решение кейса",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Бизнес", "Предпринимательство", "Финансы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "экономика", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-08-20 - 2025-09-30",
+      "event": "2025-10-01 - 2026-03-31",
+      "final": "2026-02-20 - 2026-03-10"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Команда из 2-4 человек", "Школьники и студенты СПО", "Возраст до 18 лет"],
+    "selectionProcess": "Онлайн регистрация, решение кейса за определенный период, финальный этап",
+    "participantLimit": null,
+    "website": "https://olymp.hse.ru/championship/",
+    "regulations": null
+  },
+  {
+    "id": "gpt_challenge_mgimo",
+    "name": "MGIMO GPT Challenge - промпт-хакатон",
+    "description": "Первый в России межвузовский промпт-хакатон в области маркетинга и бизнеса. Конкурс для студентов и выпускников вузов по использованию ИИ и нейросетей в бизнес-решениях.",
+    "type": "Хакатон",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2-3 дня интенсива",
+    "targetAudience": ["11 класс"],
+    "subjects": ["Маркетинг", "Бизнес", "Искусственный интеллект", "Цифровые технологии"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": "50%",
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "финансы", "IT"],
+    "dates": {
+      "registration": "2025-11-01 - 2025-11-30",
+      "event": "2025-12-01 - 2025-12-04",
+      "final": "2025-12-04"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Выпускники и студенты вузов", "Команды приветствуются"],
+    "selectionProcess": "Онлайн регистрация, интенсивная работа на площадке хакатона",
+    "participantLimit": 50,
+    "website": "https://mgimo.ru/about/news/main/gpt-challenge/",
+    "regulations": null
+  },
+  {
+    "id": "mission_possible_financier",
+    "name": "Олимпиада 'Миссия выполнима. Твое призвание - финансист!'",
+    "description": "Всероссийская олимпиада по финансовой грамотности для школьников. Включает задания по экономике, финансам и личному финансовому планированию.",
+    "type": "Перечневая олимпиада II уровня",
+    "format": "онлайн",
+    "duration": "120 минут",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансовая грамотность", "Обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": true,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика", "бизнес"],
+    "dates": {
+      "registration": "2025-10-01 - 2026-01-31",
+      "event": "2026-02-01 - 2026-02-15",
+      "final": "2026-02-28"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 8-11 класса", "Минимум 75 баллов ЕГЭ для подтверждения льготы"],
+    "selectionProcess": "Онлайн выполнение тестовых заданий",
+    "participantLimit": null,
+    "website": "https://olimpiada.ru",
+    "regulations": null
+  },
+  {
+    "id": "finathlon",
+    "name": "Финатлон - Всероссийская олимпиада по финансовой грамотности",
+    "description": "Всероссийская олимпиада 'Финатлон для старшеклассников' по финансовой грамотности, устойчивому развитию и защите прав потребителей.",
+    "type": "Перечневая олимпиада III уровня",
+    "format": "онлайн",
+    "duration": "120 минут",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансовая грамотность", "Обществознание", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-01-31",
+      "event": "2026-02-01 - 2026-02-28",
+      "final": "2026-03-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 8-11 класса"],
+    "selectionProcess": "Онлайн тестирование",
+    "participantLimit": null,
+    "website": "https://finatlon.org",
+    "regulations": null
+  }
+]

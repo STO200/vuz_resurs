@@ -1,0 +1,97 @@
+[
+  {
+    "id": "otkrytie_lekcii_shkol_mstu",
+    "name": "Открытые лекции для школьников на различные темы",
+    "description": "Серия открытых лекций от преподавателей и научных сотрудников МГТУ по актуальным темам инженерии, экономики, инноваций. Лекции проводятся в гибридном формате (очно и онлайн).",
+    "type": "лекция",
+    "format": "смешанное_очно_онлайн",
+    "duration": "1,5-2 часа",
+    "location": "Москва, МГТУ им. Баумана, аудитории факультетов",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Инженерия", "Инновационные технологии", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "event": "2025-10-01 - 2026-05-31 (по расписанию)"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 9-11 классов", "Регистрация за 1-2 недели до лекции"],
+    "website": "https://t.me/s/pk_bmstu",
+    "regulations": "https://t.me/s/pk_bmstu"
+  },
+  {
+    "id": "master_klassy_shkol",
+    "name": "Мастер-классы от преподавателей МГТУ",
+    "description": "Интерактивные мастер-классы по 3D-моделированию, программированию, электронике, оптике и другим направлениям. Проводятся преподавателями и научными сотрудниками МГТУ на основе передовых технологий и лабораторий.",
+    "type": "мастер-класс",
+    "format": "очно",
+    "duration": "2-3 часа",
+    "location": "Москва, лаборатории и кампусы МГТУ",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["3D-моделирование", "Программирование", "Электроника", "Оптика", "Инженерия"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "event": "2025-10-01 - 2026-05-31 (по графику мероприятий)"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 8-11 классов", "Регистрация на сайте или через приёмную комиссию"],
+    "website": "https://kf.bmstu.ru/events/letnyaya-shkola-inzhenernye-smeny-2025",
+    "regulations": "https://kf.bmstu.ru/events/letnyaya-shkola-inzhenernye-smeny-2025"
+  },
+  {
+    "id": "konferentsiya_molodih_uchenikh",
+    "name": "VI Международный конкурс молодых ученых в сфере интеллектуальной собственности",
+    "description": "Конкурс для школьников 9-11 классов с научными работами в области инноваций и интеллектуальной собственности. Включает презентацию результатов перед экспертным жюри на базе МГТУ.",
+    "type": "конференция",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2-3 месяца подготовка, 1-2 дня конференция",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Научные исследования", "Инновации", "Интеллектуальная собственность"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-15 - 2026-02-28",
+      "event": "2026-04-15 - 2026-04-17"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Иметь научную работу", "Школьники 9-11 классов", "Подать заявку и работу"],
+    "selectionProcess": "Отбор работ по критериям качества и актуальности",
+    "participantLimit": 100,
+    "website": "https://t.me/s/pk_bmstu",
+    "regulations": "https://t.me/s/pk_bmstu"
+  }
+]

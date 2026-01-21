@@ -1,0 +1,113 @@
+[
+  {
+    "id": "kresh_2026",
+    "name": "XVII Международный школьный конкурс РЭШ по экономике (КРЭШ)",
+    "description": "Международный онлайн-конкурс по экономике для школьников всех классов, направленный на развитие экономического мышления и критического анализа. Проводится Российской экономической школой совместно с портором ILoveEconomics.",
+    "type": "competition",
+    "format": "онлайн",
+    "duration": "несколько месяцев (две стадии: февраль-март и май)",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Логика", "Критическое мышление"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 8,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "финансы"],
+    "dates": {
+      "registration": "до 2026-02-14 21:00",
+      "event": "2026-02-16 - 2026-05-06",
+      "qualification": "2026-02-16 - 2026-03-16",
+      "final": "2026-05-06"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть учащимся 7-11 класса",
+      "Зарегистрироваться на сайте конкурса",
+      "Независимо от формы обучения и места жительства"
+    ],
+    "selectionProcess": "Отборочный этап: участники, набравшие верхние 50% баллов первого этапа переходят на финальный этап. Для диплома необходимо набрать минимальное количество баллов и на втором этапе получить не менее 15 из 30 баллов.",
+    "participantLimit": null,
+    "website": "http://schoolcontest.nes.ru/",
+    "regulations": "https://admissions.nes.ru/events/xvii-mezhdunarodnyy-shkolnyy-konkurs-resh-po-ekonomike-2026/"
+  },
+  {
+    "id": "olympiada_fib_mnf",
+    "name": "Олимпиада РЭШ для программ ФИБ и МНФ",
+    "description": "Вступительная олимпиада для поступающих на магистерские программы 'Финансы, инвестиции, банки' и 'Мастер наук по финансам'. Является альтернативным способом поступления.",
+    "type": "olympiad",
+    "format": "очно",
+    "duration": "1 день",
+    "targetAudience": [],
+    "subjects": ["Математика", "Финансы", "Экономика"],
+    "benefits": {
+      "bvi": true,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["финансы", "экономика"],
+    "dates": {
+      "registration": "по уточнению",
+      "event": "2026-04-04"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть абитуриентом магистратуры РЭШ",
+      "Иметь высшее образование (бакалавриат или специалитет)"
+    ],
+    "selectionProcess": "Отбор по результатам олимпиады",
+    "participantLimit": null,
+    "website": "https://olymp.nes.ru",
+    "regulations": null
+  },
+  {
+    "id": "olympiada_mae_iift",
+    "name": "Олимпиада РЭШ для программ МАЭ и ИИФТ",
+    "description": "Вступительная олимпиада для поступающих на магистерские программы 'Магистр экономики' и 'Искусственный интеллект и финансовые технологии'. Позволяет получить поступление без экзаменов.",
+    "type": "olympiad",
+    "format": "очно",
+    "duration": "1 день",
+    "targetAudience": [],
+    "subjects": ["Математика", "Экономика", "Программирование"],
+    "benefits": {
+      "bvi": true,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["экономика", "финансы", "IT"],
+    "dates": {
+      "registration": "по уточнению",
+      "event": "2026-04-18"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть абитуриентом магистратуры РЭШ",
+      "Иметь высшее образование (бакалавриат или специалитет)"
+    ],
+    "selectionProcess": "Отбор по результатам олимпиады",
+    "participantLimit": null,
+    "website": "https://olymp.nes.ru",
+    "regulations": null
+  }
+]

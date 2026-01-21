@@ -1,0 +1,216 @@
+[
+  {
+    "id": "t_academy_backend",
+    "name": "Т-Академия: Образовательная программа по разработке и аналитике",
+    "description": "Бесплатная образовательная программа от Т-Образования с наставниками из ИТ-индустрии. Обучение применению теории на практике с прикладными знаниями для работы в ИТ.",
+    "type": "курс",
+    "format": "онлайн",
+    "duration": "несколько месяцев",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Программирование", "Backend", "Аналитика", "Data Science"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "бизнес"],
+    "dates": {
+      "registration": "2025-12-01 - 2026-05-31",
+      "event": "вечерние занятия по расписанию"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть школьником старших классов",
+      "Иметь базовые знания в программировании",
+      "Пройти вступительные испытания",
+      "Заполнить анкету"
+    ],
+    "selectionProcess": "Отбор по анкете и вступительным экзаменам",
+    "participantLimit": 150,
+    "website": "https://education.tbank.ru/academy/backend/",
+    "regulations": null
+  },
+  {
+    "id": "t_education_olympiad_math",
+    "name": "Бесплатные курсы по олимпиадной математике от Т-Образования",
+    "description": "Интенсивная подготовка к ВсОШ по математике с опытными тренерами, авторами задач и членами жюри. Включает лекции, тренировочные олимпиады и зачеты.",
+    "type": "курс",
+    "format": "смешанное_очно_онлайн",
+    "duration": "12 месяцев",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Алгебра", "Геометрия"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "финансы"],
+    "dates": {
+      "registration": "2026-09-01 - 2026-12-31",
+      "event": "сентябрь 2026 - май 2027"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть школьником",
+      "Зарегистрироваться на платформе"
+    ],
+    "selectionProcess": "Открытый набор",
+    "website": "https://education.tbank.ru/school/generation/math/",
+    "regulations": null
+  },
+  {
+    "id": "t_education_programming",
+    "name": "Курсы по информатике и программированию от Т-Образования",
+    "description": "Бесплатные курсы для начинающих и продвинутых по информатике, информационной безопасности, алгоритмам и структурам данных.",
+    "type": "курс",
+    "format": "смешанное_очно_онлайн",
+    "duration": "10-12 месяцев",
+    "targetAudience": ["5 класс", "6 класс", "7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Информатика", "Программирование", "Информационная безопасность", "Алгоритмы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "бизнес"],
+    "dates": {
+      "registration": "2026-09-01 - 2026-12-31",
+      "event": "сентябрь 2026 - май 2027"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть школьником",
+      "Для некоторых курсов может потребоваться отбор"
+    ],
+    "selectionProcess": "Открытый набор на основные курсы, отбор для интенсивных программ",
+    "website": "https://education.tbank.ru/school/olympiads/",
+    "regulations": null
+  },
+  {
+    "id": "central_uni_t_classes",
+    "name": "Т-Классы при Центральном университете",
+    "description": "Углубленное изучение программирования в Центральном университете. Очные занятия в Москве по субботам или онлайн. Преподаватели - эксперты Т-Банка.",
+    "type": "школа",
+    "format": "смешанное_очно_онлайн",
+    "duration": "12 месяцев",
+    "targetAudience": ["9 класс", "10 класс"],
+    "subjects": ["Программирование", "Информатика", "Технологии"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": "100%",
+      "tuitionDiscount": "50%",
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["IT", "бизнес"],
+    "dates": {
+      "registration": "2026-01-21 - 2026-08-31",
+      "event": "по субботам с сентября 2026"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть учащимся 9-10 классов",
+      "Проявлять интерес к программированию",
+      "Зарегистрироваться на программу"
+    ],
+    "selectionProcess": "Собеседование и тест знаний",
+    "website": "https://education.tbank.ru/school/t-class/",
+    "regulations": null
+  },
+  {
+    "id": "t_number_trainer",
+    "name": "Число Т - Онлайн тренажер по математике",
+    "description": "Бесплатный интерактивный тренажер по математике с адаптивными задачами. Включает задачи от простых до ЕГЭ уровня (экономические задачи). Доступен в мобильном приложении Т-Банка.",
+    "type": "онлайн курс",
+    "format": "онлайн",
+    "duration": "самостоятельное обучение",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Проценты", "Пропорции", "Экономические задачи"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "доступ круглый год",
+      "event": "в любое время"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Иметь мобильное приложение Т-Банка или доступ в Интернет",
+      "Зарегистрироваться в приложении"
+    ],
+    "selectionProcess": "Без отбора",
+    "website": "https://tnumber.tbank.ru",
+    "regulations": null
+  },
+  {
+    "id": "t_education_analysis_data",
+    "name": "Курс по анализу данных от Т-Образования",
+    "description": "Онлайн курс для изучения основ анализа данных. Видеоуроки, практические задания и тесты. Преподаватели - ведущие эксперты в области аналитики.",
+    "type": "онлайн курс",
+    "format": "онлайн",
+    "duration": "12 недель",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Анализ данных", "Статистика", "Бизнес-аналитика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "финансы", "экономика"],
+    "dates": {
+      "registration": "постоянный набор",
+      "event": "по расписанию"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть школьником",
+      "Интерес к аналитике"
+    ],
+    "selectionProcess": "Открытый доступ",
+    "website": "https://education.tbank.ru/school/basic/analysis/",
+    "regulations": null
+  }
+]

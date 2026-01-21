@@ -1,0 +1,233 @@
+[
+  {
+    "id": "olymp_001",
+    "name": "Олимпиада по финансовой безопасности",
+    "description": "Открытая олимпиада МЭИ для школьников 8-10 классов по финансовой безопасности, интегрирующая математику и обществознание. Дает возможность продемонстрировать знания в области защиты финансов и экономических вопросов.",
+    "type": "олимпиада",
+    "format": "очно",
+    "duration": "3-4 часа",
+    "targetAudience": ["8 класс", "9 класс", "10 класс"],
+    "subjects": ["Финансовая грамотность", "Математика", "Обществознание"],
+    "benefits": {
+      "bvi": true,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика", "менеджмент"],
+    "dates": {
+      "registration": "2026-09-01 - 2026-11-30",
+      "event": "2026-12-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Обучение в школе", "Соответствие возрасту"],
+    "selectionProcess": "Всероссийская олимпиада, отборочный и финальный этапы",
+    "participantLimit": null,
+    "website": "https://pk.mpei.ru/info/goodolymp.html",
+    "regulations": null
+  },
+  {
+    "id": "olymp_002",
+    "name": "Финатлон - Всероссийская олимпиада по финансовой грамотности",
+    "description": "Всероссийская олимпиада по финансовой грамотности, финансовому рынку и защите прав потребителей финансовых услуг. Участники должны продемонстрировать комплексные знания в области финансов и экономики.",
+    "type": "олимпиада",
+    "format": "очно",
+    "duration": "2 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансовая грамотность", "Экономика", "Математика"],
+    "benefits": {
+      "bvi": true,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика", "менеджмент", "бизнес"],
+    "dates": {
+      "registration": "2026-08-15 - 2026-10-31",
+      "event": "2026-11-20"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Обучение в школе", "Соответствие возрасту"],
+    "selectionProcess": "Отборочный онлайн-тур и финальный очный тур",
+    "participantLimit": null,
+    "website": "https://pk.mpei.ru/docs/rules_bach_2023_pril2_2.pdf",
+    "regulations": null
+  },
+  {
+    "id": "olymp_003",
+    "name": "Олимпиада школьников Российской академии народного хозяйства и государственной службы - по экономике и финансовой грамотности",
+    "description": "Многопрофильная олимпиада РАНХиГС, охватывающая экономику, финансовую грамотность, иностранные языки и обществознание. Признается МЭИ для льготного поступления.",
+    "type": "олимпиада",
+    "format": "очно",
+    "duration": "2-3 часа",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансовая грамотность", "Обществознание"],
+    "benefits": {
+      "bvi": true,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "менеджмент", "бизнес"],
+    "dates": {
+      "registration": "2026-09-01 - 2026-11-15",
+      "event": "2026-12-10"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Обучение в школе", "Соответствие возрасту"],
+    "selectionProcess": "Отборочный и финальный этапы",
+    "participantLimit": null,
+    "website": "https://pk.mpei.ru/docs/rules_bach_2023_pril2_2.pdf",
+    "regulations": null
+  },
+  {
+    "id": "olymp_004",
+    "name": "Плехановская олимпиада школьников - по экономике и финансовой грамотности",
+    "description": "Олимпиада от Плехановского университета, охватывающая английский язык, финансовую грамотность и экономику. Преимущества при поступлении в МЭИ за экономические профили.",
+    "type": "олимпиада",
+    "format": "очно",
+    "duration": "2 часа",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансовая грамотность", "Английский язык"],
+    "benefits": {
+      "bvi": true,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "менеджмент"],
+    "dates": {
+      "registration": "2026-08-01 - 2026-10-31",
+      "event": "2026-11-25"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Обучение в школе", "Соответствие возрасту"],
+    "selectionProcess": "Отборочный онлайн-этап и финальный очный этап",
+    "participantLimit": null,
+    "website": "https://pk.mpei.ru/docs/rules_bach_2023_pril2_2.pdf",
+    "regulations": null
+  },
+  {
+    "id": "olymp_005",
+    "name": "Московская олимпиада школьников - профиль Экономика",
+    "description": "Столичная олимпиада с профилем по экономике, финансовой грамотности и обществознанию. Дает дополнительные баллы при поступлении в МЭИ на экономические направления.",
+    "type": "олимпиада",
+    "format": "очно",
+    "duration": "3 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансовая грамотность", "Обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "менеджмент", "бизнес"],
+    "dates": {
+      "registration": "2026-09-15 - 2026-11-30",
+      "event": "2026-12-20"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учеба в московской школе или регистрация на участие"],
+    "selectionProcess": "Два тура: отборочный и финальный",
+    "participantLimit": null,
+    "website": "https://pk.mpei.ru/docs/rules_bach_2023_pril2_2.pdf",
+    "regulations": null
+  },
+  {
+    "id": "olymp_006",
+    "name": "Олимпиада Высшей школы экономики (НИУ ВШЭ) - профиль 'Основы бизнеса'",
+    "description": "Практически ориентированная олимпиада по основам бизнеса и экономики, предусматривающая решение прикладных задач. Признается при поступлении на экономические направления МЭИ.",
+    "type": "олимпиада",
+    "format": "очно",
+    "duration": "2-3 часа",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Экономика", "Бизнес", "Обществознание"],
+    "benefits": {
+      "bvi": true,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "экономика", "менеджмент"],
+    "dates": {
+      "registration": "2026-09-01 - 2026-10-31",
+      "event": "2026-11-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Обучение в школе", "Соответствие возрасту"],
+    "selectionProcess": "Отборочный и финальный туры",
+    "participantLimit": null,
+    "website": "https://pk.mpei.ru/docs/rules_bach_2023_pril2_2.pdf",
+    "regulations": null
+  },
+  {
+    "id": "olymp_007",
+    "name": "Международная олимпиада по финансовой безопасности",
+    "description": "Международная олимпиада по финансовой безопасности, проверяющая знания в области защиты финансов и экономической грамотности. Дает БВИ при поступлении в МЭИ.",
+    "type": "олимпиада",
+    "format": "онлайн",
+    "duration": "2-3 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансовая безопасность", "Финансовая грамотность", "Экономика"],
+    "benefits": {
+      "bvi": true,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика", "менеджмент"],
+    "dates": {
+      "registration": "2026-08-01 - 2026-09-30",
+      "event": "2026-10-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьник", "Доступ в интернет"],
+    "selectionProcess": "Онлайн-тестирование в установленное время",
+    "participantLimit": null,
+    "website": "https://pk.mpei.ru/docs/rules_bach_2023_pril2_2.pdf",
+    "regulations": null
+  }
+]

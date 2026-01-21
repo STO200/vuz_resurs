@@ -1,0 +1,153 @@
+[
+  {
+    "id": "summer_001",
+    "name": "Летняя программа 'Интеллектуальное путешествие'",
+    "description": "Программа для развития творческих способностей и расширения знаний по общественным наукам или английскому языку. Включает викторины, квизы, кибеспортивные состязания и творческие мастер-классы от студентов и преподавателей РАНХиГС.",
+    "type": "летняя программа",
+    "format": "очно",
+    "duration": "5-6 дней, 9:30-17:30",
+    "targetAudience": ["8 класс", "9 класс", "10 класс"],
+    "subjects": ["Обществознание", "Английский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-05-31",
+      "event": "смена 1: 2026-06-24 - 2026-06-29, смена 2: 2026-07-22 - 2026-07-27",
+      "final": "2026-07-27"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 15000
+    },
+    "participationRequirements": [
+      "Школьник 8-10 класса",
+      "Регистрация на программу через портал"
+    ],
+    "selectionProcess": "Открытая регистрация, формирование групп по мере поступления заявок",
+    "participantLimit": 200,
+    "website": "https://my.ranepa.ru/shkolnik/ml/moe-leto/",
+    "regulations": "https://www.ranepa.ru/news/moe-leto-v-prezidentskoy-akademii-pomozhem-tebe-vybrat-professiyu-osoznanno/"
+  },
+  {
+    "id": "summer_002",
+    "name": "Летняя программа 'Пицца профессий'",
+    "description": "Программа для осознанного выбора будущей профессии. Школьники погружаются в мир новых профессий и открывают необычные грани привычных сфер деятельности. Включает встречи с профессионалами и практические мастер-классы.",
+    "type": "летняя программа",
+    "format": "очно",
+    "duration": "5 дней, 9:30-17:30",
+    "targetAudience": ["8 класс", "9 класс", "10 класс"],
+    "subjects": ["Профориентация", "Обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-05-31",
+      "event": "2026-07-01 - 2026-07-05",
+      "final": "2026-07-05"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 15000
+    },
+    "participationRequirements": [
+      "Школьник 8-10 класса",
+      "Интерес к выбору профессии",
+      "Онлайн-регистрация"
+    ],
+    "selectionProcess": "Открытый набор с комплектованием групп",
+    "participantLimit": 150,
+    "website": "https://my.ranepa.ru/shkolnik/ml/moe-leto/",
+    "regulations": "https://www.ranepa.ru/news/moe-leto-v-prezidentskoy-akademii-pomozhem-tebe-vybrat-professiyu-osoznanno/"
+  },
+  {
+    "id": "summer_003",
+    "name": "Летняя программа 'ПРО-бизнес'",
+    "description": "Двухнедельная программа для тех, кто хочет узнать, как работает бизнес. Участники создают свой стартап, слушают лекции по финансам, технологиям и праву. Авторы лучших проектов приглашаются на заключительный этап Олимпиады РАНХиГС.",
+    "type": "летняя программа",
+    "format": "очно",
+    "duration": "14 дней, 9:30-17:30",
+    "targetAudience": ["8 класс", "9 класс", "10 класс"],
+    "subjects": ["Бизнес", "Финансы", "Право", "Журналистика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["бизнес", "экономика", "финансы", "менеджмент"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-05-31",
+      "event": "2026-07-08 - 2026-07-19",
+      "final": "2026-07-19"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 25000
+    },
+    "participationRequirements": [
+      "Школьник 8-10 класса",
+      "Интерес к предпринимательству",
+      "Регистрация на портале"
+    ],
+    "selectionProcess": "Открытый набор, дополнительный отбор лучших проектов в конце программы",
+    "participantLimit": 120,
+    "website": "https://my.ranepa.ru/shkolnik/ml/moe-leto/",
+    "regulations": "https://www.ranepa.ru/news/moe-leto-v-prezidentskoy-akademii-pomozhem-tebe-vybrat-professiyu-osoznanno/"
+  },
+  {
+    "id": "summer_004",
+    "name": "Летняя программа 'Социальные проекты'",
+    "description": "Программа развития социальных проектов для старшеклассников 9-11 классов. Включает встречи с экспертами, работу над реальными социальными задачами и мастер-классы по общественной коммуникации.",
+    "type": "летняя программа",
+    "format": "очно_выездное",
+    "duration": "10-14 дней",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Социология", "Управление", "Коммуникация"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["менеджмент", "бизнес"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-05-31",
+      "event": "2026-06-15 - 2026-07-30",
+      "final": "2026-07-30"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 20000
+    },
+    "participationRequirements": [
+      "Школьник 9-11 класса",
+      "Интерес к общественной деятельности",
+      "Готовность к выездному формату"
+    ],
+    "selectionProcess": "Отбор по анкете и эссе о социальном проекте",
+    "participantLimit": 100,
+    "website": "https://www.ranepa.ru/news/moe-leto-v-prezidentskoy-akademii-sotsialnye-proekty-shkolnikov-rossii/",
+    "regulations": "https://zf.ranepa.ru/news/moe-leto-v-prezidentskoy-akademii-sotsialnye-proekty-shkolnikov-rossii/"
+  }
+]

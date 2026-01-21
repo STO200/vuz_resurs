@@ -1,0 +1,123 @@
+[
+  {
+    "id": "mai_den_otkrytyh_dverey_meganapravleniya",
+    "name": "Дни открытых дверей меганаправлений МАИ",
+    "description": "Ежемесячные дни открытых дверей МАИ, на которых школьники познакомятся со всеми образовательными программами, поговорят с преподавателями и студентами, узнают о процессе поступления и способах получения льгот.",
+    "type": "День открытых дверей",
+    "format": "смешанное_очно_онлайн",
+    "duration": "4-6 часов",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "Открыта",
+      "events": "Январь-апрель 2026 (каждую субботу)"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником 9-11 класса", "Пройти регистрацию на сайте"],
+    "selectionProcess": "Открытый набор, регистрация на каждый день открытых дверей",
+    "website": "https://priem.mai.ru/public/",
+    "regulations": "https://priem.mai.ru/public/"
+  },
+  {
+    "id": "mai_den_ekonomiki_menedzhmenta",
+    "name": "День открытых дверей «Экономика и менеджмент высокотехнологичной индустрии»",
+    "description": "Специальный день открытых дверей, посвящённый представлению Института №5 МАИ. Включает презентации образовательных программ, встречи с деканом и преподавателями, мастер-классы.",
+    "type": "День открытых дверей",
+    "format": "очно",
+    "duration": "4-5 часов",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "Открыта",
+      "event": "28 февраля 2026 г."
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником", "Зарегистрироваться на сайте"],
+    "website": "https://priem.mai.ru/public/",
+    "regulations": "https://priem.mai.ru/public/"
+  },
+  {
+    "id": "mai_den_karery_school",
+    "name": "День карьеры МАИ для школьников",
+    "description": "Встреча с представителями работодателей и партнёрами МАИ. Школьники узнают о целевой подготовке, возможностях студентов и выпускников, перспективах трудоустройства в ведущих компаниях отрасли.",
+    "type": "Профориентационное мероприятие",
+    "format": "очно",
+    "duration": "3-4 часа",
+    "targetAudience": ["10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "Открыта",
+      "event": "7 февраля 2026, 10:00"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть учащимся 10-11 класса", "Пройти регистрацию"],
+    "website": "https://priem.mai.ru/public/",
+    "regulations": "https://priem.mai.ru/public/"
+  },
+  {
+    "id": "mai_ekskursiya_kempus",
+    "name": "Экскурсия по кампусу МАИ",
+    "description": "Знакомство с инфраструктурой и кампусом МАИ, посещение лабораторий, учебных корпусов, общежитий. Школьники видят условия обучения студентов и инфраструктуру вуза.",
+    "type": "Экскурсия",
+    "format": "очно",
+    "duration": "2-3 часа",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "По предварительной договорённости",
+      "event": "По расписанию в течение года"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником", "Подать заявку заранее"],
+    "website": "https://priem.mai.ru/",
+    "regulations": "https://priem.mai.ru/"
+  }
+]

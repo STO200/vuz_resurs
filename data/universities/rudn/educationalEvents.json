@@ -1,0 +1,167 @@
+[
+  {
+    "id": "rudn_econ_lectures",
+    "name": "Лекции от Экономического факультета РУДН на YouTube",
+    "description": "Официальный канал Экономического факультета РУДН на YouTube содержит записи лекций для школьников и студентов. Лекции преподавателей по экономике, управлению, финансам доступны бесплатно.",
+    "type": "лекции",
+    "format": "онлайн",
+    "duration": "разная (каждая лекция)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Управление"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "финансы", "менеджмент"],
+    "dates": {
+      "registration": "2025-01-01 - 2026-12-31",
+      "event": "постоянно обновляется"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интернет и YouTube доступ", "Компьютер, планшет или смартфон"],
+    "selectionProcess": "Открытый доступ к видео. Подписка на канал рекомендуется для получения уведомлений о новых видео.",
+    "participantLimit": 100000,
+    "website": "https://www.youtube.com/channel/UCQmDspukuBl5ivGd-gOz0Mw",
+    "regulations": null
+  },
+  {
+    "id": "rudn_online_webinars",
+    "name": "Вебинары и онлайн-встречи с преподавателями РУДН",
+    "description": "Серия онлайн-вебинаров с преподавателями РУДН, посвященных актуальным темам экономики, менеджмента и управления. Возможность задавать вопросы в прямом эфире. Записи доступны на портале РУДН.",
+    "type": "вебинар",
+    "format": "онлайн",
+    "duration": "1.5-2 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Управление", "Финансы", "Инновации"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-06-30",
+      "event": "2025-09-01 - 2026-06-30 (по расписанию)"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Компьютер с интернетом", "Регистрация по ссылке"],
+    "selectionProcess": "Регистрация на каждый вебинар через Google Forms или портал DPO РУДН.",
+    "participantLimit": 1000,
+    "website": "https://dpo.rudn.ru",
+    "regulations": null
+  },
+  {
+    "id": "cpm_open_lessons",
+    "name": "Открытые уроки Центра педагогического мастерства (ЦПМ) по экономике",
+    "description": "Открытые онлайн-уроки для 7-11 классов по различным предметам, включая экономику. Ведут опытные преподаватели, авторы олимпиадных задач. Доступны записи на YouTube.",
+    "type": "уроки",
+    "format": "онлайн",
+    "duration": "1-1.5 часа",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Основы бизнеса"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-06-30",
+      "event": "2025-09-01 - 2026-06-30 (по расписанию)"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интернет", "Компьютер/планшет"],
+    "selectionProcess": "Открытый доступ. Регистрация через сайт ЦПМ рекомендуется для получения ссылки.",
+    "participantLimit": 5000,
+    "website": "https://cpm.ru/videos/open_lessons/",
+    "regulations": null
+  },
+  {
+    "id": "vosh_masterclass_econ",
+    "name": "Мастер-классы от преподавателей ВШЭ для подготовки к ВсОШ по экономике",
+    "description": "Мастер-классы от опытных преподавателей НИУ ВШЭ и РЭШ по экономике. Разбор сложных тем, стратегии решения задач, подготовка к олимпиадам. Проводятся в разных форматах (очные в ВШЭ и онлайн).",
+    "type": "мастер-класс",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2-3 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес"],
+    "dates": {
+      "registration": "2025-10-01 - 2026-03-31",
+      "event": "2025-10-01 - 2026-03-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Для очных: адрес ВШЭ в Москве", "Для онлайн: интернет и компьютер"],
+    "selectionProcess": "Регистрация на сайте ВШЭ по ссылкам на мероприятия. Места ограничены.",
+    "participantLimit": 200,
+    "website": "https://www.hse.ru/announcements/",
+    "regulations": null
+  },
+  {
+    "id": "rudn_imeb_seminars",
+    "name": "Семинары и конференции от ИМЭБ РУДН для школьников",
+    "description": "Институт мировой экономики и бизнеса РУДН проводит научные семинары, круглые столы и конференции, на которые приглашаются школьники 10-11 классов. Темы связаны с мировой экономикой, международным бизнесом, инвестициями.",
+    "type": "семинар",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2-3 часа",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Экономика", "Бизнес", "Финансы", "Международные отношения"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-06-30",
+      "event": "2025-09-01 - 2026-06-30"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интерес к международной экономике", "Для очных: наличие документов"],
+    "selectionProcess": "Регистрация через сайт ИМЭБ или группу ВКонтакте. Предварительная запись рекомендуется.",
+    "participantLimit": 500,
+    "website": "https://imeb.rudn.ru/events/",
+    "regulations": null
+  }
+]

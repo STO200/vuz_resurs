@@ -1,0 +1,206 @@
+[
+  {
+    "id": "summer_mgimo_junior_winter_school",
+    "name": "Зимняя профориентационная школа #ProМГИМО",
+    "description": "Зимняя выездная школа для школьников 7-11 классов. Знакомство с возможностями МГИМО, различными факультетами и специализациями. Включает мастер-классы и профориентационные встречи с преподавателями.",
+    "type": "Выездная школа",
+    "format": "выездное",
+    "duration": "5 дней",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Профориентация", "Развитие навыков", "Введение в специальности"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-11-01 - 2025-12-31",
+      "event": "2026-01-05 - 2026-01-11",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 75000
+    },
+    "participationRequirements": ["Школьники 7-11 классов"],
+    "selectionProcess": "Открытая регистрация онлайн",
+    "participantLimit": 100,
+    "website": "https://junior.mgimo.ru/schools",
+    "regulations": null
+  },
+  {
+    "id": "summer_mgimo_junior_mba",
+    "name": "MBA Джуниор - летняя программа",
+    "description": "Летняя образовательная программа для школьников 8-11 классов. Знакомство с основами бизнеса, менеджмента и предпринимательства. Включает практические кейсы и встречи с успешными предпринимателями.",
+    "type": "Летняя школа",
+    "format": "выездное",
+    "duration": "5-6 дней",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Основы бизнеса", "Менеджмент", "Предпринимательство", "Финансы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "финансы", "экономика"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-06-30",
+      "event": "2026-08-03 - 2026-08-08",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 80000
+    },
+    "participationRequirements": ["Школьники 8-11 классов"],
+    "selectionProcess": "Онлайн регистрация",
+    "participantLimit": 80,
+    "website": "https://junior.mgimo.ru/schools",
+    "regulations": null
+  },
+  {
+    "id": "summer_mgimo_junior_english",
+    "name": "MGIMO English School - летняя программа",
+    "description": "Летняя интенсивная программа развития навыков английского языка для школьников 8-11 классов. Обучение от преподавателей МГИМО с погружением в языковую среду. Подготовка к ЕГЭ и ДВИ.",
+    "type": "Летняя школа",
+    "format": "выездное",
+    "duration": "5-6 дней",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Английский язык", "Подготовка к ЕГЭ", "Подготовка к ДВИ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-06-30",
+      "event": "2026-07-20 - 2026-07-25",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 85000
+    },
+    "participationRequirements": ["Школьники 8-11 классов", "Уровень английского не ниже A2"],
+    "selectionProcess": "Онлайн регистрация с указанием уровня языка",
+    "participantLimit": 75,
+    "website": "https://junior.mgimo.ru/schools",
+    "regulations": null
+  },
+  {
+    "id": "summer_mgimo_junior_med",
+    "name": "MGIMO-Мед Джуниор",
+    "description": "Летняя профориентационная школа для школьников, интересующихся медициной. Знакомство с разными направлениями медицины, практические модули, встречи с врачами и преподавателями медицинских программ.",
+    "type": "Летняя школа",
+    "format": "выездное",
+    "duration": "5-6 дней",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Медицина", "Здравоохранение", "Профессиональная ориентация"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-06-30",
+      "event": "2026-07-13 - 2026-07-18",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 80000
+    },
+    "participationRequirements": ["Школьники 9-11 классов"],
+    "selectionProcess": "Онлайн регистрация",
+    "participantLimit": 70,
+    "website": "https://junior.mgimo.ru/schools",
+    "regulations": null
+  },
+  {
+    "id": "summer_language_school_diplomatic",
+    "name": "Летняя школа 'Diplomatic Negotiation School'",
+    "description": "Летняя выездная школа по дипломатии и переговорам. Учащиеся изучают принципы международных отношений, участвуют в переговорных симуляциях и развивают навыки публичного выступления. Включает занятия по английскому языку.",
+    "type": "Летняя школа",
+    "format": "выездное",
+    "duration": "6-7 дней",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Международные отношения", "Дипломатия", "Переговоры", "Английский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "экономика"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-06-30",
+      "event": "2026-07-10 - 2026-07-16",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 90000
+    },
+    "participationRequirements": ["Школьники 9-11 классов", "Интерес к дипломатии и МО"],
+    "selectionProcess": "Онлайн регистрация, мотивационное письмо",
+    "participantLimit": 60,
+    "website": "https://junior.mgimo.ru",
+    "regulations": null
+  },
+  {
+    "id": "summer_olympiad_prep_school",
+    "name": "Выездная школа подготовки к олимпиадам (август)",
+    "description": "Летняя выездная школа подготовки к олимпиадам по гуманитарным предметам: обществознанию, истории, литературе, английскому языку, экономике и праву. Акцент на международную тематику и решение реальных кейсов.",
+    "type": "Летняя школа",
+    "format": "выездное",
+    "duration": "7-8 дней",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Обществознание", "История", "Литература", "Английский язык", "Экономика", "Право"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "экономика", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-07-15",
+      "event": "2026-08-18 - 2026-08-25",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 95000
+    },
+    "participationRequirements": ["Школьники 8-11 классов", "Интерес к олимпиадам"],
+    "selectionProcess": "Онлайн регистрация",
+    "participantLimit": 90,
+    "website": "https://junior.mgimo.ru",
+    "regulations": null
+  }
+]

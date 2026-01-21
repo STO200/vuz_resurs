@@ -1,0 +1,192 @@
+[
+  {
+    "id": "mai_telegram_kanaal_postupi",
+    "name": "Telegram-канал «Поступи в МАИ»",
+    "description": "Официальный Telegram-канал МАИ для абитуриентов с информацией о поступлении, расписании мероприятий, объявлениях об олимпиадах, конкурсах и других событиях для школьников.",
+    "type": "Социальная сеть",
+    "format": "онлайн",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "website": "https://t.me/postupi_v_mai"
+  },
+  {
+    "id": "mai_vk_gruppa_shkoolniki",
+    "name": "ВКонтакте-группа «Поступи в МАИ»",
+    "description": "Официальная группа МАИ во ВКонтакте с информацией о поступлении, расписанием дней открытых дверей, новостями о мероприятиях для школьников, трансляциями событий.",
+    "type": "Социальная сеть",
+    "format": "онлайн",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "website": "https://vk.com/postupi_v_mai"
+  },
+  {
+    "id": "mai_youtube_kanal_obrazovanie",
+    "name": "YouTube-канал МАИ",
+    "description": "Канал с видеоуроками, обзорами программ обучения, интервью с преподавателями и студентами, рекомендациями по подготовке к ЕГЭ, информацией о поступлении в МАИ.",
+    "type": "Видеоплатформа",
+    "format": "онлайн",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "website": "https://www.youtube.com/@mai"
+  },
+  {
+    "id": "mai_priem_portal",
+    "name": "Портал приёмной комиссии МАИ",
+    "description": "Официальный портал приёмной комиссии МАИ с полной информацией о программах поступления, требуемых документах, льготах, результатах олимпиад, сроках приёма и контактах.",
+    "type": "Образовательный портал",
+    "format": "онлайн",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "website": "https://priem.mai.ru/"
+  },
+  {
+    "id": "mai_shkoolnikam_portal",
+    "name": "Портал МАИ для школьников",
+    "description": "Специальный портал для школьников с информацией об олимпиадах, конкурсах, подготовительных курсах, дополнительном образовании, мероприятиях для учащихся 8-11 классов.",
+    "type": "Образовательный портал",
+    "format": "онлайн",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "website": "https://pre.mai.ru/"
+  },
+  {
+    "id": "mai_vk_education_center",
+    "name": "VK Education в МАИ",
+    "description": "Совместный образовательный центр VK и МАИ с онлайн-курсами, мастер-классами, вебинарами по IT, программированию, аналитике и актуальным технологиям.",
+    "type": "Образовательная платформа",
+    "format": "онлайн",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Программирование", "IT", "Данные", "Аналитика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "IT", "менеджмент"],
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0,
+      "note": "Часть программ платная"
+    },
+    "website": "https://education.vk.company/centrum/28"
+  },
+  {
+    "id": "mai_online_kursy_platform",
+    "name": "Онлайн-курсы МАИ на платформе",
+    "description": "Платформа онлайн-курсов МАИ с программами подготовки к ЕГЭ, ОГЭ, олимпиадам, а также специализированными курсами по экономике, программированию и другим направлениям.",
+    "type": "Образовательная платформа",
+    "format": "онлайн",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика", "Информатика", "Экономика", "Русский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "cost": {
+      "type": "платно",
+      "amount": 0,
+      "note": "Цена варьируется в зависимости от курса"
+    },
+    "website": "https://mai.ru/education/dpo/online/"
+  },
+  {
+    "id": "umskul_platforma",
+    "name": "Умскул - онлайн-школа подготовки к ЕГЭ/ОГЭ",
+    "description": "Популярная образовательная платформа Умскул с курсами подготовки к ЕГЭ и ОГЭ по всем предметам. Партнёрская платформа МАИ. Включает видеоуроки, тренажёры, пробные варианты экзаменов.",
+    "type": "Образовательная платформа",
+    "format": "онлайн",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все предметы ЕГЭ и ОГЭ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "cost": {
+      "type": "платно",
+      "amount": 0,
+      "note": "Есть бесплатный доступ к основным материалам, платные курсы с наставником"
+    },
+    "website": "https://umschool.net"
+  }
+]

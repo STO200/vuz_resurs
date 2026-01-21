@@ -1,0 +1,138 @@
+[
+  {
+    "id": "summer_001",
+    "name": "Летняя школа МФТИ 2026",
+    "description": "Профориентационная летняя школа для учащихся 8-10 классов на базе МФТИ с двумя треками: 'Путь в Науку' и 'Путь в Индустрию'. Включает лекции, практикумы, лабораторные работы, проектную деятельность и экскурсии.",
+    "type": "летняя_программа",
+    "format": "выездное",
+    "duration": "23 дня (27 июля - 18 августа)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс"],
+    "subjects": ["Математика", "Программирование", "Физика", "Химия", "Биология", "Предпринимательство"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-06-30",
+      "event": "2026-07-27 - 2026-08-18",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 125000
+    },
+    "participationRequirements": ["8-10 класс на момент лета 2026", "Заполнение анкеты", "Согласие родителей", "Наличие ноутбука для практикумов"],
+    "selectionProcess": "Подача заявки на сайте, анкетирование. Прием всех желающих с учетом лимита мест.",
+    "participantLimit": 200,
+    "website": "https://summer.mipt.ru",
+    "regulations": null
+  },
+  {
+    "id": "summer_002",
+    "name": "Летние выездные ФизМат школы УНПК",
+    "description": "Выездные летние школы для 5-11 классов на 11 дней в августе 2026. Программы по физике, математике, информатике, экономике с преподавателями МФТИ и партнерских школ.",
+    "type": "летняя_программа",
+    "format": "выездное",
+    "duration": "11 дней (15-25 августа)",
+    "targetAudience": ["5 класс", "6 класс", "7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика", "Информатика", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": "50%",
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-06-30",
+      "event": "2026-08-15 - 2026-08-25",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 45000
+    },
+    "participationRequirements": ["5-11 класс", "Регистрация на сайте УНПК", "Медицинская справка"],
+    "selectionProcess": "Регистрация первого подходящего, свободные места заполняются по очередности",
+    "participantLimit": 150,
+    "website": "https://kmipt.ru/courses/education/",
+    "regulations": null
+  },
+  {
+    "id": "summer_003",
+    "name": "Летняя онлайн-школа УНПК",
+    "description": "Онлайн летние программы для 6-11 классов в период декабря-января (зимние сессии). Курсы по подготовке к олимпиадам и ЕГЭ по основным предметам.",
+    "type": "летняя_программа",
+    "format": "онлайн",
+    "duration": "2-3 недели",
+    "targetAudience": ["6 класс", "7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика", "Информатика", "Русский язык", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": "25%",
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-10-01 - 2025-11-30",
+      "event": "2025-12-01 - 2026-01-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 3000
+    },
+    "participationRequirements": ["6-11 класс", "Интернет и ПК", "Регистрация на сайте"],
+    "selectionProcess": "Регистрация через сайт УНПК",
+    "participantLimit": 500,
+    "website": "https://kmipt.ru/courses/education/",
+    "regulations": null
+  },
+  {
+    "id": "summer_004",
+    "name": "Программа 'Твой старт' при летней школе МФТИ",
+    "description": "Недельная программа (12-17 августа) в рамках летней школы МФТИ для школьников, интересующихся стартапами и предпринимательством. Включает лекции по созданию стартапов, брейншторм сессии, защиту проектов.",
+    "type": "летняя_программа",
+    "format": "выездное",
+    "duration": "6 дней",
+    "targetAudience": ["8 класс", "9 класс", "10 класс"],
+    "subjects": ["Предпринимательство", "Финансы", "Бизнес-планирование", "Программирование"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-06-30",
+      "event": "2026-08-12 - 2026-08-17",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 125000
+    },
+    "participationRequirements": ["8-10 класс", "Интерес к стартапам и предпринимательству", "Участие в летней школе или отдельная заявка"],
+    "selectionProcess": "Отбор на основе заявки и анкеты интересов",
+    "participantLimit": 50,
+    "website": "https://summer.mipt.ru",
+    "regulations": null
+  }
+]

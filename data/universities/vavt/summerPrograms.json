@@ -1,0 +1,68 @@
+[
+  {
+    "id": "summer_001",
+    "name": "Лингво-спортивная программа VAVT.CAMP",
+    "description": "Летняя спортивно-образовательная программа, объединяющая изучение английского языка, спортивные тренировки, занятия в бассейне, мастер-классы и знакомство со студенческой жизнью. Включает интерактивные занятия по финансовой грамотности и внешней торговле. Доступна возможность оплаты из средств материнского капитала.",
+    "type": "летняя программа",
+    "format": "очно",
+    "duration": "2 недели (по сменам летних каникул)",
+    "targetAudience": ["6 класс", "7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Английский язык", "Финансовая грамотность", "Внешнеторговая деятельность", "Физическая культура"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": "10%",
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "все направления"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-05-31",
+      "event": "2026-06-01 - 2026-08-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": null
+    },
+    "participationRequirements": ["Школьники 6-11 классов"],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": null,
+    "website": "https://camp.vavt.ru",
+    "regulations": null
+  },
+  {
+    "id": "summer_002",
+    "name": "Летняя школа ВАВТ (RFTA Summer School)",
+    "description": "Международная летняя программа ВАВТ для школьников и абитуриентов. Включает обучение английскому языку, знакомство с академией и возможность практики. Доступна для граждан из разных стран.",
+    "type": "летняя школа",
+    "format": "очно",
+    "duration": "1-4 недели (июнь-август 2026)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Английский язык", "Основы экономики", "Культура и бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2026-03-01 - 2026-06-01",
+      "event": "2026-06-15 - 2026-08-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": null
+    },
+    "participationRequirements": ["Школьники 10-11 классов", "Владение английским языком (базовый уровень)"],
+    "selectionProcess": "Заявка через форму регистрации",
+    "participantLimit": null,
+    "website": "https://rftasummerschool.vavt.ru",
+    "regulations": null
+  }
+]

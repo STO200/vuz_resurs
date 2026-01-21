@@ -1,0 +1,172 @@
+[
+  {
+    "id": "edu_001",
+    "name": "Публичные лекции преподавателей РЭУ для школьников",
+    "description": "Регулярные лекции ведущих профессоров РЭУ по актуальным темам экономики, бизнеса, финансов и менеджмента для учащихся 9-11 классов. Проводятся в аудиториях РЭУ и доступны онлайн.",
+    "type": "публичная лекция",
+    "format": "смешанное_очно_онлайн",
+    "duration": "1.5-2 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Менеджмент", "Маркетинг", "Предпринимательство"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "финансы", "менеджмент"],
+    "dates": {
+      "registration": "за 1 неделю до лекции",
+      "event": "2026-02-01 - 2026-08-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Регистрация на сайте или YouTube-канале РЭУ", "Базовые знания по предмету"],
+    "selectionProcess": "Свободная регистрация, автоматический доступ к онлайн-трансляции",
+    "participantLimit": null,
+    "website": "https://www.youtube.com/c/PlekhanovUniversity",
+    "regulations": null
+  },
+  {
+    "id": "edu_002",
+    "name": "Мастер-классы от ведущих специалистов индустрии",
+    "description": "Практические мастер-классы от признанных экспертов и руководителей крупных компаний-партнёров РЭУ. Включают разбор реальных кейсов, инструментов и стратегий в сфере бизнеса и менеджмента.",
+    "type": "мастер-класс",
+    "format": "очно",
+    "duration": "2-3 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Менеджмент", "Маркетинг", "Финансы", "Стартапы", "Лидерство"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 2,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "финансы", "предпринимательство"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-08-31",
+      "event": "2026-03-01 - 2026-09-01",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Заявка на регистрацию", "Интерес к выбранной теме"],
+    "selectionProcess": "Онлайн-регистрация на мероприятие через форму на сайте",
+    "participantLimit": 100,
+    "website": "https://www.rea.ru/pk/entrant",
+    "regulations": null
+  },
+  {
+    "id": "edu_003",
+    "name": "Конференции и круглые столы со школьниками",
+    "description": "Научно-практические конференции, где школьники могут представить свои исследовательские работы, узнать о достижениях сверстников и обсудить актуальные проблемы экономики и бизнеса с экспертами.",
+    "type": "конференция",
+    "format": "очно",
+    "duration": "1-2 дня",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Бизнес", "Финансы", "Менеджмент", "Инновации"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-03-31",
+      "event": "2026-04-15 - 2026-04-16",
+      "final": "2026-04-16"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Исследовательская или проектная работа", "Письменное резюме работы", "Презентация"],
+    "selectionProcess": "Заочный отбор работ по критериям новизны и актуальности",
+    "participantLimit": 80,
+    "website": "https://www.rea.ru/pk/entrant",
+    "regulations": null
+  },
+  {
+    "id": "edu_004",
+    "name": "Вебинары РЭУ для абитуриентов",
+    "description": "Онлайн-встречи с преподавателями, студентами и сотрудниками РЭУ, где обсуждаются вопросы поступления, особенности различных направлений подготовки, жизнь в университете и карьерные перспективы.",
+    "type": "вебинар",
+    "format": "онлайн",
+    "duration": "1-1.5 часа",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все направления", "Поступление в вуз", "Студенческая жизнь"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "за 3 дня до вебинара",
+      "event": "2026-01-01 - 2026-08-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интернет-соединение", "Предварительная регистрация по ссылке", "Email для подтверждения"],
+    "selectionProcess": "Онлайн-регистрация через форму на сайте Telegram или YouTube",
+    "participantLimit": null,
+    "website": "https://t.me/priemREA2025",
+    "regulations": null
+  },
+  {
+    "id": "edu_005",
+    "name": "Академия спортивных медиа - программа для школьников",
+    "description": "Образовательная программа от Первой академии медиа РЭУ для учащихся, развивающих интерес к спортивной журналистике. Три направления: SMM, репортёры, комментаторы. С участием известного спортивного журналиста Дмитрия Губерниева.",
+    "type": "образовательная программа",
+    "format": "очно",
+    "duration": "8-10 недель",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Спортивная журналистика", "SMM", "Видеопроизводство", "Комментирование", "Медиа"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 2,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-03-15",
+      "event": "2026-04-01 - 2026-06-01",
+      "final": "2026-06-01"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интерес к спортивной журналистике", "Способность к публичным выступлениям", "Наличие смартфона или видеокамеры"],
+    "selectionProcess": "Заявка с мотивационным письмом через форму на сайте",
+    "participantLimit": 40,
+    "website": "https://t.me/s/PlekhanovUniverse",
+    "regulations": null
+  }
+]

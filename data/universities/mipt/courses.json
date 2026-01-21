@@ -1,0 +1,206 @@
+[
+  {
+    "id": "course_001",
+    "name": "Подготовительные курсы МФТИ - Математика и Экономика",
+    "description": "Годовые очные и онлайн курсы подготовки к ЕГЭ и поступлению в МФТИ по математике, экономике и связанным дисциплинам. Занятия проводят ведущие преподаватели МФТИ.",
+    "type": "курс_подготовки",
+    "format": "смешанное_очно_онлайн",
+    "duration": "9 месяцев (36 занятий)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Экономика", "Обществознание", "Финансовая грамотность"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": "50%",
+      "tuitionDiscount": "10%",
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "2026-07-01 - 2026-09-15",
+      "event": "2026-09-01 - 2027-05-30",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 2025
+    },
+    "participationRequirements": ["Регистрация на сайте МФТИ", "Прохождение входного тестирования", "Подписание договора с родителями"],
+    "selectionProcess": "Входное тестирование для определения уровня подготовки и распределения в группы базового/профильного уровня",
+    "participantLimit": 200,
+    "website": "https://edu-mipt.ru/euz",
+    "regulations": null
+  },
+  {
+    "id": "course_002",
+    "name": "УНПК МФТИ - Очные курсы подготовки 2025-2026",
+    "description": "Многопрограммные очные курсы для школьников 7-11 классов от УНПК МФТИ. Включают подготовку к ЕГЭ, ОГЭ и олимпиадам по различным предметам в Москве и Долгопрудном.",
+    "type": "курс_подготовки",
+    "format": "очно",
+    "duration": "9 месяцев",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика", "Информатика", "Русский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": "50%",
+      "tuitionDiscount": "10%",
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-06-01 - 2025-08-31",
+      "event": "2025-09-01 - 2026-05-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 1625
+    },
+    "participationRequirements": ["Возраст 7-11 класс", "Регистрация и прохождение тестирования", "Договор с родителями или совершеннолетним"],
+    "selectionProcess": "Предварительное тестирование в июле, распределение в группы по уровню подготовки",
+    "participantLimit": 500,
+    "website": "https://kmipt.ru/courses/aktualnyi_nabor/Nabor_ochno/",
+    "regulations": null
+  },
+  {
+    "id": "course_003",
+    "name": "Онлайн-школа МФТИ - ЕГЭ по математике и физике",
+    "description": "Специализированные онлайн-курсы для подготовки к ЕГЭ по математике и физике для 10-11 классов. Авторские методики МФТИ, интерактивные занятия, индивидуальный подход.",
+    "type": "курс_подготовки",
+    "format": "онлайн",
+    "duration": "9 месяцев",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "экономика"],
+    "dates": {
+      "registration": "2025-06-01 - 2025-08-30",
+      "event": "2025-09-01 - 2026-05-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 1500
+    },
+    "participationRequirements": ["10-11 класс", "Наличие интернета и ПК", "Регистрация на сайте"],
+    "selectionProcess": "Регистрация и заполнение анкеты",
+    "participantLimit": 300,
+    "website": "https://online-school.mipt.ru",
+    "regulations": null
+  },
+  {
+    "id": "course_004",
+    "name": "Экспресс-курс ЕГЭ от Физтеха",
+    "description": "Интенсивный 3-месячный курс подготовки к ЕГЭ для 11 классов. Систематизация знаний, заполнение пробелов, отработка практических навыков на реальных вариантах.",
+    "type": "курс_подготовки",
+    "format": "очно",
+    "duration": "3 месяца (12 недель)",
+    "targetAudience": ["11 класс"],
+    "subjects": ["Физика", "Математика", "Информатика", "Русский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-02-28",
+      "event": "2026-03-01 - 2026-05-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 2175
+    },
+    "participationRequirements": ["11 класс", "Базовые знания по предмету"],
+    "selectionProcess": "Регистрация через сайт МФТИ",
+    "participantLimit": 150,
+    "website": "https://edu-mipt.ru/intensivy/ege",
+    "regulations": null
+  },
+  {
+    "id": "course_005",
+    "name": "Анализ данных на Python для школьников",
+    "description": "Годовой курс (36 занятий по 4 часа) для 10 классов по изучению Python-библиотек для анализа данных и машинного обучения. Подготовка к олимпиаде DANO и к ЕГЭ по информатике.",
+    "type": "курс_подготовки",
+    "format": "онлайн",
+    "duration": "9 месяцев (144 часа аудиторные + 144 часа домашние задания)",
+    "targetAudience": ["10 класс"],
+    "subjects": ["Информатика", "Анализ данных", "Машинное обучение", "Программирование"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "экономика"],
+    "dates": {
+      "registration": "2025-06-01 - 2025-08-30",
+      "event": "2025-09-01 - 2026-05-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 1800
+    },
+    "participationRequirements": ["10 класс", "Знание основ Python", "Входной тест по программированию"],
+    "selectionProcess": "Входное тестирование по программированию, отбор участников по результатам",
+    "participantLimit": 50,
+    "website": "https://edu-mipt.ru/euz",
+    "regulations": null
+  },
+  {
+    "id": "course_006",
+    "name": "Курсы повышения квалификации МФТИ для учителей",
+    "description": "Курсы для преподавателей школ по развитию методик преподавания математики, физики и естественных наук. Включает внедрение программ 'Классы Физтех XXI' в школах.",
+    "type": "курс_подготовки",
+    "format": "очно_выездное",
+    "duration": "по согласованию",
+    "targetAudience": ["профессиональное развитие"],
+    "subjects": ["Математика", "Физика", "Естественные науки", "Педагогика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-12-31",
+      "event": "2026-03-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Статус учителя в школе", "Желание внедрять программы МФТИ"],
+    "selectionProcess": "Подача заявки от школы, согласование плана обучения",
+    "participantLimit": null,
+    "website": "https://go2phystech.ru/",
+    "regulations": null
+  }
+]

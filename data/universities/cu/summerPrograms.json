@@ -1,0 +1,111 @@
+[
+  {
+    "id": "cu_summer_programs_2026",
+    "name": "Лето в Центре - Летние программы Центрального университета",
+    "description": "Летние образовательные программы и мероприятия в Центральном университете. Участники погружаются в атмосферу университета, заводят знакомства с единомышленниками и получают новые знания.",
+    "type": "летняя программа",
+    "format": "очно",
+    "duration": "10-12 недель",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["IT", "Программирование", "Аналитика", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": "50%",
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления", "бизнес", "IT"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-05-31",
+      "event": "2026-06-20 - 2026-08-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть школьником",
+      "Зарегистрироваться на программу",
+      "Пройти отбор"
+    ],
+    "selectionProcess": "По мотивационному письму и резюме",
+    "participantLimit": 200,
+    "website": "https://cu.ru/summer",
+    "regulations": null
+  },
+  {
+    "id": "t_education_stem_camp",
+    "name": "STEM-сборы от Т-Образования и Центрального университета",
+    "description": "Выездная обучающая программа с проектной деятельностью для школьников 7-10 классов. Участники работают на стыке биологии и технологий, решают практические задачи в STEM области.",
+    "type": "летняя программа",
+    "format": "выездное",
+    "duration": "1-2 недели",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс"],
+    "subjects": ["Математика", "Физика", "Биология", "Технологии"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": "50%",
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "все направления"],
+    "dates": {
+      "registration": "2026-03-01 - 2026-05-31",
+      "event": "июль-август 2026"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 50000
+    },
+    "participationRequirements": [
+      "Быть школьником 7-10 классов",
+      "Интерес к STEM",
+      "Способность к командной работе"
+    ],
+    "selectionProcess": "Открытый набор с возможностью конкурса",
+    "participantLimit": 150,
+    "website": "https://education.tbank.ru/school/events/stem-camp/",
+    "regulations": null
+  },
+  {
+    "id": "t_education_summer_intensive_physics",
+    "name": "Летние интенсивы по физике от Т-Образования",
+    "description": "Летний интенсив по физике с теоретической базой и практикумами. Подготовка к ВсОШ и ЕГЭ по выбранным темам физики.",
+    "type": "летняя программа",
+    "format": "очно",
+    "duration": "2-4 недели",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Физика", "Экспериментальная физика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-06-15",
+      "event": "июль-август 2026"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 35000
+    },
+    "participationRequirements": [
+      "Быть школьником",
+      "Интерес к физике"
+    ],
+    "selectionProcess": "Открытый набор",
+    "website": "https://education.tbank.ru/school/events/physics/",
+    "regulations": null
+  }
+]

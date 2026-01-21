@@ -1,0 +1,167 @@
+[
+  {
+    "id": "info_001",
+    "name": "День открытых дверей МЭИ (февраль 2026)",
+    "description": "Очный день открытых дверей для поступающих и их родителей. Презентации институтов и направлений, встречи с преподавателями и студентами, экскурсии по кампусам, информация о льготах и особенностях поступления.",
+    "type": "день открытых дверей",
+    "format": "очно",
+    "duration": "5-6 часов",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": null,
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-15 - 2026-01-29",
+      "event": "2026-02-01 10:00-15:00"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Регистрация на сайте до 29 января", "Приход с хорошим настроением"],
+    "selectionProcess": "Онлайн-регистрация",
+    "participantLimit": 500,
+    "website": "https://abitur-mpei.ru/open-day",
+    "regulations": "https://pk.mpei.ru/extra/dod2025/"
+  },
+  {
+    "id": "info_002",
+    "name": "День открытых дверей МЭИ (март 2026)",
+    "description": "Очный день открытых дверей с фокусом на отдельные институты. Знакомство с преподавателями, посещение лабораторий, информация о программах обучения и стажировках в компаниях-партнерах.",
+    "type": "день открытых дверей",
+    "format": "очно",
+    "duration": "4-5 часов",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": null,
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-02-15 - 2026-03-10",
+      "event": "2026-03-15 10:00-14:00"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Регистрация на сайте"],
+    "selectionProcess": "Онлайн-регистрация",
+    "participantLimit": 400,
+    "website": "https://pk.mpei.ru/extra/dod2025/",
+    "regulations": null
+  },
+  {
+    "id": "info_003",
+    "name": "Проект 'Один день в университете' в МЭИ",
+    "description": "Единая городская профориентационная программа для школьников 9-11 классов. Знакомство с инженерными, ИТ, экономическими и гуманитарными институтами МЭИ, встречи с деканами, практические занятия в лабораториях, мастер-классы и деловые игры.",
+    "type": "профориентационное мероприятие",
+    "format": "очно",
+    "duration": "6-8 часов",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": null,
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-10-19, 2026-11-15, 2026-11-23"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся московских школ 9-11 класса"],
+    "selectionProcess": "Регистрация на сайте",
+    "participantLimit": 600,
+    "website": "https://mpei.ru/news/Pages/adItem.aspx?adID=3135",
+    "regulations": null
+  },
+  {
+    "id": "info_004",
+    "name": "Встреча с представителями Инженерно-экономического института (ИнЭИ) МЭИ",
+    "description": "Специализированная встреча для школьников, интересующихся экономикой, менеджментом, информационной безопасностью и бизнесом. Информация о программах, карьерных возможностях выпускников, работодателях и стажировках.",
+    "type": "встреча с деканом",
+    "format": "очно",
+    "duration": "1.5-2 часа",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": null,
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-02-01, 2026-03-15, 2026-04-20"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Регистрация на сайте приемной комиссии"],
+    "selectionProcess": "Регистрация",
+    "participantLimit": 100,
+    "website": "https://pk.mpei.ru",
+    "regulations": null
+  },
+  {
+    "id": "info_005",
+    "name": "Экскурсия по кампусу и лабораториям МЭИ",
+    "description": "Организованная экскурсия для групп школьников по кампусам МЭИ, посещение научных лабораторий, центра тестирования, библиотеки. Демонстрация научного оборудования и инфраструктуры вуза.",
+    "type": "экскурсия",
+    "format": "очно",
+    "duration": "2-3 часа",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": null,
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "по запросу школы"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьная группа от 10 человек", "Заявка за 2 недели"],
+    "selectionProcess": "Согласование с отделом по профориентации",
+    "participantLimit": 50,
+    "website": "https://pk.mpei.ru",
+    "regulations": null
+  }
+]

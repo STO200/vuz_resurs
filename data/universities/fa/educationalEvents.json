@@ -1,0 +1,143 @@
+[
+  {
+    "id": "public_lectures_nes",
+    "name": "Публичные лекции профессоров РЭШ для школьников",
+    "description": "Серия публичных лекций от профессоров РЭШ на различные темы экономики, финансов и социальных наук. Лекции открыты для школьников и заинтересованных абитуриентов. Проводятся на кампусе РЭШ и в партнерских учреждениях.",
+    "type": "lecture",
+    "format": "очно",
+    "duration": "1-2 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "История", "Политология"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "по объявлению"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Регистрация на конкретную лекцию",
+      "Интерес к экономике и социальным наукам"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://guru.nes.ru",
+    "regulations": null
+  },
+  {
+    "id": "autumn_school_hse",
+    "name": "Осенняя школа теории принятия решений ВШЭ",
+    "description": "Образовательное мероприятие, организованное Международным центром анализа и выбора решений и департаментом математики ФЭН ВШЭ. Направлено на изучение теории принятия решений, теории игр, дизайна механизмов и современной прикладной математики в экономике. Собирает более 600 старшеклассников.",
+    "type": "masterclass",
+    "format": "очно",
+    "duration": "несколько дней",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Экономика", "Теория игр", "Теория принятия решений"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "математика", "бизнес"],
+    "dates": {
+      "registration": "по объявлению (обычно сентябрь)",
+      "event": "октябрь 2026"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть старшеклассником",
+      "Интерес к экономике и математике",
+      "Способность справиться с интенсивной программой"
+    ],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": 600,
+    "website": "https://www.hse.ru",
+    "regulations": null
+  },
+  {
+    "id": "mini_lectures_open_day",
+    "name": "Мини-лекции профессоров РЭШ во время Дней открытых дверей",
+    "description": "Краткие лекции профессоров РЭШ (20-30 минут), проводимые во время Дней открытых дверей. Позволяют абитуриентам и школьникам узнать о текущих исследованиях и преподавательских методах Школы. Примеры: 'Нефть: благо или бремя для экономики?'",
+    "type": "lecture",
+    "format": "очно",
+    "duration": "20-30 минут",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Макроэкономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы"],
+    "dates": {
+      "registration": "вместе с Днями открытых дверей",
+      "event": "2026-01-22, 2026-02-15, 2026-03-01, 2026-03-17"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Регистрация на День открытых дверей"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://admissions.nes.ru/openday/",
+    "regulations": null
+  },
+  {
+    "id": "iloveconomics_econ_talks",
+    "name": "Образовательные материалы и вебинары на ILoveEconomics.ru",
+    "description": "Платформа ILoveEconomics.ru (совместный проект ВШЭ и РЭШ) предоставляет образовательные материалы по экономике, включая задачи, статьи, видео-лекции и записи вебинаров для школьников всех уровней подготовки.",
+    "type": "online_course",
+    "format": "онлайн",
+    "duration": "по требованию",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Микроэкономика", "Макроэкономика", "Финансы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "круглогодично"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Доступ в интернет"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://iloveeconomics.ru",
+    "regulations": null
+  }
+]

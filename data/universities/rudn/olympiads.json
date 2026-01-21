@@ -1,0 +1,200 @@
+[
+  {
+    "id": "rudn_olymp_econ_mgmt",
+    "name": "Олимпиада РУДН для школьников по экономике и управлению",
+    "description": "Олимпиада проводится для учащихся 10-11 классов, планирующих поступление на образовательные программы бакалавриата по экономике, менеджменту и управлению. Включает два этапа: дистанционный отборочный и заключительный (очный или дистанционный).",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "4 месяца (с октября по февраль)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Экономика", "Управление", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 8,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-10-01 - 2026-01-25",
+      "event": "2026-02-06 - 2026-02-09"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 10-11 классов школ РФ", "Доступ в интернет для отборочного этапа"],
+    "selectionProcess": "Отборочный этап - дистанционно, задания по экономике и управлению (тесты и кейсы). Топовые участники приглашаются на заключительный этап.",
+    "participantLimit": 500,
+    "website": "https://olympiada.rudn.ru/subject/ekonomika-i-upravlenie",
+    "regulations": "https://olympiada.rudn.ru"
+  },
+  {
+    "id": "rudn_olymp_business",
+    "name": "Олимпиада РУДН для школьников по основам бизнеса",
+    "description": "Олимпиада по профилю 'Основы бизнеса' для 10-11 классов. Проводится в два этапа с заданиями, проверяющими знания экономики и основ бизнеса, включая кейсовый анализ и решение практических задач.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "4 месяца",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Бизнес", "Экономика", "Менеджмент"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 8,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "экономика", "менеджмент"],
+    "dates": {
+      "registration": "2025-10-01 - 2026-01-25",
+      "event": "2026-02-06 - 2026-02-09"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 10-11 классов", "Интернет для отборочного этапа"],
+    "selectionProcess": "Первый этап 100 минут: 10 тестов по экономике + 10 тестов по управлению + 2 кейса. Второй этап: тесты и защита проектного задания.",
+    "participantLimit": 300,
+    "website": "https://olympiada.rudn.ru/subject/osnovy-biznesa",
+    "regulations": "https://olympiada.rudn.ru/docs/subjects/%D0%9C%D0%95%D0%A2%D0%9E%D0%94_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B.pdf"
+  },
+  {
+    "id": "fincontest_olymp",
+    "name": "Всероссийская олимпиада по финансовым рынкам Fincontest",
+    "description": "Олимпиада Финансового университета по финансовым рынкам для школьников 8-11 классов. Включает знакомство с работой фондовой биржи, трейдингом, финансовыми инструментами. Проводится при поддержке Московской биржи.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2 месяца (февраль-март)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансы", "Экономика", "Фондовый рынок"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": "100%",
+      "tuitionDiscount": "50%",
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика", "бизнес"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-02-20",
+      "event": "2026-02-21 - 2026-03-27"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 8-11 классов", "Интернет, компьютер/смартфон для участия"],
+    "selectionProcess": "Три этапа: заочный отборочный (виртуальный трейдинг), теоретический тур финала, суперфинал. Победители определяются по накопленному виртуальному капиталу.",
+    "participantLimit": 3000,
+    "website": "https://fincontest.fa.ru",
+    "regulations": "https://fincontest.fa.ru/regulations"
+  },
+  {
+    "id": "vernadsky_olymp_econ",
+    "name": "Всероссийская академическая олимпиада школьников имени В.И. Вернадского по экономике",
+    "description": "Одна из ведущих экономических олимпиад России для 7-11 классов. Проводится ведущими экономическими ВУЗами страны (СПбГЭУ, Финансовый университет, ИСПИСЗ РАН). Включена в Перечень олимпиад школьников 1 уровня.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3 месяца",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Управление"],
+    "benefits": {
+      "bvi": true,
+      "points100": true,
+      "additionalPoints": 10,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2025-11-19 - 2026-02-08",
+      "event": "2026-02-01 - 2026-02-28"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 7-11 классов РФ", "Интернет для участия"],
+    "selectionProcess": "Два этапа: отборочный (дистанционно), заключительный в два тура (дистанционно/очно). Разные задания для каждого класса.",
+    "participantLimit": 5000,
+    "website": "http://vernadsky.online/",
+    "regulations": "http://vernadsky.online/regulations"
+  },
+  {
+    "id": "mos_olymp_econ",
+    "name": "Московская олимпиада школьников по экономике",
+    "description": "Региональная олимпиада по экономике для 5-11 классов Московского региона, проводимая совместно НИУ ВШЭ и Российской экономической школой. Включена в Перечень олимпиад школьников 2 уровня.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2 месяца",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Математика"],
+    "benefits": {
+      "bvi": true,
+      "points100": true,
+      "additionalPoints": 10,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-12-10 - 2025-12-18",
+      "event": "2026-01-25 - 2026-02-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 5-11 классов любых регионов России", "Доступ в интернет"],
+    "selectionProcess": "Дистанционный отборочный этап (10-18 декабря 2025) доступен для всех регионов. Очный заключительный этап в Москве: 25 января для 7 класса, 15 февраля для 8-11 классов.",
+    "participantLimit": 2000,
+    "website": "https://mosecon.olimpiada.ru",
+    "regulations": "https://mosecon.olimpiada.ru"
+  },
+  {
+    "id": "finatlon_olymp",
+    "name": "Всероссийская олимпиада по финансовой грамотности Финатлон",
+    "description": "Олимпиада по финансовой грамотности, устойчивому развитию и защите прав потребителей финансовых услуг. Поддерживается Минфином РФ, Минобрнауки РФ, Роспотребнадзором и Банком России. Входит в Перечень олимпиад школьников.",
+    "type": "олимпиада",
+    "format": "онлайн",
+    "duration": "7 месяцев",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансы", "Финансовая грамотность", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика", "бизнес"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-03-31",
+      "event": "2025-09-01 - 2026-03-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 8-11 классов РФ и ближнего зарубежья"],
+    "selectionProcess": "Основной конкурс + специальные номинации. Участники набирают баллы за выполненные задания.",
+    "participantLimit": 79000,
+    "website": "https://fin-olimp.ru",
+    "regulations": "https://fin-olimp.ru"
+  }
+]

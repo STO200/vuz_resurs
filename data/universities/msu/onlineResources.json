@@ -1,0 +1,299 @@
+[
+  {
+    "id": "online_001",
+    "name": "YouTube-канал Экономического факультета МГУ",
+    "description": "Официальный канал ЭФ МГУ с видеолекциями преподавателей, конференциями, интервью с экспертами и научными дискуссиями по экономике и смежным дисциплинам.",
+    "type": "YouTube-канал",
+    "format": "онлайн",
+    "duration": "20-60 минут на видео",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Предпринимательство"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы"],
+    "dates": {
+      "registration": "На постоянной основе",
+      "event": "2015-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Учетная запись Google/YouTube",
+      "Доступ в интернет"
+    ],
+    "selectionProcess": "Свободная подписка на канал и просмотр видеоархива",
+    "participantLimit": null,
+    "website": "https://www.youtube.com/@EFMSU",
+    "regulations": null
+  },
+  {
+    "id": "online_002",
+    "name": "Telegram-канал 'Экономический факультет МГУ'",
+    "description": "Официальный Telegram-канал ЭФ МГУ с новостями, объявлениями об олимпиадах, лекциях, конкурсах, датами приема и информацией о факультете.",
+    "type": "Telegram-канал",
+    "format": "онлайн",
+    "duration": "Постоянное обновление",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": [],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "На постоянной основе",
+      "event": "2020-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Установленное приложение Telegram",
+      "Возможность получать уведомления"
+    ],
+    "selectionProcess": "Свободная подписка на канал",
+    "participantLimit": null,
+    "website": "https://t.me/econmsu",
+    "regulations": null
+  },
+  {
+    "id": "online_003",
+    "name": "Сайт Школы молодого предпринимателя (ШМП) ЭФ МГУ",
+    "description": "Образовательный портал ШМП с информацией о курсах, олимпиадах, видеолекциях и событиях. Центральная платформа для регистрации на программы.",
+    "type": "образовательный портал",
+    "format": "онлайн",
+    "duration": "Доступ 24/7",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Предпринимательство", "Финансы", "Подготовка к ЕГЭ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес"],
+    "dates": {
+      "registration": "На постоянной основе",
+      "event": "2015-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Доступ в интернет",
+      "Email для регистрации"
+    ],
+    "selectionProcess": "Свободный доступ к информации о программах и мероприятиях",
+    "participantLimit": null,
+    "website": "https://shmp.econ.msu.ru",
+    "regulations": null
+  },
+  {
+    "id": "online_004",
+    "name": "Сайт Экономико-математической школы (ЭМШ) 'emsch.ru'",
+    "description": "Официальный сайт ЭМШ с информацией о вступительных испытаниях, расписанием занятий, описанием курсов и регистрацией для учащихся.",
+    "type": "образовательный портал",
+    "format": "онлайн",
+    "duration": "Доступ 24/7",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Экономика", "Русский язык", "Иностранные языки"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика"],
+    "dates": {
+      "registration": "2025-04-20 - 2025-09-15",
+      "event": "2025-09-21 - 2026-05-31",
+      "final": "2026-05-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Доступ в интернет",
+      "Email для регистрации"
+    ],
+    "selectionProcess": "Регистрация на сайте + вступительные испытания",
+    "participantLimit": null,
+    "website": "https://emsch.ru",
+    "regulations": null
+  },
+  {
+    "id": "online_005",
+    "name": "Портал 'Карьера и профессиональное развитие' МГУ",
+    "description": "Интегрированный портал МГУ с информацией о карьерном развитии, навыках, профориентации и возможностях трудоустройства для студентов и выпускников.",
+    "type": "карьерный портал",
+    "format": "онлайн",
+    "duration": "Доступ 24/7",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Карьера", "Профориентация", "Компетенции"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "На постоянной основе",
+      "event": "2020-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Интерес к профессиональному развитию",
+      "Доступ в интернет"
+    ],
+    "selectionProcess": "Свободный доступ к информации",
+    "participantLimit": null,
+    "website": "https://careerin.msu.ru",
+    "regulations": null
+  },
+  {
+    "id": "online_006",
+    "name": "Открытые курсы МГУ на платформе Distant.MSU",
+    "description": "Платформа бесплатных онлайн-курсов МГУ по различным дисциплинам, включая экономику, бизнес и финансы для школьников и студентов со всей России.",
+    "type": "онлайн-курсы",
+    "format": "онлайн",
+    "duration": "4-12 недель по каждому курсу",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Бизнес", "Математика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "На постоянной основе (по датам курсов)",
+      "event": "Разные даты для каждого курса",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Доступ в интернет",
+      "Email для регистрации",
+      "Готовность учиться самостоятельно"
+    ],
+    "selectionProcess": "Свободная регистрация на нужный курс",
+    "participantLimit": null,
+    "website": "https://distant.msu.ru",
+    "regulations": null
+  },
+  {
+    "id": "online_007",
+    "name": "Карьерный центр МГУ (Telegram и VK)",
+    "description": "Социальные сети карьерного центра МГУ с информацией о Днях карьеры, мастер-классах, встречах с работодателями и вакансиях.",
+    "type": "социальные сети",
+    "format": "онлайн",
+    "duration": "Постоянное обновление",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Карьера", "Вакансии", "Компетенции"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "На постоянной основе",
+      "event": "2020-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Наличие аккаунта в Telegram или VK",
+      "Доступ в интернет"
+    ],
+    "selectionProcess": "Свободная подписка на каналы",
+    "participantLimit": null,
+    "website": "https://t.me/career_msu_ru",
+    "regulations": null
+  },
+  {
+    "id": "online_008",
+    "name": "Сайт Открытого чемпионата школ по экономике",
+    "description": "Платформа проведения Открытого чемпионата с информацией о правилах, датах, результатах и архивом задач предыдущих лет для подготовки.",
+    "type": "образовательный портал",
+    "format": "онлайн",
+    "duration": "Доступ 24/7",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Математика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-03-31",
+      "event": "2026-04-13",
+      "final": "2026-04-13"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Доступ в интернет",
+      "Email для регистрации"
+    ],
+    "selectionProcess": "Регистрация на сайте и участие в чемпионате",
+    "participantLimit": null,
+    "website": "https://openchampionship.ru",
+    "regulations": null
+  }
+]

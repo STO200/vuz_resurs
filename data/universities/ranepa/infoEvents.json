@@ -1,0 +1,189 @@
+[
+  {
+    "id": "info_001",
+    "name": "День открытых дверей РАНХиГС - 'Исследователи Академии'",
+    "description": "Основной день открытых дверей Президентской академии с экскурсиями, консультациями, мастер-классами и встречами со студентами. Позволяет полностью ознакомиться с жизнью Академии и условиями обучения.",
+    "type": "день открытых дверей",
+    "format": "очно",
+    "duration": "6-7 часов (9:30-16:00)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["все направления"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы", "все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "в течение года, основные даты: декабрь 2025 - январь 2026, май-июнь 2026",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьник 9-11 класса",
+      "Регистрация на сайте www.ranepa.ru",
+      "Документ для идентификации"
+    ],
+    "selectionProcess": "Открытое мероприятие, требуется предварительная регистрация",
+    "participantLimit": 2000,
+    "website": "https://www.ranepa.ru/dni-otkrytykh-dverey/",
+    "regulations": "https://www.ranepa.ru/openweek/"
+  },
+  {
+    "id": "info_002",
+    "name": "День открытых дверей РАНХиГС - 'Твой день в Президентской академии'",
+    "description": "Специальный формат дня открытых дверей с лекциями от экспертов, общением с преподавателями и студентами, экскурсией по кампусу и консультациями по поступлению.",
+    "type": "день открытых дверей",
+    "format": "очно",
+    "duration": "6-7 часов",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["все направления"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-15 - 2026-12-20",
+      "event": "в течение года по расписанию",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьник 9-11 класса",
+      "Предварительная регистрация"
+    ],
+    "selectionProcess": "Открытое мероприятие, регистрация через сайт",
+    "participantLimit": 1500,
+    "website": "https://www.ranepa.ru/news/tvoy-den-v-prezidentskoy-akademii/",
+    "regulations": "https://www.ranepa.ru/dni-otkrytykh-dverey/"
+  },
+  {
+    "id": "info_003",
+    "name": "Университетские субботы РАНХиГС",
+    "description": "Проект бесплатных суббот с лекциями, мастер-классами и экскурсиями для школьников Москвы. Позволяет познакомиться с направлениями обучения и атмосферой факультетов.",
+    "type": "информационное мероприятие",
+    "format": "очно",
+    "duration": "2-3 часа",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["все направления"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "по субботам в течение учебного года",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьник 8-11 класса",
+      "Проживание в Москве",
+      "Регистрация на портале Департамента образования"
+    ],
+    "selectionProcess": "Открытый проект, требуется регистрация",
+    "participantLimit": 10000,
+    "website": "https://my.ranepa.ru/shkolnik/univer-satturday/universitetskie-subboty/",
+    "regulations": "https://www.ranepa.ru/blog/obrazovanie-i-samorazvitie/kak-vybrat-vuz-dlya-postupleniya/"
+  },
+  {
+    "id": "info_004",
+    "name": "Экскурсии в РАНХиГС для школьников",
+    "description": "Организованные экскурсии по кампусам Академии, общежитиям, библиотеке и учебным аудиториям. Позволяет увидеть условия обучения и внутреннюю жизнь Академии.",
+    "type": "день открытых дверей",
+    "format": "очно",
+    "duration": "1-2 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["все направления"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "по запросу",
+      "event": "в течение года",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьник 9-11 класса",
+      "Договоренность со школой или классом"
+    ],
+    "selectionProcess": "Предварительное согласование с приемной комиссией",
+    "participantLimit": 500,
+    "website": "https://www.ranepa.ru/",
+    "regulations": "https://www.ranepa.ru/dni-otkrytykh-dverey/"
+  },
+  {
+    "id": "info_005",
+    "name": "Встречи с деканами и преподавателями РАНХиГС",
+    "description": "Встречи школьников с руководителями факультетов и институтов для обсуждения специальностей и требований к абитуриентам. Проводятся как в филиалах, так и в онлайн-формате.",
+    "type": "информационное мероприятие",
+    "format": "смешанное_очно_онлайн",
+    "duration": "1-2 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["все направления"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "в течение года по расписанию",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьник 9-11 класса",
+      "Предварительная регистрация"
+    ],
+    "selectionProcess": "Открытое мероприятие, требуется регистрация",
+    "participantLimit": 1000,
+    "website": "https://www.ranepa.ru/dni-otkrytykh-dverey/",
+    "regulations": "https://www.ranepa.ru/"
+  }
+]

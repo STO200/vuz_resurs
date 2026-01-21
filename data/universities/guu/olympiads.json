@@ -1,0 +1,138 @@
+[
+  {
+    "id": "olymp_001",
+    "name": "Турнир будущих управленцев",
+    "description": "Олимпиада по обществознанию для школьников, организуемая ГУУ. Проверяет знания по обществознанию, праву, социальным, политическим и экономическим наукам.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2 месяца",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["обществознание", "право", "экономика", "политология"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 4,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["менеджмент", "государственное управление", "управление персоналом"],
+    "dates": {
+      "registration": "2025-09-01 - 2025-11-01",
+      "event": "2025-11-01 - 2026-02-26",
+      "final": "2026-04-01"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Обучение в 9-11 классах российских школ"],
+    "selectionProcess": "Заочный отборочный этап, затем очный этап на площадках в разных городах РФ",
+    "participantLimit": null,
+    "website": "https://guu.ru/university/career_guidance/",
+    "regulations": null
+  },
+  {
+    "id": "olymp_002",
+    "name": "Будущее бизнеса",
+    "description": "Всероссийская олимпиада по инновационному предпринимательству, разработанная при поддержке ГУУ и РВБ (Wildberries & Russ). Включает задания по экономике, информатике, английскому языку, обществознанию и финансовой грамотности.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "4 месяца",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["экономика", "информатика", "английский язык", "обществознание", "финансовая грамотность", "управленческая грамотность"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 10,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "экономика", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-11-01 - 2025-12-01",
+      "event": "2025-12-01 - 2026-04-01",
+      "final": "2026-04-01"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Обучение в 9-11 классах российских школ"],
+    "selectionProcess": "Три отборочных этапа онлайн + финальный очный этап в Москве",
+    "participantLimit": null,
+    "website": "https://olymp-rwb.guu.ru",
+    "regulations": "https://olymp-rwb.guu.ru"
+  },
+  {
+    "id": "olymp_003",
+    "name": "Высшая проба",
+    "description": "Всероссийская олимпиада НИУ ВШЭ с 27 профилями, включая финансовую грамотность, экономику, основы бизнеса и другие направления, релевантные бизнес-образованию.",
+    "type": "олимпиада",
+    "format": "онлайн",
+    "duration": "3 месяца",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["экономика", "финансовая грамотность", "основы бизнеса", "обществознание", "право", "математика"],
+    "benefits": {
+      "bvi": true,
+      "points100": true,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["экономика", "бизнес", "финансы"],
+    "dates": {
+      "registration": "2025-08-20 - 2025-10-20",
+      "event": "2025-10-01 - 2026-04-30",
+      "final": "2026-05-01"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Обучение в 7-11 классах"],
+    "selectionProcess": "Онлайн тестирование, возможность участия в заключительном этапе для дипломантов младших классов",
+    "participantLimit": null,
+    "website": "https://olymp.hse.ru/ma/",
+    "regulations": null
+  },
+  {
+    "id": "olymp_004",
+    "name": "Ломоносов",
+    "description": "Олимпиада по предпринимательству, проводимая МГУ (Высшей школой бизнеса). Развивает деловое мышление и предпринимательские навыки. Включает кейсы и творческие задания.",
+    "type": "олимпиада",
+    "format": "онлайн",
+    "duration": "2 месяца",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["обществознание", "экономика", "право", "математика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["менеджмент", "бизнес", "предпринимательство"],
+    "dates": {
+      "registration": "2025-09-01 - 2025-11-30",
+      "event": "2025-12-01 - 2026-03-31",
+      "final": "2026-04-01"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Обучение в 8-11 классах"],
+    "selectionProcess": "Онлайн туры с решением задач и кейсов",
+    "participantLimit": null,
+    "website": "https://olympiada.msu.ru/lomonosov",
+    "regulations": null
+  }
+]

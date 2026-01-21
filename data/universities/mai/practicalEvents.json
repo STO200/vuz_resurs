@@ -1,0 +1,97 @@
+[
+  {
+    "id": "mai_aviakhataton_ai_banking",
+    "name": "Авиахакатон: AI Challenge: Banking",
+    "description": "Хакатон с финансовыми кейсами, где участники решают реальные задачи банковского сектора с применением искусственного интеллекта. Возможность прокачать IT-навыки и командную работу. Вwinners получают рекомендации на работу и дополнительные баллы.",
+    "type": "Хакатон",
+    "format": "очно",
+    "duration": "48 часов",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Финансы", "IT", "Искусственный интеллект", "Бизнес-анализ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "бизнес", "IT"],
+    "dates": {
+      "registration": "2025-10-01 - 2025-11-15",
+      "event": "2025-11-20 - 2025-11-22"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником 10-11 класса", "Интерес к финтеху и AI", "Командный формат участия (3-5 человек)"],
+    "selectionProcess": "Отбор по резюме и техническим компетенциям",
+    "participantLimit": 200,
+    "website": "https://mai.ru/",
+    "regulations": "https://mai.ru/"
+  },
+  {
+    "id": "mai_masterklass_ekonomika_financy",
+    "name": "Мастер-класс «Экономика, финансы и управление проектами»",
+    "description": "Мастер-класс для школьников посвящённый современным проблемам экономики и управления проектами. Проводится опытными специалистами-практиками из экономического сектора.",
+    "type": "Мастер-класс",
+    "format": "очно",
+    "duration": "2-3 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Управление проектами"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "финансы", "менеджмент"],
+    "dates": {
+      "event": "В течение учебного года"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником", "Интерес к экономике и управлению"],
+    "website": "https://mai.ru/press/events/",
+    "regulations": "https://mai.ru/press/events/"
+  },
+  {
+    "id": "mai_business_simulation",
+    "name": "Бизнес-симуляция и деловая игра",
+    "description": "Интерактивная деловая игра по управлению виртуальным предприятием, где школьники применяют знания в области стратегии, маркетинга, финансов и операционного менеджмента.",
+    "type": "Практическое событие",
+    "format": "очно",
+    "duration": "4-6 часов",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Бизнес", "Менеджмент", "Маркетинг", "Финансовый анализ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "экономика", "финансы"],
+    "dates": {
+      "event": "В течение учебного года по расписанию"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть школьником", "Командный формат участия", "Интерес к бизнесу"],
+    "selectionProcess": "Открытый набор групп по мере комплектования",
+    "teamSize": 4,
+    "website": "https://mai.ru/",
+    "regulations": "https://mai.ru/"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "course_001",
+    "name": "Подготовительные курсы НИУ МЭИ",
+    "description": "Официальные подготовительные курсы МЭИ для подготовки абитуриентов к ЕГЭ, ОГЭ, олимпиадам и вступительным испытаниям. Обеспечение слушателей необходимой учебной литературой, преподавание ведется ведущими преподавателями вуза.",
+    "type": "подготовительные курсы",
+    "format": "смешанное_очно_онлайн",
+    "duration": "5 месяцев (ноябрь-март)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика", "Русский язык", "Информатика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-10-31",
+      "event": "2026-11-01 - 2027-03-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 5000
+    },
+    "participationRequirements": ["Школьник 9-11 класса или имеющий среднее образование", "Платеж за обучение"],
+    "selectionProcess": "Регистрация без экзаменов",
+    "participantLimit": null,
+    "website": "https://pkvd.mpei.ru",
+    "regulations": "https://pkvd.mpei.ru/2025/05/28/nabor-abiturientov-na-2023-2024-uchebnyj-god-otkryt/"
+  },
+  {
+    "id": "course_002",
+    "name": "Очные подготовительные курсы МЭИ",
+    "description": "Интенсивные очные занятия в группах по 12-15 человек, проводимые преподавателями МЭИ в аудиториях университета. Целевая подготовка к ЕГЭ и вступительным испытаниям МЭИ.",
+    "type": "подготовительные курсы",
+    "format": "очно",
+    "duration": "5 месяцев (ноябрь-март)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика", "Русский язык", "Информатика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-10-31",
+      "event": "2026-11-01 - 2027-03-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 6500
+    },
+    "participationRequirements": ["Школьник 9-11 класса", "Посещение очных занятий"],
+    "selectionProcess": "Регистрация на сайте",
+    "participantLimit": 15,
+    "website": "https://pkvd.mpei.ru",
+    "regulations": null
+  },
+  {
+    "id": "course_003",
+    "name": "Вечерние подготовительные курсы МЭИ",
+    "description": "Вечерние занятия (после 16:00) в удобное время для работающих школьников и учеников, совмещающих учебу. Программа совпадает с очными курсами.",
+    "type": "подготовительные курсы",
+    "format": "очно",
+    "duration": "5 месяцев (ноябрь-март)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика", "Русский язык", "Информатика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-10-31",
+      "event": "2026-11-01 - 2027-03-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 5500
+    },
+    "participationRequirements": ["Школьник или абитуриент"],
+    "selectionProcess": "Регистрация на сайте",
+    "participantLimit": null,
+    "website": "https://pkvd.mpei.ru",
+    "regulations": null
+  },
+  {
+    "id": "course_004",
+    "name": "Заочные подготовительные курсы МЭИ",
+    "description": "Дистанционные занятия с использованием платформ Яндекс.Телемост и Zoom. Гибкий график обучения с возможностью проведения сессий на выходных.",
+    "type": "подготовительные курсы",
+    "format": "онлайн",
+    "duration": "5 месяцев (ноябрь-март)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика", "Русский язык", "Информатика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-10-31",
+      "event": "2026-11-01 - 2027-03-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 4500
+    },
+    "participationRequirements": ["Интернет-соединение", "Компьютер или планшет"],
+    "selectionProcess": "Онлайн-регистрация",
+    "participantLimit": null,
+    "website": "https://pkvd.mpei.ru",
+    "regulations": null
+  },
+  {
+    "id": "course_005",
+    "name": "Олимпиадные кружки CASE-IN при МЭИ",
+    "description": "Образовательные кружки для подготовки к Международному инженерному чемпионату CASE-IN. Развитие инженерного мышления через решение реальных производственных кейсов.",
+    "type": "олимпиадная подготовка",
+    "format": "очно",
+    "duration": "8-10 месяцев",
+    "targetAudience": ["5 класс", "6 класс", "7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Инженерное дело", "Математика", "Физика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 10,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2026-09-01 - 2026-10-15",
+      "event": "2026-10-20 - 2027-06-30"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьник 5-11 класса", "Интерес к техническому творчеству"],
+    "selectionProcess": "Заполнение заявки на сайте",
+    "participantLimit": null,
+    "website": "https://mpei.ru/Admission/Lists/AdmissionNewsList/AdmissionNewsDispForm.aspx?ID=321",
+    "regulations": null
+  }
+]

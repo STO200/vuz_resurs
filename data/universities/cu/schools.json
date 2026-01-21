@@ -1,0 +1,38 @@
+[
+  {
+    "id": "t_classes_cu",
+    "name": "Т-Классы при Центральном университете",
+    "description": "Профильные классы с углубленным изучением программирования и информационных технологий. Очные занятия в Москве по субботам или онлайн-формат. Преподаватели - эксперты Т-Банка и ЦУ.",
+    "type": "профильный класс",
+    "format": "смешанное_очно_онлайн",
+    "grades": ["9 класс", "10 класс"],
+    "profiles": ["Программирование", "Информационные технологии"],
+    "budgetPlaces": false,
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": "100%",
+      "tuitionDiscount": "50%",
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["IT", "бизнес"],
+    "dates": {
+      "admissions": "2026-04-01 - 2026-08-31",
+      "startOfYear": "2026-09-01"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть учащимся 9-10 классов",
+      "Интерес к программированию",
+      "Пройти собеседование и тест"
+    ],
+    "selectionProcess": "Отбор по результатам тестирования и собеседования",
+    "website": "https://education.tbank.ru/school/t-class/",
+    "admissionsEmail": "school@centraluniversity.ru"
+  }
+]

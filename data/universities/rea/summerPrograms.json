@@ -1,0 +1,138 @@
+[
+  {
+    "id": "summer_001",
+    "name": "Учебно-профориентационный интенсив по менеджменту для школьников",
+    "description": "Весенний образовательный интенсив от Высшей школы менеджмента РЭУ для школьников 8-11 классов. Сочетает мастер-классы преподавателей университета, деловые игры, дискуссии с активным отдыхом (плавание, спортивные игры, экскурсии по кампусу).",
+    "type": "летний интенсив",
+    "format": "выездное",
+    "duration": "7 дней",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Менеджмент", "Лидерство", "Стратегия", "Маркетинг", "Управление проектами"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["менеджмент", "бизнес", "все направления"],
+    "dates": {
+      "registration": "2026-03-01 - 2026-03-31",
+      "event": "2026-04-15 - 2026-04-22",
+      "final": "2026-04-22"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 19500
+    },
+    "participationRequirements": ["Учащиеся 8-11 классов", "Интерес к менеджменту и лидерству", "Родительское согласие"],
+    "selectionProcess": "Заполнение онлайн-формы регистрации с указанием мотивации участия",
+    "participantLimit": 50,
+    "website": "https://www.rea.ru/structure/hs/vyisshaya-shkola-menedjmenta/abiturientu/summer-and-winter-schools---kopiya",
+    "regulations": null
+  },
+  {
+    "id": "summer_002",
+    "name": "Летние языковые школы РЭУ",
+    "description": "Летние профильные программы по иностранным языкам (английский, французский, испанский, немецкий) для развития коммуникативных навыков. Проводятся в партнёрских вузах и зарубежных центрах.",
+    "type": "языковая школа",
+    "format": "выездное",
+    "duration": "2-4 недели",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Английский язык", "Французский язык", "Испанский язык", "Немецкий язык", "Культура и история", "Профессиональный английский"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-03-01 - 2026-05-31",
+      "event": "2026-06-01 - 2026-08-31",
+      "final": "2026-08-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": null
+    },
+    "participationRequirements": ["Учащиеся 9-11 классов", "Знание языка на уровне не ниже A2", "Загранпаспорт для зарубежных программ"],
+    "selectionProcess": "Онлайн-регистрация с указанием уровня владения языком",
+    "participantLimit": 40,
+    "website": "https://www.rea.ru/mejdunarodnaya-deyatelnost/letnie-yazyikovyie-shkolyi",
+    "regulations": null
+  },
+  {
+    "id": "summer_003",
+    "name": "Летний выездной лагерь СОЛ 'Руза'",
+    "description": "Спортивно-оздоровительный лагерь РЭУ в подмосковном посёлке Руза (1,5 км от Москвы). Для лицеистов РЭУ предусмотрена летняя профильная практика в лагере с лекциями, мастер-классами и семинарами по экономике и бизнесу.",
+    "type": "выездной лагерь",
+    "format": "выездное",
+    "duration": "14-21 день",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Спорт и здоровье", "Командная работа", "Природоведение", "Английский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": "50%",
+      "tuitionDiscount": "25%",
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-03-15 - 2026-05-15",
+      "event": "2026-06-01 - 2026-08-31",
+      "final": "2026-08-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": null
+    },
+    "participationRequirements": ["Учащиеся 8-11 классов", "Справка о здоровье", "Согласие родителей"],
+    "selectionProcess": "Регистрация через управление по воспитательной работе РЭУ",
+    "participantLimit": 150,
+    "website": "https://www.rea.ru/structure/departments/upravlenie-po-sotsialno-vospitatelnoy-rabote/sportivno-ozdorovitelnyiy-lager-ruza",
+    "regulations": null
+  },
+  {
+    "id": "summer_004",
+    "name": "Летняя многопрофильная школа 'Грани предпринимательства'",
+    "description": "Выездная программа для учащихся 9-11 классов в санатории Буран (Московская область) с погружением в тему предпринимательства и инноваций. Встречи с представителями крупных компаний, разбор бизнес-кейсов, работа в командах.",
+    "type": "летняя школа",
+    "format": "выездное",
+    "duration": "10 дней",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Предпринимательство", "Бизнес-кейсы", "Инновации", "Маркетинг", "Финансы", "Лидерство"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "предпринимательство", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-03-01 - 2026-05-26",
+      "event": "2026-07-04 - 2026-07-14",
+      "final": "2026-07-14"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": null
+    },
+    "participationRequirements": ["Учащиеся 9-11 классов", "Портфолио с мотивационным письмом", "Интерес к предпринимательству"],
+    "selectionProcess": "Регистрация электронного портфолио и мотивационного письма до 26 мая",
+    "participantLimit": 100,
+    "website": "https://vk.com/@sravniprog-letnie-shkoly-dlya-shkolnikov-ot-veduschih-vuzov",
+    "regulations": null
+  }
+]

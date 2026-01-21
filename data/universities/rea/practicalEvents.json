@@ -1,0 +1,138 @@
+[
+  {
+    "id": "practical_001",
+    "name": "PLEKHANOV CASE CHAMPIONSHIP",
+    "description": "Крупнейший ежегодный кейс-чемпионат РЭУ для студентов и школьников старших классов. Участники разделяются на команды и решают реальные бизнес-кейсы от крупных компаний. Финал проводится в декабре в аудиториях РЭУ.",
+    "type": "кейс-чемпионат",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2-3 месяца подготовки",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Стратегия", "Маркетинг", "Финансы", "Аналитика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-10-01 - 2025-11-15",
+      "event": "2025-12-21 - 2025-12-22",
+      "final": "2025-12-22"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Команда 5-6 человек", "Школьники или студенты", "Желание решать бизнес-кейсы"],
+    "selectionProcess": "Регистрация команды онлайн, предварительное отборочное задание",
+    "participantLimit": 40,
+    "website": "https://www.rea.ru/events/7991-otkryita-registratsiya-na-plekhanov-case-championship-2022",
+    "regulations": null
+  },
+  {
+    "id": "practical_002",
+    "name": "Хакатоны по искусственному интеллекту и программированию",
+    "description": "Регулярные хакатоны и соревнования по программированию и разработке AI-решений, где школьники и студенты работают над реальными задачами. Организуются совместно с IT-компаниями-партнёрами.",
+    "type": "хакатон",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2-3 дня интенсива",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Программирование", "Искусственный интеллект", "Data Science", "Веб-разработка"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "бизнес-информатика", "все направления"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-03-15",
+      "event": "2026-04-01 - 2026-06-30",
+      "final": "2026-06-30"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Знание основ программирования", "Команда 3-5 человек", "Компьютер с необходимым ПО"],
+    "selectionProcess": "Свободная регистрация, отбор команд по опыту",
+    "participantLimit": 50,
+    "website": "https://www.rea.ru/",
+    "regulations": null
+  },
+  {
+    "id": "practical_003",
+    "name": "Проектные конкурсы и бизнес-симуляции",
+    "description": "Конкурсы исследовательских и проектных работ для школьников по направлениям бизнеса, экономики и менеджмента. Включают защиту проектов перед жюри из практиков и преподавателей.",
+    "type": "проектный конкурс",
+    "format": "смешанное_очно_онлайн",
+    "duration": "4-5 месяцев",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Предпринимательство", "Маркетинг", "Менеджмент", "Финансы", "Социальные проекты"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "предпринимательство", "финансы"],
+    "dates": {
+      "registration": "2026-01-15 - 2026-02-28",
+      "event": "2026-03-01 - 2026-05-31",
+      "final": "2026-06-01"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Индивидуальный или групповой проект", "Письменное описание идеи", "Видеопрезентация проекта"],
+    "selectionProcess": "Заочная оценка проектов, приглашение лучших на очную защиту в РЭУ",
+    "participantLimit": 100,
+    "website": "https://www.rea.ru/pk/entrant",
+    "regulations": null
+  },
+  {
+    "id": "practical_004",
+    "name": "Бизнес-симуляция 'Город' (Капитаны)",
+    "description": "Интерактивная бизнес-симуляция для школьников, где участники создают и развивают виртуальный бизнес, принимают управленческие решения и конкурируют с другими командами.",
+    "type": "бизнес-игра",
+    "format": "очно_выездное",
+    "duration": "3 дня",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Менеджмент", "Экономика", "Финансы", "Маркетинг", "Стратегия"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-04-30",
+      "event": "2026-05-01 - 2026-08-31",
+      "final": "2026-08-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": null
+    },
+    "participationRequirements": ["Команда 4-5 человек", "Учащиеся 9-11 классов", "Базовые знания экономики"],
+    "selectionProcess": "Онлайн-регистрация с указанием команды",
+    "participantLimit": 30,
+    "website": "https://xn----7sba5acai1akfpnah1l.xn--p1ai",
+    "regulations": null
+  }
+]

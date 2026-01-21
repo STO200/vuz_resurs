@@ -1,0 +1,210 @@
+[
+  {
+    "id": "podcast_ekonomika_na_sluh",
+    "name": "Подкаст 'Экономика на слух' РЭШ",
+    "description": "Еженедельный подкаст Российской экономической школы при поддержке Московской биржи, где известные ученые, эксперты и выпускники РЭШ рассказывают о самых интересных явлениях экономики, финансов и инвестиций: от крипторынка до макроэкономики, от глобальных тенденций до личных финансов.",
+    "type": "podcast",
+    "format": "онлайн",
+    "duration": "обновляется еженедельно, каждый выпуск 1-1,5 часа",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Инвестиции", "Макроэкономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "круглогодично"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Доступ в интернет",
+      "Подкаст-плеер или браузер"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://guru.nes.ru/podcasts/ekonomika-na-slux/",
+    "regulations": null
+  },
+  {
+    "id": "podcast_karernyy_algoritm",
+    "name": "Подкаст 'Карьерный алгоритм' РЭШ",
+    "description": "Подкаст РЭШ о выборе карьеры, где выпускники и эксперты рассказывают о построении карьерного пути в современной экономике, развитии soft skills и важности правильного выбора первой позиции.",
+    "type": "podcast",
+    "format": "онлайн",
+    "duration": "обновляется регулярно, каждый выпуск 40-60 минут",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Карьера", "Экономика", "Предпринимательство"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "круглогодично"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Доступ в интернет",
+      "Подкаст-плеер"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://guru.nes.ru/podcasts/karernyij-algoritm/",
+    "regulations": null
+  },
+  {
+    "id": "youtube_channel_nes",
+    "name": "YouTube-канал РЭШ с лекциями и интервью",
+    "description": "Официальный YouTube-канал Российской экономической школы с лекциями профессоров, видео о студентах и выпускниках, интервью о карьере и образовательном процессе. Содержит материалы для подготовки к поступлению.",
+    "type": "video_content",
+    "format": "онлайн",
+    "duration": "различная длительность видео",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Математика", "Финансы", "Карьера"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "круглогодично"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Доступ в интернет",
+      "YouTube-аккаунт"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://www.youtube.com/@NewEconomicSchool",
+    "regulations": null
+  },
+  {
+    "id": "guru_portal",
+    "name": "Просветительский портал GURU РЭШ",
+    "description": "Портал просветительского контента Российской экономической школы с лекциями, статьями, подкастами и интервью об экономике, финансах и образовании. Материалы от ведущих ученых и экспертов.",
+    "type": "educational_portal",
+    "format": "онлайн",
+    "duration": "постоянно обновляется",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Образование", "Карьера"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "круглогодично"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Доступ в интернет",
+      "Браузер"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://guru.nes.ru",
+    "regulations": null
+  },
+  {
+    "id": "telegram_nes",
+    "name": "Официальный Telegram-канал РЭШ",
+    "description": "Официальный канал РЭШ в Telegram с новостями, объявлениями о событиях, лекциями, подкастами, интервью и статьями об экономике и образовании. Есть также отдельные чаты для абитуриентов.",
+    "type": "telegram_channel",
+    "format": "онлайн",
+    "duration": "ежедневные обновления",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Образование", "События РЭШ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "круглогодично"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Telegram-аккаунт"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://t.me/nes_official",
+    "regulations": null
+  },
+  {
+    "id": "vk_nes",
+    "name": "Официальная группа РЭШ в ВКонтакте",
+    "description": "Группа РЭШ в социальной сети ВКонтакте с информацией о программах, событиях, лекциях, новостях Школы и советами абитуриентам.",
+    "type": "social_media",
+    "format": "онлайн",
+    "duration": "ежедневные обновления",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Образование", "Карьера"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "круглогодично"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "ВКонтакте-аккаунт"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://vk.com/neweconomicschool",
+    "regulations": null
+  }
+]

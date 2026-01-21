@@ -1,0 +1,74 @@
+[
+  {
+    "id": "inzhinarium_letnie_programmy",
+    "name": "Инжинириум МГТУ им. Баумана - летние программы для школьников",
+    "description": "Летние лагеря и смены творческого направления для школьников 8-11 классов. Сочетание образовательных занятий, мастер-классов по инженерным специальностям и развлекательных мероприятий. Проживание и питание включены.",
+    "type": "летняя программа",
+    "format": "очно_выездное",
+    "duration": "7-21 день (в зависимости от выбранной смены)",
+    "location": "Москва (филиалы), Подмосковье, России",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Инженерия", "Программирование", "Робототехника", "3D-моделирование"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": "25%",
+      "tuitionDiscount": "15%",
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "все направления"],
+    "dates": {
+      "registration": "2026-03-01 - 2026-05-31",
+      "event": "2026-06-01 - 2026-08-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 35000,
+      "currency": "RUB",
+      "note": "цена за одну смену (7 дней); проживание и питание включены"
+    },
+    "participationRequirements": ["Быть школьником 8-11 класса", "Регистрация на сайте Инжинириума"],
+    "selectionProcess": "Без отбора, запись по мере поступления (места ограничены)",
+    "participantLimit": 300,
+    "website": "https://kf.bmstu.ru/events/letnyaya-shkola-inzhenernye-smeny-2025",
+    "regulations": "https://kf.bmstu.ru/events/letnyaya-shkola-inzhenernye-smeny-2025"
+  },
+  {
+    "id": "letnyaya_shkola_moskva_kf",
+    "name": "Летняя школа «Инженерные смены» (Московский кампус)",
+    "description": "Летняя образовательная смена на базе московского кампуса МГТУ с мастер-классами, лекциями и практическими занятиями по инженерным и бизнес-направлениям для школьников 8-11 классов.",
+    "type": "летняя программа",
+    "format": "очно",
+    "duration": "2-3 недели",
+    "location": "Москва, главный учебный корпус МГТУ",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Менеджмент", "Инженерия", "Инновационное предпринимательство"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": "20%",
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2026-03-15 - 2026-05-30",
+      "event": "2026-06-15 - 2026-07-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 15000,
+      "currency": "RUB",
+      "note": "цена за одну смену (с питанием в столовой)"
+    },
+    "participationRequirements": ["Учащиеся 8-11 классов", "Зарегистрироваться на сайте"],
+    "selectionProcess": "Свободная запись без конкурса",
+    "participantLimit": 200,
+    "website": "https://kf.bmstu.ru/events/letnyaya-shkola-inzhenernye-smeny-2025",
+    "regulations": "https://kf.bmstu.ru/events/letnyaya-shkola-inzhenernye-smeny-2025"
+  }
+]

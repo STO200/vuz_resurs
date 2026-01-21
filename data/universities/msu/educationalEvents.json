@@ -1,0 +1,187 @@
+[
+  {
+    "id": "edu_001",
+    "name": "Цикл открытых онлайн-лекций по предпринимательству (ШМП)",
+    "description": "Серия бесплатных видеолекций для школьников, посвященных основам предпринимательства, созданию команды, развитию стартапов и практическому применению экономических знаний.",
+    "type": "онлайн-лекции",
+    "format": "онлайн",
+    "duration": "1-1.5 часа на лекцию",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Предпринимательство", "Экономика", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "предпринимательство"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-12-31",
+      "event": "2025-10-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьники любых классов",
+      "Доступ в интернет"
+    ],
+    "selectionProcess": "Свободный доступ к видеозаписям на сайте",
+    "participantLimit": null,
+    "website": "https://shmp.econ.msu.ru/lectures",
+    "regulations": null
+  },
+  {
+    "id": "edu_002",
+    "name": "Цикл занятий 'Финансовая грамотность предпринимателя'",
+    "description": "Практические занятия для школьников, посвященные личной финансовой грамотности, финансовому планированию и управлению деньгами в контексте предпринимательства.",
+    "type": "мастер-классы",
+    "format": "очно",
+    "duration": "1.5-2 часа на занятие",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансы", "Финансовая грамотность", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-05-31",
+      "event": "2025-10-01 - 2026-05-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьники 8-11 классов",
+      "Регистрация на сайте ШМП"
+    ],
+    "selectionProcess": "Свободный прием. Занятия проводятся по расписанию",
+    "participantLimit": 40,
+    "website": "https://shmp.econ.msu.ru",
+    "regulations": null
+  },
+  {
+    "id": "edu_003",
+    "name": "Конференция школьников ЭМШ",
+    "description": "Ежегодное мероприятие, где учащиеся ЭМШ представляют свои исследовательские и проектные работы по экономике и математике перед жюри и сверстниками.",
+    "type": "конференция",
+    "format": "очно",
+    "duration": "1 день (4-5 часов)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Математика", "Исследования"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-04-01",
+      "event": "2026-04-25 10:00",
+      "final": "2026-04-25"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Учащиеся ЭМШ с готовой исследовательской работой",
+      "Доклад на 10-15 минут"
+    ],
+    "selectionProcess": "Предварительная подача тезисов работы. Отбор жюри",
+    "participantLimit": 50,
+    "website": "https://emsch.ru",
+    "regulations": null
+  },
+  {
+    "id": "edu_004",
+    "name": "Онлайн-лекции МГУ 'Экономика для школьников'",
+    "description": "Серия видеолекций преподавателей ЭФ МГУ на платформе YouTube, охватывающих основные темы экономики, макроэкономики и финансов для школьников.",
+    "type": "видеолекции",
+    "format": "онлайн",
+    "duration": "20-50 минут на лекцию",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Макроэкономика", "Финансы", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы"],
+    "dates": {
+      "registration": "На постоянной основе",
+      "event": "2020-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Школьники любых классов",
+      "Доступ на YouTube"
+    ],
+    "selectionProcess": "Свободный просмотр видеозаписей в любое время",
+    "participantLimit": null,
+    "website": "https://www.youtube.com/@EFMSU",
+    "regulations": null
+  },
+  {
+    "id": "edu_005",
+    "name": "Летний семинар для учителей экономики (ЭФ МГУ)",
+    "description": "Программа повышения квалификации для преподавателей экономики, включающая лекции ведущих преподавателей ЭФ МГУ и тренеров ВОШ по актуальным темам экономики.",
+    "type": "семинар для учителей",
+    "format": "очно",
+    "duration": "5 дней",
+    "targetAudience": [],
+    "subjects": ["Экономика", "Финансы", "Макроэкономика", "Бюджетный федерализм"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-06-01",
+      "event": "2026-06-17 - 2026-06-21",
+      "final": "2026-06-21"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Учителя экономики, обществознания, финансовой грамотности",
+      "Классные руководители и кураторы групп СПО"
+    ],
+    "selectionProcess": "Регистрация через Google Forms. Бесплатный прием",
+    "participantLimit": 200,
+    "website": "https://www.econ.msu.ru/entrance/school/Events.20250528141231_9778/",
+    "regulations": "https://forms.gle/RwDHETNJnYfqXQDaA"
+  }
+]

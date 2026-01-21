@@ -1,0 +1,240 @@
+[
+  {
+    "id": "edu_event_lectures_mgimo",
+    "name": "Публичные лекции МГИМО для школьников",
+    "description": "Серия публичных лекций от преподавателей МГИМО на актуальные темы в области экономики, бизнеса, финансов, международных отношений. Лекции доступны как очно в аудиториях МГИМО, так и онлайн на YouTube-канале вуза.",
+    "type": "Лекция",
+    "format": "смешанное_очно_онлайн",
+    "duration": "1.5-2 часа",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Бизнес", "Финансы", "Международные отношения"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-02-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники любого возраста"],
+    "selectionProcess": "Открытое посещение очно или просмотр онлайн",
+    "participantLimit": null,
+    "website": "https://www.youtube.com/@mgimo",
+    "regulations": null
+  },
+  {
+    "id": "edu_event_masterclass_business",
+    "name": "Мастер-классы 'Бизнес с нуля'",
+    "description": "Серия практических мастер-классов на Факультете между экономических отношений о запуске и развитии собственного бизнеса. Преподается предпринимателями и руководителями успешных компаний с рассказом о практических инструментах и мерах поддержки для стартапов.",
+    "type": "Мастер-класс",
+    "format": "очно",
+    "duration": "2-3 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Бизнес", "Предпринимательство", "Финансы", "Стартапы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-11-30",
+      "event": "2026-03-01 - 2026-11-30",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 9-11 классов", "Интерес к предпринимательству"],
+    "selectionProcess": "Регистрация на сайте факультета",
+    "participantLimit": 50,
+    "website": "https://meo.mgimo.ru",
+    "regulations": null
+  },
+  {
+    "id": "edu_event_masterclass_economy_impressions",
+    "name": "Мастер-классы 'Экономика впечатлений'",
+    "description": "Серия мастер-классов на Факультете финансовой экономики от экспертов творческих отраслей, люкса, гостеприимства и спорта. Изучение экономики впечатлений, цифровых маркетинг и карьерные пути в креативных индустриях.",
+    "type": "Мастер-класс",
+    "format": "очно",
+    "duration": "2-3 часа",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Экономика", "Маркетинг", "Креативные индустрии", "Финансы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-11-30",
+      "event": "2026-03-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 10-11 классов"],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": 60,
+    "website": "https://finec.mgimo.ru",
+    "regulations": null
+  },
+  {
+    "id": "edu_event_masterclass_soft_skills",
+    "name": "Мастер-классы по развитию гибких навыков",
+    "description": "Мастер-классы на развитие мягких навыков: деловое общение, публичное выступление, кросс-культурная коммуникация, управление проектами. Проводятся опытными преподавателями МГИМО и практикующими специалистами.",
+    "type": "Мастер-класс",
+    "format": "очно",
+    "duration": "2 часа",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Коммуникация", "Лидерство", "Навыки презентации"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-11-30",
+      "event": "2026-03-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники любого возраста"],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": 40,
+    "website": "https://mgimo.ru",
+    "regulations": null
+  },
+  {
+    "id": "edu_event_conference_school_future",
+    "name": "Всероссийская конференция 'Образовательная инициатива: школа будущего'",
+    "description": "Ежегодная всероссийская конференция при поддержке МГИМО, Минобрнауки и Минпросвещения России. Секции по олимпиадам для школьников, современной педагогике, образовательным инициативам. Участие школьников в молодежных секциях с возможностью выступлений.",
+    "type": "Конференция",
+    "format": "очно",
+    "duration": "2-3 дня",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Образование", "Олимпиады", "Профессиональное развитие"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-09-01 - 2026-10-31",
+      "event": "2026-11-24 - 2026-11-25",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 9-11 классов", "Опыт в олимпиадах или образовательных проектах приветствуется"],
+    "selectionProcess": "Регистрация и подача заявки на выступление",
+    "participantLimit": null,
+    "website": "https://schooloffuture.education",
+    "regulations": null
+  },
+  {
+    "id": "edu_event_webinar_career",
+    "name": "Вебинары 'Карьера в экономике и бизнесе'",
+    "description": "Серия онлайн-вебинаров с профессионалами из компаний и государственных организаций о карьерных путях в экономике, финансах, бизнесе, менеджменте. Обсуждение навыков, требований работодателей и путей развития в этих сферах.",
+    "type": "Вебинар",
+    "format": "онлайн",
+    "duration": "1-1.5 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Карьера", "Экономика", "Бизнес", "Менеджмент", "Финансы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-02-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 9-11 классов", "Доступ в интернет"],
+    "selectionProcess": "Открытая регистрация на платформе",
+    "participantLimit": null,
+    "website": "https://mgimo.ru",
+    "regulations": null
+  },
+  {
+    "id": "edu_event_forum_brics",
+    "name": "Фестиваль БРИКС для школьников",
+    "description": "Образовательный фестиваль МГИМО, посвященный странам БРИКС и сотрудничеству в экономике, политике, культуре. Включает презентации, интерактивные игры, встречи с дипломатами и экспертами по развивающимся рынкам.",
+    "type": "Фестиваль",
+    "format": "очно",
+    "duration": "1 день (4-6 часов)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Международные отношения", "Экономика", "География", "Политология"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2026-08-01 - 2026-09-30",
+      "event": "2026-10-15 - 2026-10-20",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 8-11 классов"],
+    "selectionProcess": "Открытая регистрация онлайн",
+    "participantLimit": null,
+    "website": "https://mgimo.ru",
+    "regulations": null
+  }
+]

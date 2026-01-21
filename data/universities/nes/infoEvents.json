@@ -1,0 +1,184 @@
+[
+  {
+    "id": "dod_magistracy",
+    "name": "День открытых дверей магистратуры и дневных мастерских программ РЭШ",
+    "description": "Информационное мероприятие для потенциальных абитуриентов, где можно узнать о магистерских программах РЭШ, встретиться с преподавателями, студентами и представителями приемной комиссии.",
+    "type": "openDay",
+    "format": "очно",
+    "duration": "несколько часов",
+    "targetAudience": [],
+    "subjects": [],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "все направления"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-02-15",
+      "event": "2026-02-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть заинтересованным в учебе в РЭШ",
+      "Зарегистрироваться на событие"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://admissions.nes.ru/openday/",
+    "regulations": null
+  },
+  {
+    "id": "dod_combined_bachelor",
+    "name": "День открытых дверей Совместной программы по экономике НИУ ВШЭ и РЭШ",
+    "description": "Информационное мероприятие для школьников 9-11 классов, интересующихся совместной программой бакалавриата по экономике. Презентация программы, встречи с преподавателями и студентами.",
+    "type": "openDay",
+    "format": "очно",
+    "duration": "несколько часов",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Математика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес"],
+    "dates": {
+      "registration": "2026-02-15 - 2026-03-01",
+      "event": "2026-03-01"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть учащимся 9-11 класса",
+      "Заинтересованность в экономике",
+      "Зарегистрироваться на сайте"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://admissions.nes.ru/openday/",
+    "regulations": null
+  },
+  {
+    "id": "dod_mif",
+    "name": "День открытых дверей программ 'Мастер финансов' (МИФ) и Мини-МИФ",
+    "description": "Информационное мероприятие для абитуриентов программ МИФ и Мини-МИФ. Презентация программ, встречи с преподавателями и студентами, информация о поступлении.",
+    "type": "openDay",
+    "format": "очно",
+    "duration": "несколько часов",
+    "targetAudience": [],
+    "subjects": ["Финансы", "Математика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика"],
+    "dates": {
+      "registration": "2026-03-10 - 2026-03-17",
+      "event": "2026-03-17"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Заинтересованность в программах МИФ/Мини-МИФ",
+      "Зарегистрироваться на событие"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://admissions.nes.ru/openday/",
+    "regulations": null
+  },
+  {
+    "id": "webinar_mif_mini_mif",
+    "name": "Вебинар 'Поступление на МИФ и Мини-МИФ'",
+    "description": "Онлайн-встреча с представителями приемной комиссии программ 'Мастер финансов' и Мини-МИФ РЭШ. Рассмотрение всех аспектов поступления и требований.",
+    "type": "webinar",
+    "format": "онлайн",
+    "duration": "1-2 часа",
+    "targetAudience": [],
+    "subjects": ["Финансы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы"],
+    "dates": {
+      "registration": "2026-01-20 - 2026-01-22",
+      "event": "2026-01-22"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Доступ в интернет",
+      "Зарегистрироваться на вебинар"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://admissions.nes.ru/openday/",
+    "regulations": null
+  },
+  {
+    "id": "one_day_nes",
+    "name": "'Один день в РЭШ' - погружение в студенческую жизнь",
+    "description": "Уникальная возможность для абитуриентов провести день в РЭШ, посетить лекции и семинары, пообщаться со студентами и почувствовать атмосферу учебного заведения. Включает экскурсию по кампусу.",
+    "type": "infoEvent",
+    "format": "очно",
+    "duration": "1 день",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Математика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "по объявлению",
+      "event": "зима-весна 2026"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть абитуриентом",
+      "Заинтересованность в РЭШ",
+      "Зарегистрироваться на событие"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://openday.nes.ru/one-day-nes",
+    "regulations": null
+  }
+]

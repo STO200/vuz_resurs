@@ -1,0 +1,308 @@
+[
+  {
+    "id": "online_youtube_mgimo",
+    "name": "YouTube-канал МГИМО",
+    "description": "Официальный YouTube-канал МГИМО с лекциями преподавателей, мастер-классами, интервью с выпускниками, видеорепортажами о жизни вуза и образовательными роликами по экономике и бизнесу.",
+    "type": "Видео-портал",
+    "format": "онлайн",
+    "duration": "Разное (лекции 1.5-2 часа, видео 10-60 минут)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Бизнес", "Финансы", "Международные отношения", "Образование"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": null,
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Доступ в интернет"],
+    "selectionProcess": "Открытый доступ, подписка на канал",
+    "participantLimit": null,
+    "website": "https://www.youtube.com/@mgimo",
+    "regulations": null
+  },
+  {
+    "id": "online_telegram_mgimo_official",
+    "name": "Telegram-канал МГИМО. Официально",
+    "description": "Официальный Telegram-канал МГИМО (@mgimo_university) с актуальной информацией о мероприятиях, новостях вуза, анонсах олимпиад, днях открытых дверей и важной информацией для абитуриентов и студентов.",
+    "type": "Информационный канал",
+    "format": "онлайн",
+    "duration": "Актуальная информация в реальном времени",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Новости вуза", "Профориентация", "События"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": null,
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Telegram, доступ в интернет"],
+    "selectionProcess": "Открытая подписка",
+    "participantLimit": null,
+    "website": "https://t.me/s/mgimo_university",
+    "regulations": null
+  },
+  {
+    "id": "online_telegram_meo_faculty",
+    "name": "Telegram 'Поступи на МО!' - для абитуриентов факультета",
+    "description": "Специальный Telegram-канал для абитуриентов Факультета международных отношений и МЭО. Информация о программах, ДВИ, сроках подачи документов, результатах отбора, ответы на вопросы от координаторов факультета.",
+    "type": "Информационный канал",
+    "format": "онлайн",
+    "duration": "Актуальная информация в реальном времени",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Информация о поступлении", "Экономика", "МЭО"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": null,
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Telegram, интерес к факультету"],
+    "selectionProcess": "Открытая подписка",
+    "participantLimit": null,
+    "website": "https://t.me/s/tolkoMOtolkoPobeda",
+    "regulations": null
+  },
+  {
+    "id": "online_business_club_mgimo",
+    "name": "Бизнес-клуб МГИМО (Telegram/VK)",
+    "description": "Неофициальное сообщество бизнес-клуба МГИМО в Telegram и VK. Разбор профильной экономической терминологии, публикация лекций с приглашенными спикерами от компаний, обсуждение успехов крупных корпораций и стартапов.",
+    "type": "Онлайн-сообщество",
+    "format": "онлайн",
+    "duration": "Постоянно",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Бизнес", "Финансы", "Менеджмент"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "экономика", "менеджмент", "финансы"],
+    "dates": {
+      "registration": null,
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Telegram/VK, интерес к бизнесу"],
+    "selectionProcess": "Открытое присоединение",
+    "participantLimit": null,
+    "website": "https://vk.com/mgimo_business_school",
+    "regulations": null
+  },
+  {
+    "id": "online_portal_abiturient",
+    "name": "Портал 'Абитуриент МГИМО' (abiturient.mgimo.ru)",
+    "description": "Официальный информационный портал для абитуриентов с полной информацией о программах, требованиях, условиях поступления, льготах, ДВИ, результатах и личный кабинет для подачи документов.",
+    "type": "Информационный портал",
+    "format": "онлайн",
+    "duration": "Постоянно доступен",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Информация о поступлении", "Все направления"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": null,
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Доступ в интернет"],
+    "selectionProcess": "Открытый доступ",
+    "participantLimit": null,
+    "website": "https://abiturient.mgimo.ru",
+    "regulations": null
+  },
+  {
+    "id": "online_portal_junior_courses",
+    "name": "Портал MGIMO Junior (junior.mgimo.ru)",
+    "description": "Онлайн-портал с информацией о летних и зимних школах МГИМО для школьников, курсах подготовки к ОГЭ и ЕГЭ, регистрацией и расписанием занятий. Каталог всех образовательных программ для 8-11 классов.",
+    "type": "Образовательный портал",
+    "format": "онлайн",
+    "duration": "Постоянно доступен",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все предметы", "Профориентация"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно/бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Доступ в интернет"],
+    "selectionProcess": "Открытая регистрация на сайте",
+    "participantLimit": null,
+    "website": "https://junior.mgimo.ru",
+    "regulations": null
+  },
+  {
+    "id": "online_courses_platform",
+    "name": "Платформа онлайн-курсов МГИМО (online.mgimo.ru)",
+    "description": "Официальная платформа МГИМО с бесплатными онлайн-курсами по финансам, банковскому делу, экономике и другим предметам. Курсы разработаны преподавателями вуза и доступны всем желающим.",
+    "type": "Платформа онлайн-обучения",
+    "format": "онлайн",
+    "duration": "6-8 недель за курс",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансы", "Банковское дело", "Экономика", "Инвестиции"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика", "бизнес"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Регистрация на платформе"],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": null,
+    "website": "https://online.mgimo.ru",
+    "regulations": null
+  },
+  {
+    "id": "online_international_club",
+    "name": "MGIMO International Club (int.mgimo.ru)",
+    "description": "Онлайн-клуб для иностранных абитуриентов МГИМО. Бесплатные лекции, мастер-классы, консультации по поступлению, информация о жизни в России и учебе в вузе. Веб-сайт с ресурсами и контактами приемной комиссии.",
+    "type": "Информационный клуб",
+    "format": "смешанное_очно_онлайн",
+    "duration": "Постоянно доступен",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Информация о поступлении", "Все направления"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Иностранные граждане, интерес к МГИМО"],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": null,
+    "website": "https://int.mgimo.ru",
+    "regulations": null
+  },
+  {
+    "id": "online_faculty_of_advanced_training",
+    "name": "Факультет довузовской подготовки МГИМО (fdp.mgimo.ru)",
+    "description": "Онлайн-ресурс с информацией о дистанционных подготовительных программах, летней школе, консультационных курсах по языкам, экономике и другим предметам. Полный каталог программ довузовской подготовки.",
+    "type": "Образовательный портал",
+    "format": "смешанное_очно_онлайн",
+    "duration": "Постоянно доступен",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все предметы", "Подготовка к ОГЭ/ЕГЭ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-01-01 - 2026-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "платно/бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Доступ в интернет"],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": null,
+    "website": "https://fdp.mgimo.ru",
+    "regulations": null
+  }
+]

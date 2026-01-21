@@ -1,0 +1,167 @@
+[
+  {
+    "id": "edu_001",
+    "name": "Публичные лекции от кафедр МЭИ для школьников",
+    "description": "Серия бесплатных лекций, проводимых преподавателями МЭИ по специальностям вуза. Темы охватывают физику, математику, инженерное дело, информатику и экономику. Доступны для школьников 9-11 классов.",
+    "type": "лекция",
+    "format": "очно",
+    "duration": "1.5 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Физика", "Математика", "Информатика", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-02-01 - 2026-05-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьник 9-11 класса", "Предварительная регистрация"],
+    "selectionProcess": "Регистрация на сайте",
+    "participantLimit": 150,
+    "website": "https://mpei.ru/news/Pages/developments.aspx",
+    "regulations": null
+  },
+  {
+    "id": "edu_002",
+    "name": "Мастер-классы по направлениям Инженерно-экономического института (ИнЭИ)",
+    "description": "Интерактивные мастер-классы по информационной безопасности, бизнес-информатике, экономике и менеджменту. Преподаватели ИнЭИ проводят практические занятия, разбирают кейсы и демонстрируют применение теории.",
+    "type": "мастер-класс",
+    "format": "очно",
+    "duration": "2-3 часа",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Информационная безопасность", "Экономика", "Менеджмент", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы", "IT"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-03-01 - 2026-05-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьник 10-11 класса", "Интерес к экономике/IT"],
+    "selectionProcess": "Регистрация на сайте или по почте",
+    "participantLimit": 100,
+    "website": "https://mpei.ru/news/Lists/developments/event_item.aspx?ID=938",
+    "regulations": null
+  },
+  {
+    "id": "edu_003",
+    "name": "Конференция 'Цифровая экономика и инновации'",
+    "description": "Научная конференция для школьников старших классов, посвященная цифровой трансформации экономики, инновационным технологиям и карьере в digital. Доклады студентов и преподавателей, дискуссии с экспертами.",
+    "type": "конференция",
+    "format": "очно",
+    "duration": "1 день (6-8 часов)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Экономика", "Информатика", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "IT"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-03-31",
+      "event": "2026-04-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьник 10-11 класса", "Интерес к экономике и IT"],
+    "selectionProcess": "Онлайн-регистрация",
+    "participantLimit": 200,
+    "website": "https://mpei.ru/news/Pages/developments.aspx",
+    "regulations": null
+  },
+  {
+    "id": "edu_004",
+    "name": "Семинар-вебинар 'Основы финансовой грамотности' от МЭИ",
+    "description": "Онлайн-семинар для школьников по основам финансовой грамотности, инвестициям, планированию бюджета и защите прав потребителей. Ведут преподаватели экономического направления МЭИ.",
+    "type": "вебинар",
+    "format": "онлайн",
+    "duration": "1.5 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансовая грамотность", "Экономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "экономика", "менеджмент"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-02-15, 2026-03-15, 2026-04-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интернет-соединение", "Регистрация на сайте"],
+    "selectionProcess": "Регистрация на Zoom/Яндекс.Телемост",
+    "participantLimit": 500,
+    "website": "https://pkvd.mpei.ru",
+    "regulations": null
+  },
+  {
+    "id": "edu_005",
+    "name": "Мастер-класс 'Инженерное мышление в экономике' (Потенциал-2026)",
+    "description": "Специализированный мастер-класс в рамках проекта 'Потенциал', объединяющий инженерный подход с экономическим анализом. Практические примеры применения в бизнесе и технологиях.",
+    "type": "мастер-класс",
+    "format": "очно",
+    "duration": "2 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Инженерное дело", "Бизнес"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-02-28",
+      "event": "2026-03-07"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьник 9-11 класса", "Подача заявки"],
+    "selectionProcess": "Конкурсный отбор работ",
+    "participantLimit": 150,
+    "website": "https://im.mcko.ru/potential.php",
+    "regulations": null
+  }
+]

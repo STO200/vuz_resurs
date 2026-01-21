@@ -1,0 +1,200 @@
+[
+  {
+    "id": "rudn_dpo_portal",
+    "name": "Портал дополнительного профессионального образования РУДН",
+    "description": "Портал DPO.RUDN.RU предлагает доступ к информации о курсах, вебинарах, лекциях по всем направлениям, включая экономику, бизнес и менеджмент. Централизованное место для регистрации на образовательные программы РУДН.",
+    "type": "портал",
+    "format": "онлайн",
+    "duration": "постоянный доступ",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Бизнес", "Менеджмент", "Финансы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-01-01 - 2026-12-31",
+      "event": "постоянно"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интернет и компьютер", "Регистрация на портале"],
+    "selectionProcess": "Открытая регистрация. Информация о курсах и возможности зачисления доступны через личный кабинет.",
+    "participantLimit": 10000,
+    "website": "https://dpo.rudn.ru",
+    "regulations": "https://dpo.rudn.ru/policies"
+  },
+  {
+    "id": "olympiada_rudn_portal",
+    "name": "Портал олимпиад РУДН - информация и регистрация",
+    "description": "Официальный портал олимпиад РУДН содержит полную информацию о профилях олимпиад, демоверсиях заданий, методических рекомендациях, результатах предыдущих лет. Здесь же открыта регистрация на олимпиады.",
+    "type": "портал",
+    "format": "онлайн",
+    "duration": "постоянный доступ",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все предметы олимпиады"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "основы бизнеса"],
+    "dates": {
+      "registration": "2025-10-01 - 2026-01-25",
+      "event": "постоянно"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интернет", "Учетная запись для регистрации"],
+    "selectionProcess": "Самостоятельная регистрация через личный кабинет. Доступ к заданиям после регистрации на профиль.",
+    "participantLimit": 50000,
+    "website": "https://olympiada.rudn.ru",
+    "regulations": "https://olympiada.rudn.ru/regulations"
+  },
+  {
+    "id": "olymp_education_platform",
+    "name": "Платформа olymp.education - онлайн-курсы по экономике",
+    "description": "Онлайн-платформа для подготовки к олимпиадам по экономике от преподавателей ВШЭ и МГУ. Видеоуроки, задачи по уровням сложности, разборы, живые вебинары. Подробная подготовка ко всем этапам ВсОШ и другим олимпиадам.",
+    "type": "обучающая платформа",
+    "format": "онлайн",
+    "duration": "2-7 месяцев в зависимости от программы",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Микроэкономика", "Макроэкономика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-06-30",
+      "event": "постоянно"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интернет и компьютер", "Английский язык на уровне B1+ для некоторых материалов"],
+    "selectionProcess": "Регистрация на сайте. Пробный доступ к демоуроку доступен бесплатно.",
+    "participantLimit": 5000,
+    "website": "https://olymp.education",
+    "regulations": "https://olymp.education/terms"
+  },
+  {
+    "id": "olmat_econ_platform",
+    "name": "Платформа 'Олмат' - курсы подготовки к олимпиадам по экономике",
+    "description": "Онлайн-платформа 'Олмат' предлагает полный спектр подготовки к олимпиадам по экономике. Видеоуроки, задачи с решениями, прямые трансляции вебинаров, возможность задавать вопросы преподавателям.",
+    "type": "обучающая платформа",
+    "format": "онлайн",
+    "duration": "2-6 месяцев в зависимости от курса",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-06-30",
+      "event": "постоянно"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0
+    },
+    "participationRequirements": ["Интернет и компьютер", "Email для регистрации"],
+    "selectionProcess": "Регистрация на платформе. Доступен пробный период (1 неделя) для демонстрации курса.",
+    "participantLimit": 10000,
+    "website": "https://olmath.ru/oleconomics",
+    "regulations": "https://olmath.ru/privacy"
+  },
+  {
+    "id": "telegram_rudn_channels",
+    "name": "Telegram-каналы и чаты РУДН для школьников",
+    "description": "Официальные Telegram-каналы РУДН предоставляют информацию о приемах, олимпиадах, мероприятиях, вебинарах. Возможность общения со студентами и администрацией, получение актуальных новостей.",
+    "type": "социальная сеть / мессенджер",
+    "format": "онлайн",
+    "duration": "постоянный доступ",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все направления РУДН"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-01-01 - 2026-12-31",
+      "event": "постоянно"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Мессенджер Telegram", "Интернет"],
+    "selectionProcess": "Открытое подписание на канал. Ссылки доступны на официальном сайте РУДН.",
+    "participantLimit": 50000,
+    "website": "https://t.me/rudn_official",
+    "regulations": null
+  },
+  {
+    "id": "vk_rudn_communities",
+    "name": "Группы ВКонтакте РУДН и факультетов",
+    "description": "Официальные сообщества РУДН и его факультетов в социальной сети ВКонтакте. Информация об олимпиадах, днях открытых дверей, курсах, возможность общения и получения ответов на вопросы.",
+    "type": "социальная сеть",
+    "format": "онлайн",
+    "duration": "постоянный доступ",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Все направления"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-01-01 - 2026-12-31",
+      "event": "постоянно"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Аккаунт ВКонтакте", "Интернет"],
+    "selectionProcess": "Открытое присоединение к группе. Все сообщества открыты для публичного просмотра.",
+    "participantLimit": 100000,
+    "website": "https://vk.com/rudn_official",
+    "regulations": null
+  }
+]

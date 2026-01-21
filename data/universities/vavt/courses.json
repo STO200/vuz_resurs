@@ -1,0 +1,101 @@
+[
+  {
+    "id": "course_001",
+    "name": "Подготовительные курсы ВАВТ к ЕГЭ и ОГЭ",
+    "description": "Полный курс подготовки к ЕГЭ и ОГЭ по основным предметам (математика, русский язык, обществознание, английский язык, история, информатика). Группы очные (суббота) и онлайн (вторник). Занятия проводят преподаватели ВАВТ и эксперты.",
+    "type": "подготовительные курсы",
+    "format": "смешанное_очно_онлайн",
+    "duration": "54 академических часов (до 30 апреля 2026), 1 раз в неделю по 3 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика (профильная)", "Русский язык", "Обществознание", "Английский язык", "История", "Информатика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2025-11-01 - 2026-03-31",
+      "event": "2025-12-01 - 2026-04-30"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 81000
+    },
+    "participationRequirements": ["Школьники 9-11 классов", "Желание подготовиться к ЕГЭ/ОГЭ"],
+    "selectionProcess": "Открытая регистрация по заявке, договор об образовании",
+    "participantLimit": null,
+    "website": "https://kursy.vavt.ru",
+    "regulations": null
+  },
+  {
+    "id": "course_002",
+    "name": "Языковые курсы ВАВТ для школьников",
+    "description": "Занятия иностранными языками с преподавателями ВАВТ. Программы включают повышение уровня владения языком, подготовку к участию в языковых олимпиадах и помощь в выполнении домашнего задания.",
+    "type": "языковые курсы",
+    "format": "очно",
+    "duration": "по соглашению",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Английский язык", "Французский язык", "Испанский язык", "Китайский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-01-01 - 2026-12-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": null
+    },
+    "participationRequirements": ["Школьники 8-11 классов"],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": null,
+    "website": "https://kursy.vavt.ru",
+    "regulations": null
+  },
+  {
+    "id": "course_003",
+    "name": "Экспресс-курсы подготовки к ЕГЭ и ОГЭ",
+    "description": "Интенсивные краткосрочные курсы подготовки к экзаменам для школьников, которым нужна экстренная подготовка. Включают теорию и практику по основным дисциплинам.",
+    "type": "интенсивные курсы",
+    "format": "смешанное_очно_онлайн",
+    "duration": "по программе, обычно 1-2 месяца",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика (профильная)", "Русский язык", "Обществознание", "Английский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-04-01 - 2026-06-30",
+      "event": "2026-05-01 - 2026-07-31"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": null
+    },
+    "participationRequirements": ["Школьники 9-11 классов"],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": null,
+    "website": "https://kursy.vavt.ru",
+    "regulations": null
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "bakalav_prep_courses",
+    "name": "Подготовка к поступлению на Совместную программу ВШЭ и РЭШ",
+    "description": "Бесплатные подготовительные материалы и курсы для школьников, планирующих поступление на совместный бакалавриат по экономике ВШЭ и РЭШ. Включает видеолекции, задачи и методические материалы.",
+    "type": "preparatory_course",
+    "format": "смешанное_очно_онлайн",
+    "duration": "по требованию",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Математика", "Русский язык", "Экономика", "Иностранный язык", "Обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "круглогодично"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть школьником 10-11 класса",
+      "Иметь доступ в интернет для онлайн-материалов"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://admissions.nes.ru/bachelor/",
+    "regulations": null
+  },
+  {
+    "id": "magistracy_prep_courses",
+    "name": "Подготовительные курсы для поступающих в магистратуру РЭШ",
+    "description": "Специализированные курсы подготовки к вступительным испытаниям в магистратуру РЭШ по математике и английскому языку. Включают лекции, семинары и домашние задания с поддержкой преподавателей.",
+    "type": "preparatory_course",
+    "format": "очно",
+    "duration": "3-4 месяца",
+    "targetAudience": [],
+    "subjects": ["Математика", "Английский язык", "Теория вероятностей", "Линейная алгебра", "Математический анализ"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы"],
+    "dates": {
+      "registration": "2026-01-14",
+      "courses": "2026-01-14 - по завершению"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": null
+    },
+    "participationRequirements": [
+      "Быть абитуриентом магистратуры РЭШ",
+      "Иметь высшее образование (бакалавриат или специалитет)"
+    ],
+    "selectionProcess": "Открытый набор с ограничением мест",
+    "participantLimit": null,
+    "website": "https://admissions.nes.ru/master/preparation-courses/",
+    "regulations": null
+  },
+  {
+    "id": "videolectures_youtube",
+    "name": "Видеолекции РЭШ по подготовке к экзаменам и олимпиадам",
+    "description": "Циклы видеолекций профессоров РЭШ по математическому анализу, линейной алгебре, теории вероятностей и другим предметам, необходимым для поступления в магистратуру и участия в олимпиадах.",
+    "type": "online_course",
+    "format": "онлайн",
+    "duration": "переменная длительность",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Математика", "Экономика", "Английский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "математика"],
+    "dates": {
+      "registration": "круглогодично"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Иметь доступ в интернет",
+      "YouTube-канал РЭШ"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://www.youtube.com/@NewEconomicSchool",
+    "regulations": null
+  },
+  {
+    "id": "iloveeconomics_tasks",
+    "name": "Платформа задач ILoveEconomics.ru",
+    "description": "Платформа с задачами и материалами по экономике для школьников всех уровней подготовки. Содержит задачи от простых до олимпиадных, а также методические материалы по экономике.",
+    "type": "online_course",
+    "format": "онлайн",
+    "duration": "по требованию",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Микроэкономика", "Макроэкономика", "Финансы"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "финансы"],
+    "dates": {
+      "registration": "круглогодично"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Доступ в интернет",
+      "Способность решать задачи по экономике"
+    ],
+    "selectionProcess": null,
+    "participantLimit": null,
+    "website": "https://iloveeconomics.ru",
+    "regulations": null
+  },
+  {
+    "id": "repetitors_nes",
+    "name": "Репетиторы РЭШ для подготовки",
+    "description": "Услуга индивидуального репетиторства от студентов и выпускников РЭШ. Помощь в подготовке к вступительным испытаниям и олимпиадам РЭШ.",
+    "type": "tutoring",
+    "format": "очно",
+    "duration": "по договоренности",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Математика", "Экономика", "Английский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы"],
+    "dates": {
+      "registration": "по запросу"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": null
+    },
+    "participationRequirements": [
+      "Желание получить индивидуальное обучение"
+    ],
+    "selectionProcess": "Договоренность напрямую с репетитором",
+    "participantLimit": null,
+    "website": "https://admissions.nes.ru/master/handbook-for-exam-preparation/",
+    "regulations": null
+  }
+]

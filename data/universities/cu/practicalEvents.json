@@ -1,0 +1,149 @@
+[
+  {
+    "id": "cu_tournament_reshis_2026",
+    "name": "Турнир для школьников \"Решись\" от Центрального университета",
+    "description": "Онлайн-турнир для школьников по четырем направлениям: разработка, искусственный интеллект, бизнес и аналитика, дизайн. Участники могут выбрать одно или несколько направлений для участия.",
+    "type": "кейс-чемпионат",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2-3 недели от регистрации",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Разработка", "Искусственный интеллект", "Бизнес", "Аналитика", "Дизайн"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": "100%",
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["бизнес", "IT", "экономика", "менеджмент"],
+    "dates": {
+      "registration": "2026-10-01 - 2026-11-12 16:00",
+      "event": "ноябрь-декабрь 2026"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть учащимся 10-11 классов",
+      "Зарегистрироваться на сайте турнира",
+      "Выбрать одно или несколько направлений"
+    ],
+    "selectionProcess": "Открытый отборочный этап с онлайн-задачами",
+    "participantLimit": 500,
+    "website": "https://cntrluniv.ru/cu-turnir-reshis",
+    "regulations": null
+  },
+  {
+    "id": "cu_demo_days_2026",
+    "name": "Demo Days - Практические пробы профессий",
+    "description": "Демонстрационные дни, где школьники пробуют себя в IT и бизнес профессиях на практике. Возможность работать над реальными задачами и проектами.",
+    "type": "практическое мероприятие",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2-3 дня",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["IT", "Программирование", "Бизнес", "Продуктовый менеджмент"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "IT", "менеджмент"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-06-15",
+      "event": "2026-06-26 - 2026-08-06"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть учащимся 10-11 классов",
+      "Зарегистрироваться онлайн или очно"
+    ],
+    "selectionProcess": "Открытый набор",
+    "participantLimit": 300,
+    "website": "https://event.centraluniversity.ru",
+    "regulations": null
+  },
+  {
+    "id": "cu_datathon_2026",
+    "name": "Дататон 2.0 - Кейс-чемпионат по анализу данных",
+    "description": "Кейс-чемпионат для школьников по анализу данных. Участники решают реальные бизнес-задачи, связанные с анализом информации и принятием решений на основе данных.",
+    "type": "кейс-чемпионат",
+    "format": "очно",
+    "duration": "1 день (5-6 часов)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Анализ данных", "Статистика", "Бизнес-аналитика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": "100%",
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "финансы", "экономика"],
+    "dates": {
+      "registration": "2026-05-01 - 2026-06-30",
+      "event": "2026-07-13"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть учащимся 10-11 классов",
+      "Быть мотивированным на изучение анализа данных",
+      "Зарегистрироваться на чемпионат"
+    ],
+    "selectionProcess": "Открытая регистрация",
+    "participantLimit": 200,
+    "website": "https://event.cu.ru/dataton",
+    "regulations": null
+  },
+  {
+    "id": "cu_case_championship",
+    "name": "Кейс-чемпионат для школьников Центрального университета",
+    "description": "Командное соревнование по решению бизнес-кейсов. Главный приз - 100% грант в Центральный университет. Участники работают над реальными задачами компаний-партнеров.",
+    "type": "кейс-чемпионат",
+    "format": "очно",
+    "duration": "4-5 часов",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Бизнес", "Менеджмент", "Аналитика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": "100%",
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент", "экономика"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-03-15",
+      "event": "2026-03-28"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 5000
+    },
+    "participationRequirements": [
+      "Быть школьником",
+      "Участвовать в команде (4-5 человек)",
+      "Зарегистрироваться на чемпионат"
+    ],
+    "selectionProcess": "Регистрация команд с анкетой",
+    "participantLimit": 100,
+    "website": "https://event.centraluniversity.ru/casecontest",
+    "regulations": null
+  }
+]

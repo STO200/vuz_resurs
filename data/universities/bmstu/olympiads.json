@@ -1,0 +1,99 @@
+[
+  {
+    "id": "shag_v_budushchee_olimp",
+    "name": "Олимпиада школьников «Шаг в будущее»",
+    "description": "Многопрофильная олимпиада МГТУ им. Баумана, включённая в Перечень олимпиад школьников. Охватывает различные направления подготовки, включая инженерное дело, математику и инновационные проекты.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3-4 месяца (отборочный и заключительный этапы)",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика", "Информатика", "Инженерное дело"],
+    "benefits": {
+      "bvi": true,
+      "points100": true,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "все направления"],
+    "dates": {
+      "registration": "2025-09-15 - 2025-11-11",
+      "qualification": "2025-10-15 - 2025-12-31",
+      "final": "2026-03-15 - 2026-04-30"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Быть учащимся 8-11 классов", "Зарегистрироваться на сайте олимпиады"],
+    "selectionProcess": "Двухэтапная: отборочный этап (онлайн задания), заключительный этап (очно на базе МГТУ и региональных площадок)",
+    "website": "https://olymp.bmstu.ru/ru",
+    "regulations": "https://olymp.bmstu.ru/ru"
+  },
+  {
+    "id": "vuzsshaya_proba_ekonomika",
+    "name": "Олимпиада «Высшая проба» (экономика, бизнес-профиль)",
+    "description": "Многопрофильная олимпиада ВШЭ с экономическим профилем. Партнёрское сотрудничество с МГТУ даёт преимущества при поступлении на экономические направления.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2-3 месяца",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Математика", "Обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "финансы"],
+    "dates": {
+      "registration": "2025-08-01 - 2025-10-15",
+      "qualification": "2025-11-01 - 2025-12-31",
+      "final": "2026-02-20 - 2026-03-15"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся школ", "Регистрация на портале олимпиады"],
+    "website": "https://olymp.hse.ru/mmo/",
+    "regulations": "https://olymp.hse.ru/mmo/reglament/"
+  },
+  {
+    "id": "mezhdunarodnaya_olimpiada_ekonomika",
+    "name": "Международная олимпиада по экономике (IEO)",
+    "description": "Престижная международная олимпиада по экономике для талантливых школьников. МГТУ является одной из площадок проведения на территории России.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2-3 месяца",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансовая грамотность"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 8,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "2025-09-01 - 2025-10-31",
+      "qualification": "2025-11-15 - 2025-12-31",
+      "final": "2026-03-01 - 2026-04-30"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 10-11 классов", "Базовые знания экономики"],
+    "website": "https://www.ieoeconomics.com/",
+    "regulations": "https://www.ieoeconomics.com/regulations"
+  }
+]

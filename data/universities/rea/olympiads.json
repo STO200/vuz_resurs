@@ -1,0 +1,308 @@
+[
+  {
+    "id": "olymp_001",
+    "name": "Плехановская олимпиада школьников - Экономика",
+    "description": "Олимпиада по экономике для школьников 8-11 классов, включённая в Перечень олимпиад школьников, дающих льготы при поступлении в вузы РФ. Проводится с 2010 года в два этапа: заочный (с ноября по январь) и заключительный (март).",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3 месяца",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Экономика", "Основы экономических знаний"],
+    "benefits": {
+      "bvi": true,
+      "points100": true,
+      "additionalPoints": 10,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["экономика", "бизнес", "финансы", "менеджмент"],
+    "dates": {
+      "registration": "2025-10-01 - 2026-01-26",
+      "event": "2026-01-01 - 2026-03-31",
+      "final": "2026-03-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 8-11 классов РФ и зарубежных стран", "Онлайн-регистрация на сайте"],
+    "selectionProcess": "Отборочный этап - дистанционно (заочный), затем очный финал в Москве и на региональных площадках",
+    "participantLimit": null,
+    "website": "https://www.rea.ru/pk/entrant/posh",
+    "regulations": "https://olimpiada.ru/activity/5172"
+  },
+  {
+    "id": "olymp_002",
+    "name": "Плехановская олимпиада школьников - Финансовая грамотность",
+    "description": "Олимпиада по финансовой грамотности для школьников 8-11 классов, включённая в Перечень олимпиад Минобрнауки. Проводит РЭУ имени Г.В. Плеханова при поддержке Минфина.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3 месяца",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Финансовая грамотность", "Инвестиции", "Налогообложение", "Страхование"],
+    "benefits": {
+      "bvi": true,
+      "points100": true,
+      "additionalPoints": 10,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["финансы", "экономика", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2025-10-01 - 2026-01-26",
+      "event": "2026-01-01 - 2026-03-31",
+      "final": "2026-03-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 8-11 классов", "Знание основ финансовых инструментов"],
+    "selectionProcess": "Заочный этап (дистанционно), затем очный финал с решением практических задач",
+    "participantLimit": null,
+    "website": "https://www.rea.ru/pk/entrant/posh",
+    "regulations": null
+  },
+  {
+    "id": "olymp_003",
+    "name": "Плехановская олимпиада школьников - Иностранный язык",
+    "description": "Олимпиада по иностранным языкам (английский, французский, испанский, немецкий) для учащихся 8-11 классов, включённая в Перечень олимпиад Минобрнауки. Проходит в два этапа с возможностью участия дистанционно.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3 месяца",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Английский язык", "Французский язык", "Испанский язык", "Немецкий язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": true,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления", "туризм", "гостиничное дело", "международные отношения"],
+    "dates": {
+      "registration": "2025-10-01 - 2026-01-19",
+      "event": "2025-11-17 - 2026-02-26",
+      "final": "2026-02-26"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Знание иностранного языка на уровне 8-11 класса", "Онлайн-регистрация"],
+    "selectionProcess": "Отборочный этап дистанционно, заключительный очно в РЭУ и на региональных площадках",
+    "participantLimit": null,
+    "website": "https://msk.postupi.online/olimpiada/plehanovskaya-olimpiada-inostrannyj-yazyk-anglijskij-i-dr/",
+    "regulations": null
+  },
+  {
+    "id": "olymp_004",
+    "name": "Плехановская олимпиада школьников - Русский язык",
+    "description": "Олимпиада по русскому языку для учащихся 8-11 классов, включённая в Перечень олимпиад Минобрнауки. Проверяет глубину знания грамматики, синтаксиса и литературоведения.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3 месяца",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Русский язык", "Грамматика", "Синтаксис", "Литературоведение"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-10-01 - 2026-01-26",
+      "event": "2026-01-01 - 2026-03-31",
+      "final": "2026-03-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Знание русского языка на уровне 8-11 класса"],
+    "selectionProcess": "Отборочный этап (29 заданий за 100 минут) дистанционно, очный финал в Москве",
+    "participantLimit": null,
+    "website": "https://www.rea.ru/pk/entrant/posh",
+    "regulations": null
+  },
+  {
+    "id": "olymp_005",
+    "name": "Плехановская олимпиада школьников - Предпринимательство",
+    "description": "Олимпиада по предпринимательству для учащихся 8-11 классов, включённая в Перечень олимпиад. Требует знания основ маркетинга, налогообложения и истории бизнеса.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3 месяца",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Предпринимательство", "Маркетинг", "Налогообложение", "Финансы", "Бизнес-планирование"],
+    "benefits": {
+      "bvi": true,
+      "points100": true,
+      "additionalPoints": 10,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["бизнес", "предпринимательство", "финансы", "менеджмент"],
+    "dates": {
+      "registration": "2025-10-01 - 2026-01-26",
+      "event": "2026-01-01 - 2026-03-31",
+      "final": "2026-03-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 8-11 классов", "Практические знания о предпринимательстве"],
+    "selectionProcess": "Заочный тур (79 заданий), очный тур с проектным заданием в Москве и регионах",
+    "participantLimit": null,
+    "website": "https://msk.postupi.online/olimpiada/plehanovskaya-olimpiada-shkolnikov-po-predprinimatelstvu/",
+    "regulations": null
+  },
+  {
+    "id": "olymp_006",
+    "name": "Олимпиада по менеджменту имени Ф.М. Русинова",
+    "description": "Межвузовская командная олимпиада для школьников 10-11 классов, посвящённая актуальным темам менеджмента. В 2025-2026 году посвящена теме GR-менеджмента (взаимодействие бизнеса и государства).",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2 месяца",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Менеджмент", "Стратегия", "GR-менеджмент", "Государственное управление"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["менеджмент", "бизнес", "все направления"],
+    "dates": {
+      "registration": "2025-12-01 - 2026-02-28",
+      "event": "2026-02-28 - 2026-04-25",
+      "final": "2026-04-25"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Команда 5 человек с капитаном", "Школьники 10-11 классов"],
+    "selectionProcess": "Заочное домашнее задание отборочного тура, затем очный финал в РЭУ",
+    "participantLimit": null,
+    "website": "https://www.rea.ru/structure/hs/vyisshaya-shkola-menedjmenta/abiturientu/olimpiadu-po-menedjmentu-imeni-fm-rusinova-dlya-postupa",
+    "regulations": null
+  },
+  {
+    "id": "olymp_007",
+    "name": "Олимпиада по инноватике для школьников",
+    "description": "Командная олимпиада от Высшей школы менеджмента РЭУ для учащихся 10-11 классов и студентов СПО. Фокусируется на цифровизации, бизнесе и технологическом предпринимательстве. Проводится ежегодно в апреле.",
+    "type": "олимпиада",
+    "format": "очно",
+    "duration": "5 часов",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Инноватика", "Цифровизация", "Технологическое предпринимательство", "Бизнес-технологии"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "IT", "менеджмент", "предпринимательство"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-03-15",
+      "event": "2026-04-11",
+      "final": "2026-04-11"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Команда школьников или студентов СПО", "Подготовка инновационного проекта"],
+    "selectionProcess": "Очный формат с презентацией проекта и ответами на вопросы жюри",
+    "participantLimit": 20,
+    "website": "https://www.rea.ru/structure/hs/vyisshaya-shkola-menedjmenta/55851-tsifrovizatsiya-biznes-i-tehnologicheskoe-predprinimatelstvo",
+    "regulations": null
+  },
+  {
+    "id": "olymp_008",
+    "name": "Плехановская олимпиада школьников - Информатика",
+    "description": "Олимпиада по информатике для учащихся 8-11 классов, включённая в Перечень олимпиад. Проверяет навыки алгоритмического мышления и программирования.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3 месяца",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Информатика", "Программирование", "Алгоритмы", "Структуры данных"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "бизнес-информатика", "все направления"],
+    "dates": {
+      "registration": "2025-10-01 - 2026-01-26",
+      "event": "2026-01-01 - 2026-03-31",
+      "final": "2026-03-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Знание основ программирования", "Логическое мышление"],
+    "selectionProcess": "Отборочный этап дистанционно, очный финал в РЭУ и регионах",
+    "participantLimit": null,
+    "website": "https://www.rea.ru/pk/entrant/posh",
+    "regulations": null
+  },
+  {
+    "id": "olymp_009",
+    "name": "Плехановская олимпиада школьников - Журналистика",
+    "description": "Олимпиада по журналистике для учащихся 8-11 классов. Проверяет навыки написания публицистических текстов и знание основ журналистики.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "3 месяца",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Журналистика", "Публицистика", "Медиа", "Творческое письмо"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-10-01 - 2026-01-26",
+      "event": "2026-01-01 - 2026-03-31",
+      "final": "2026-03-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Учащиеся 8-11 классов", "Творческие способности"],
+    "selectionProcess": "Заочный этап дистанционно, очный финал в РЭУ",
+    "participantLimit": null,
+    "website": "https://www.rea.ru/pk/entrant/posh",
+    "regulations": null
+  }
+]

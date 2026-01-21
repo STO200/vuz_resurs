@@ -1,0 +1,132 @@
+[
+  {
+    "id": "mai_podgotovitelnye_kursy",
+    "name": "Подготовительные курсы МАИ",
+    "description": "Центр подготовительных курсов МАИ осуществляет подготовку учащихся к ОГЭ, ЕГЭ и участию в олимпиадах. 90% выпускников поступают в МАИ и другие технические вузы.",
+    "type": "Подготовительные курсы",
+    "format": "очно",
+    "duration": "3-4 месяца",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика", "Информатика", "Русский язык", "Обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 3,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы", "все направления"],
+    "dates": {
+      "registration": "2025-09-01 - 2026-01-31",
+      "courses": "2026-02-01 - 2026-06-30"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0,
+      "note": "Уточняется по телефону"
+    },
+    "participationRequirements": ["Быть школьником", "Желание подготовиться к экзаменам"],
+    "selectionProcess": "Открытый набор, по мере комплектования групп",
+    "website": "https://pre.mai.ru/education/courses/",
+    "regulations": "https://pre.mai.ru/education/courses/"
+  },
+  {
+    "id": "mai_detskiy_teknopark_traektoria",
+    "name": "Детский технопарк «Траектория взлёта»",
+    "description": "Первый шаг на пути к востребованной профессии будущего. Обучение по 6 технологическим направлениям: авиация, беспилотники, программирование, робототехника, инженерная физика, английский язык, а также подготовка к ОГЭ/ЕГЭ.",
+    "type": "Дополнительное образование",
+    "format": "очно",
+    "duration": "От 1 месяца до 1 года в зависимости от программы",
+    "targetAudience": ["5 класс", "6 класс", "7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Авиация", "Беспилотники", "Программирование", "Робототехника", "Инженерная физика", "Английский язык", "Физика", "Математика", "Информатика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-08-01 - 2026-12-31",
+      "courses": "По расписанию",
+      "enrollment": "Открыт круглогодичный приём"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0,
+      "note": "Уточняется по телефону"
+    },
+    "participationRequirements": ["Быть школьником", "Интерес к выбранному направлению"],
+    "website": "https://traektoria.mai.ru/",
+    "regulations": "https://traektoria.mai.ru/"
+  },
+  {
+    "id": "mai_onlain_kursy_shkolnikam",
+    "name": "Онлайн-курсы МАИ для школьников",
+    "description": "Онлайн-курсы по различным направлениям подготовки к ЕГЭ, ОГЭ и участию в олимпиадах. Обучение происходит в удобном темпе с использованием интерактивных материалов.",
+    "type": "Онлайн-курсы",
+    "format": "онлайн",
+    "duration": "2-3 месяца в зависимости от курса",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика", "Информатика", "Русский язык", "Обществознание"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-08-01 - 2026-12-31",
+      "courses": "По расписанию"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0,
+      "note": "Уточняется на сайте"
+    },
+    "participationRequirements": ["Быть школьником", "Наличие компьютера с интернетом"],
+    "website": "https://mai.ru/education/dpo/online/",
+    "regulations": "https://mai.ru/education/dpo/online/"
+  },
+  {
+    "id": "mai_intensiv_ege_podgotovka",
+    "name": "Интенсивная подготовка к ЕГЭ в МАИ",
+    "description": "Краткосрочные интенсивные курсы для подготовки к сдаче ЕГЭ по основным предметам. Проводятся опытными преподавателями МАИ с многолетним опытом работы с абитуриентами.",
+    "type": "Интенсивные курсы",
+    "format": "очно",
+    "duration": "4-8 недель",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Математика", "Физика", "Информатика", "Русский язык"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "2025-12-01 - 2026-04-30",
+      "courses": "2026-01-15 - 2026-06-30"
+    },
+    "cost": {
+      "type": "платно",
+      "amount": 0,
+      "note": "Уточняется по телефону"
+    },
+    "participationRequirements": ["Быть учащимся 10-11 классов", "Желание интенсивно подготовиться"],
+    "website": "https://pre.mai.ru/education/courses/",
+    "regulations": "https://pre.mai.ru/education/courses/"
+  }
+]

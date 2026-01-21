@@ -1,0 +1,101 @@
+[
+  {
+    "id": "edu_001",
+    "name": "Университетские субботы ВАВТ",
+    "description": "Еженедельные дистанционные лекции для школьников 9-11 классов, студентов колледжей, учителей и родителей. Темы включают молодежное предпринимательство, основы бизнеса, финансовую грамотность и другие актуальные темы экономики и бизнеса. Проводятся известными преподавателями ВАВТ и приглашенными экспертами.",
+    "type": "лекция",
+    "format": "онлайн",
+    "duration": "1-2 часа (по расписанию)",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Предпринимательство", "Финансы", "Право"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-01-01 - 2026-12-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 9-11 классов", "Студенты колледжей", "Учителя и родители"],
+    "selectionProcess": "Открытая регистрация на каждую лекцию",
+    "participantLimit": null,
+    "website": "https://www.vavt.ru/about/universitetskie-subboty-vavt/",
+    "regulations": null
+  },
+  {
+    "id": "edu_002",
+    "name": "Мастер-классы от преподавателей ВАВТ",
+    "description": "Практические мастер-классы по различным направлениям, проводимые преподавателями ВАВТ в сотрудничестве со школами. Примеры: дизайн-мышление, деловые переговоры, основы права. Интерактивный формат с применением практических навыков.",
+    "type": "мастер-класс",
+    "format": "смешанное_очно_онлайн",
+    "duration": "2-3 часа",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Право", "Бизнес", "Дизайн-мышление"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "dates": {
+      "registration": "2026-01-01 - 2026-12-31",
+      "event": "2026-01-01 - 2026-12-31"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 9-11 классов"],
+    "selectionProcess": "Регистрация через школу или ВАВТ",
+    "participantLimit": null,
+    "website": "https://dod.vavt.ru",
+    "regulations": null
+  },
+  {
+    "id": "edu_003",
+    "name": "Школа переговоров ВАВТ (в сотрудничестве с Школой экспорта РЭЦ)",
+    "description": "Совместный образовательный проект ВАВТ и Российского экспортного центра по обучению ведению международных переговоров. Включает семинары, тренинги, мастер-классы по специфике переговоров с представителями разных культур, развитие навыков деловой коммуникации.",
+    "type": "образовательная программа",
+    "format": "смешанное_очно_онлайн",
+    "duration": "по программе",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Переговоры", "Внешняя торговля", "Деловая коммуникация", "Культурология"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2026-02-01 - 2026-05-31",
+      "event": "2026-03-01 - 2026-06-30"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 10-11 классов", "Интерес к переговорам и бизнесу"],
+    "selectionProcess": "Регистрация на платформе",
+    "participantLimit": null,
+    "website": "https://negotiations.vavt.ru",
+    "regulations": null
+  }
+]

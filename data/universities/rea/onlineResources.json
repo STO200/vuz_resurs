@@ -1,0 +1,206 @@
+[
+  {
+    "id": "online_001",
+    "name": "Платформа дистанционного обучения do.rea.ru",
+    "description": "Портал РЭУ с более чем 300 онлайн-курсов по экономике, бизнесу, менеджменту, финансам и IT. Школьники могут записываться на курсы в любое время и учиться в удобном темпе. После завершения получают сертификат.",
+    "type": "образовательный портал",
+    "format": "онлайн",
+    "duration": "1-4 месяца",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Бизнес", "Менеджмент", "Финансы", "Предпринимательство", "IT", "Маркетинг", "Лидерство"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "бизнес", "финансы", "менеджмент", "IT"],
+    "dates": {
+      "registration": "круглогодично",
+      "event": "в любое время",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": null
+    },
+    "participationRequirements": ["Интернет-соединение", "Email для регистрации", "Желание изучать новое"],
+    "selectionProcess": "Свободная регистрация на портале, выбор курса из каталога",
+    "participantLimit": null,
+    "website": "https://do.rea.ru/kursy/shkolnikam-i-studentam",
+    "regulations": null
+  },
+  {
+    "id": "online_002",
+    "name": "YouTube-канал РЭУ им. Г.В. Плеханова",
+    "description": "Официальный канал университета на YouTube с контентом для школьников: лекциями, мастер-классами, интервью с преподавателями, видео о жизни студентов и процессе поступления. Более 1000 видео.",
+    "type": "видеоканал",
+    "format": "онлайн",
+    "duration": "различная",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Экономика", "Финансы", "Менеджмент", "Карьера", "Образование"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "не требуется",
+      "event": "постоянно",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Аккаунт YouTube (опционально)", "Интернет-соединение"],
+    "selectionProcess": "Свободный доступ, подписка на канал для уведомлений",
+    "participantLimit": null,
+    "website": "https://www.youtube.com/c/PlekhanovUniversity",
+    "regulations": null
+  },
+  {
+    "id": "online_003",
+    "name": "Telegram-канал Plekhanov Universe",
+    "description": "Официальный телеграм-канал РЭУ с новостями о мероприятиях, льготах при поступлении, интересных фактах о студенческой жизни, достижениях студентов и преподавателей.",
+    "type": "социальная сеть",
+    "format": "онлайн",
+    "duration": "постоянно",
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Новости РЭУ", "Студенческая жизнь", "Карьера", "Мероприятия"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "не требуется",
+      "event": "постоянно",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Приложение Telegram", "Подписка на канал"],
+    "selectionProcess": "Поиск канала @PlekhanovUniverse в Telegram",
+    "participantLimit": null,
+    "website": "https://t.me/s/PlekhanovUniverse",
+    "regulations": null
+  },
+  {
+    "id": "online_004",
+    "name": "Telegram-канал Управления приёмной комиссии РЭУ",
+    "description": "Специализированный канал приёмной комиссии РЭУ с информацией о датах приёма документов, правилах поступления, возможностях получения льгот, программе 'Лидеры РЭУ' и результатах отбора.",
+    "type": "информационный канал",
+    "format": "онлайн",
+    "duration": "постоянно",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Поступление в вуз", "Льготы", "Программы подготовки", "Регистрация"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "не требуется",
+      "event": "постоянно",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Приложение Telegram"],
+    "selectionProcess": "Поиск канала @priemREA2025 в Telegram",
+    "participantLimit": null,
+    "website": "https://t.me/priemREA2025",
+    "regulations": null
+  },
+  {
+    "id": "online_005",
+    "name": "Система дистанционного обучения lmsdo.rea.ru",
+    "description": "Университетская LMS-система для дистанционного обучения с курсами подготовки к ЕГЭ и олимпиадам. Включает интерактивные тесты, видеолекции и материалы для самостоятельного изучения.",
+    "type": "система дистанционного обучения",
+    "format": "онлайн",
+    "duration": "по индивидуальному плану",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Русский язык", "Математика", "Обществознание", "История", "Английский язык", "Информатика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "круглогодично",
+      "event": "в любое время",
+      "final": null
+    },
+    "cost": {
+      "type": "платно",
+      "amount": null
+    },
+    "participationRequirements": ["Аккаунт на платформе", "Интернет", "Выполнение домашних заданий"],
+    "selectionProcess": "Регистрация и выбор курса на платформе",
+    "participantLimit": null,
+    "website": "https://lmsdo.rea.ru",
+    "regulations": null
+  },
+  {
+    "id": "online_006",
+    "name": "Программа 'Лидеры РЭУ' для победителей олимпиад",
+    "description": "Специальная программа поддержки для победителей и призёров олимпиад, включающая повышенную стипендию, бесплатное проживание в центре Москвы, стажировки в зарубежных партнёрских вузах, обучение в группе Data Science и скидки на дополнительное образование.",
+    "type": "льготная программа",
+    "format": "смешанное_очно_онлайн",
+    "duration": "на время обучения в вузе",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Все направления"],
+    "benefits": {
+      "bvi": true,
+      "points100": true,
+      "additionalPoints": 10,
+      "grants": "100%",
+      "tuitionDiscount": "100%",
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["все направления"],
+    "dates": {
+      "registration": "в год поступления",
+      "event": "2026-01-01 - 2030-12-31",
+      "final": null
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Победа или призовое место на включённой в Перечень олимпиаде", "Поступление в РЭУ без вступительных испытаний", "Обучение на программах бакалавриата или специалитета"],
+    "selectionProcess": "Автоматическое включение после публикации приказа о зачислении",
+    "participantLimit": null,
+    "website": "https://www.rea.ru/pk/entrant/lideryi-reu",
+    "regulations": null
+  }
+]

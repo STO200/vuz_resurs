@@ -1,0 +1,148 @@
+[
+  {
+    "id": "cu_design_olympiad_2026",
+    "name": "Мультисенсорная олимпиада по дизайну \"dsgn sense\"",
+    "description": "Мультисенсорная олимпиада для школьников по дизайну с участием партнеров Т-Банка. Участники создают плакаты, афиши, иллюстрации, концепты сайтов и мобильных приложений на основе реальных задач компаний-партнеров.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "около 2 месяцев (регистрация - финал)",
+    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": ["Дизайн", "Креативность", "Продуктовое мышление"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": "100%",
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": true
+    },
+    "relevantDirections": ["дизайн", "бизнес"],
+    "dates": {
+      "registration": "2026-01-21 - 2026-02-16",
+      "qualification": "февраль-март 2026",
+      "final": "2026-04-24 - 2026-04-27"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть учащимся 10-11 классов",
+      "Зарегистрироваться на сайте",
+      "Пройти тест на знания теории дизайна и креативность",
+      "Решить задачу от компании-партнера"
+    ],
+    "selectionProcess": "Тест + решение дизайн-кейса, финал - командная работа в dsgn science lab",
+    "participantLimit": 500,
+    "website": "https://cntrluniv.ru/dsgn_sense",
+    "regulations": null
+  },
+  {
+    "id": "cu_dano_olympiad",
+    "name": "Национальная олимпиада по анализу данных \"DANO\"",
+    "description": "Олимпиада для школьников по анализу данных от Центрального университета и Т-Образования. Участники учатся применять методы анализа данных на практике.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "несколько месяцев",
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Анализ данных", "Статистика"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["финансы", "бизнес", "экономика"],
+    "dates": {
+      "registration": "2026-09-01 - 2026-10-31",
+      "event": "ноябрь-февраль 2026"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть школьником",
+      "Зарегистрироваться на платформе"
+    ],
+    "selectionProcess": "Онлайн отборочный тур, финальный тур для лучших",
+    "website": "https://education.tbank.ru/school/olympiads/",
+    "regulations": null
+  },
+  {
+    "id": "cu_prod_olympiad",
+    "name": "Олимпиада по промышленной разработке \"PROD\"",
+    "description": "Олимпиада для школьников по программированию и разработке с практическими задачами. Победители получают допбаллы при поступлении.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "несколько месяцев",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Информатика", "Программирование", "Разработка"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["IT", "бизнес"],
+    "dates": {
+      "registration": "2026-09-01 - 2026-10-31",
+      "event": "ноябрь 2026 - февраль 2027"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть школьником",
+      "Владеть базовыми навыками программирования",
+      "Зарегистрироваться на платформе"
+    ],
+    "selectionProcess": "Онлайн туры, очный финал",
+    "website": "https://education.tbank.ru/school/olympiads/",
+    "regulations": null
+  },
+  {
+    "id": "tbank_math_olympiad",
+    "name": "Олимпиадная математика от Т-Образования",
+    "description": "Бесплатная подготовка к ВсОШ по математике с экспертами Т-Образования. Занятия проводят опытные олимпиадники и авторы заданий.",
+    "type": "олимпиада",
+    "format": "смешанное_очно_онлайн",
+    "duration": "12 месяцев",
+    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": ["Математика", "Геометрия"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 5,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": true,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы"],
+    "dates": {
+      "registration": "2026-09-01 - на протяжении года",
+      "event": "сентябрь 2026 - май 2027"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": [
+      "Быть школьником",
+      "Зарегистрироваться на платформе",
+      "Для отборочных сборов может потребоваться вступительный экзамен"
+    ],
+    "selectionProcess": "Открытый набор, отдельный отбор для интенсивных сборов",
+    "website": "https://education.tbank.ru/school/generation/math/",
+    "regulations": null
+  }
+]

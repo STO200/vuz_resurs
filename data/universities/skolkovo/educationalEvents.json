@@ -1,0 +1,121 @@
+[
+  {
+    "id": "skolkovo_lecture_economics",
+    "name": "Лекции по современной экономике (Сколково)",
+    "description": "Публичные лекции от преподавателей Московской школы управления Сколково и приглашенных экспертов для школьников по актуальным вопросам экономики и бизнеса.",
+    "type": "lecture",
+    "format": "очно",
+    "duration": "1.5-2 часа",
+    "subjects": ["Экономика", "Бизнес", "Финансы"],
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "dates": {
+      "registration": "по объявлениям на сайте",
+      "event": "несколько раз в течение учебного года"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 9-11 классов", "Интерес к экономике"],
+    "website": "https://www.skolkovo.ru/navigator/events/",
+    "regulations": null
+  },
+  {
+    "id": "resh_podcast_economics",
+    "name": "Подкаст РЭШ «Экономика на слух»",
+    "description": "Еженедельный образовательный подкаст Российской экономической школы. Обсуждение экономических вопросов, интервью с экспертами и практиками, полезны для понимания реальной экономики.",
+    "type": "podcast",
+    "format": "онлайн",
+    "duration": "30-60 минут на выпуск",
+    "subjects": ["Экономика", "Финансы", "Макроэкономика", "Микроэкономика"],
+    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["экономика", "финансы"],
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "website": "https://www.youtube.com/@neseconomicsoutloud",
+    "regulations": null
+  },
+  {
+    "id": "hse_masterclass_business",
+    "name": "Мастер-класс «Старт своего бизнеса»",
+    "description": "Практический мастер-класс от успешного предпринимателя для школьников 10-11 классов. Разбор реальных примеров создания и развития бизнеса.",
+    "type": "masterclass",
+    "format": "очно",
+    "duration": "2 часа",
+    "subjects": ["Бизнес", "Предпринимательство", "Стартапы"],
+    "targetAudience": ["10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "менеджмент"],
+    "dates": {
+      "registration": "2026-11-01 - 2026-11-10",
+      "event": "2026-11-20 15:00"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 10-11 классов", "Интерес к предпринимательству"],
+    "website": "https://www.hse.ru/events/masterclass/",
+    "regulations": null
+  },
+  {
+    "id": "kidsdev_masterclass",
+    "name": "Мастер-классы KIDSDEV от бизнес-экспертов",
+    "description": "Практические мастер-классы от топ-менеджеров крупных компаний (Mail.ru, Яндекс, Сбер и др.) на различные темы: маркетинг, финансы, веб-дизайн.",
+    "type": "masterclass",
+    "format": "очно",
+    "duration": "1.5-2 часа",
+    "subjects": ["Бизнес", "Маркетинг", "Финансы", "Веб-дизайн"],
+    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "benefits": {
+      "bvi": false,
+      "points100": false,
+      "additionalPoints": 0,
+      "grants": null,
+      "tuitionDiscount": null,
+      "priority": false,
+      "earlyAdmission": false
+    },
+    "relevantDirections": ["бизнес", "финансы", "менеджмент"],
+    "dates": {
+      "registration": "по объявлениям",
+      "event": "несколько раз в течение года"
+    },
+    "cost": {
+      "type": "бесплатно",
+      "amount": 0
+    },
+    "participationRequirements": ["Школьники 8-11 классов"],
+    "website": "https://kidsdev.academy",
+    "regulations": null
+  }
+]
