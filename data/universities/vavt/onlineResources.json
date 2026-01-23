@@ -2,12 +2,19 @@
   {
     "id": "online_001",
     "name": "Telegram-канал ВАВТ официальный (@vavtofficial)",
-    "description": "Официальный канал Всероссийской академии внешней торговли в Telegram. Содержит новости, объявления о мероприятиях, информацию о поступлении, события студенческой жизни и образовательной деятельности вуза.",
+    "description": "Telegram: View @vavtofficial\nDownload\nВАВТ I Всероссийская академия внешней торговли\n3 461 subscribers\nОфициальный канал Всероссийской академии внешней торговли (ВАВТ)\nView in Telegram\nPreview channel",
     "type": "социальная сеть",
     "format": "онлайн",
     "duration": "постоянно",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["Информация о вузе"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Информация о вузе"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -17,7 +24,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31"
@@ -26,7 +35,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Наличие Telegram"],
+    "participationRequirements": [
+      "Наличие Telegram"
+    ],
     "selectionProcess": "Открытая подписка на канал",
     "participantLimit": null,
     "website": "https://t.me/vavtofficial",
@@ -35,12 +46,18 @@
   {
     "id": "online_002",
     "name": "Telegram-канал 'Поступаю в ВАВТ' (@postupau_v_vavt)",
-    "description": "Специализированный канал для абитуриентов с информацией о поступлении, календарем приемной кампании, расписанием вебинаров, советами по подготовке к ЕГЭ, информацией о льготах и преимуществах при поступлении, рекомендациями студентов.",
+    "description": "Поступаю в ВАВТ – Telegram\nПоступаю в ВАВТ\n@postupau_v_vavt\n2. 02K\nsubscribers\n374\nphotos\n70\nvideos\n170\nlinks\nЗдесь собрана самая полезная информация для поступающих\nDownload Telegram\nAbout\nBlog\nApps\n",
     "type": "социальная сеть",
     "format": "онлайн",
     "duration": "постоянно",
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
-    "subjects": ["Информация о поступлении"],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Информация о поступлении"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -50,7 +67,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31"
@@ -59,7 +78,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Наличие Telegram"],
+    "participationRequirements": [
+      "Наличие Telegram"
+    ],
     "selectionProcess": "Открытая подписка на канал",
     "participantLimit": null,
     "website": "https://t.me/s/postupau_v_vavt",
@@ -72,8 +93,16 @@
     "type": "видеоплатформа",
     "format": "онлайн",
     "duration": "постоянно",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["Экономика", "Информация о поступлении"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Экономика",
+      "Информация о поступлении"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -83,7 +112,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31"
@@ -92,7 +123,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Доступ к YouTube"],
+    "participationRequirements": [
+      "Доступ к YouTube"
+    ],
     "selectionProcess": "Открытый доступ",
     "participantLimit": null,
     "website": "https://www.youtube.com/@vavtmoscow",
@@ -101,12 +134,20 @@
   {
     "id": "online_004",
     "name": "Портал поступления ВАВТ (postupi.vavt.ru)",
-    "description": "Полнофункциональный портал с информацией об олимпиадах, программах поступления, условиях приема, дополнительных экзаменах, льготах и преимуществах. Содержит регистрацию на олимпиады, календарь событий, методические материалы, ссылки на все основные программы.",
+    "description": "ВАВТ Минэкономразвития России\nОб Академии\nБакалавриат\nМагистратура\nMBA\nМосква, Воробьевское шоссе, 6А\nabiturient@vavt. ",
     "type": "образовательный портал",
     "format": "онлайн",
     "duration": "постоянно",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["Информация о поступлении", "Олимпиады"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Информация о поступлении",
+      "Олимпиады"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -116,7 +157,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31"
@@ -125,7 +168,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Доступ в интернет"],
+    "participationRequirements": [
+      "Доступ в интернет"
+    ],
     "selectionProcess": "Открытый доступ",
     "participantLimit": null,
     "website": "https://postupi.vavt.ru",
@@ -134,12 +179,18 @@
   {
     "id": "online_005",
     "name": "Центр карьеры ВАВТ (Telegram @career_center_rfta)",
-    "description": "Информационный канал Центра карьеры ВАВТ в Telegram. Размещает информацию о стажировках, вакансиях, мероприятиях по профессиональной ориентации, интервью с работодателями, программах развития карьеры для студентов и выпускников.",
+    "description": "Telegram: View @career_center_rfta\nDownload\nЦентр карьеры ВАВТ\n1 383 subscribers\nАнонсы мероприятий, новости о стажировках и вакансиях, рекомендации по успешному трудоустройству. ",
     "type": "социальная сеть",
     "format": "онлайн",
     "duration": "постоянно",
-    "targetAudience": ["10 класс", "11 класс"],
-    "subjects": ["Карьера", "Стажировки"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Карьера",
+      "Стажировки"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -149,7 +200,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31"
@@ -158,7 +211,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Наличие Telegram"],
+    "participationRequirements": [
+      "Наличие Telegram"
+    ],
     "selectionProcess": "Открытая подписка на канал",
     "participantLimit": null,
     "website": "https://t.me/career_center_rfta",

@@ -6,8 +6,20 @@
     "type": "видео_контент",
     "format": "онлайн",
     "duration": "на любое время",
-    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["Физика", "Математика", "Экономика", "Наука", "Карьера"],
+    "targetAudience": [
+      "7 класс",
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Физика",
+      "Математика",
+      "Экономика",
+      "Наука",
+      "Карьера"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -17,7 +29,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31",
@@ -27,7 +41,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Интернет и устройство для просмотра"],
+    "participationRequirements": [
+      "Интернет и устройство для просмотра"
+    ],
     "selectionProcess": "Открытый доступ к контенту",
     "participantLimit": null,
     "website": "https://www.youtube.com/@miptru",
@@ -36,12 +52,21 @@
   {
     "id": "online_002",
     "name": "Telegram-сообщество МФТИ (@miptru)",
-    "description": "Официальное Telegram-сообщество МФТИ с новостями, объявлениями о вступительных испытаниях, олимпиадах, событиях, а также советами абитуриентов. Активное сообщество школьников и абитуриентов.",
+    "description": "Telegram: View @miptru\nDownload\nМФТИ — Физтех\n✔\n19 539 subscribers\nНовости Физтеха. По всем вопросам: press@phystech. ",
     "type": "сообщество",
     "format": "онлайн",
     "duration": "на любое время",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["Информация о поступлении", "Новости МФТИ", "Советы абитуриентов"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Информация о поступлении",
+      "Новости МФТИ",
+      "Советы абитуриентов"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -51,7 +76,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31",
@@ -61,7 +88,10 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Телеграм-аккаунт", "Подписка на канал"],
+    "participationRequirements": [
+      "Телеграм-аккаунт",
+      "Подписка на канал"
+    ],
     "selectionProcess": "Открытая подписка",
     "participantLimit": null,
     "website": "https://t.me/miptru",
@@ -70,12 +100,19 @@
   {
     "id": "online_003",
     "name": "Портал 'Поступи онлайн' МФТИ",
-    "description": "Официальный портал для поступления в МФТИ с информацией о программах, требованиях, сроках, процедуре приема. Полезная информация для абитуриентов на сайте old.mipt.ru/russian/entrance/.",
+    "description": "Старт в науку 2025\nВход\nНаучно-техническая олимпиада\nдля учеников 9–11 классов\nДобавить работу\nПерейти к онлайн-тестированию\nОб олимпиаде\nОнлайн-тестирование\nОтборочный этап\nЗаключительный этап\nПобеди",
     "type": "портал",
     "format": "онлайн",
     "duration": "на любое время",
-    "targetAudience": ["10 класс", "11 класс"],
-    "subjects": ["Информация о поступлении", "Программы обучения", "Требования"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Информация о поступлении",
+      "Программы обучения",
+      "Требования"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -85,7 +122,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31",
@@ -95,7 +134,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Интернет и браузер"],
+    "participationRequirements": [
+      "Интернет и браузер"
+    ],
     "selectionProcess": "Открытый доступ",
     "participantLimit": null,
     "website": "https://start.mipt.ru",
@@ -104,12 +145,20 @@
   {
     "id": "online_004",
     "name": "Центр карьеры МФТИ - Портал стажировок и вакансий",
-    "description": "Онлайн-портал центра карьеры МФТИ с информацией о стажировках, вакансиях для студентов, информацией о компаниях-работодателях, событиях по развитию карьеры и дню карьеры МФТИ.",
+    "description": "Центр карьеры МФТИ - официальная страница\nЦентр карьеры — отдел содействия трудоустройству выпускников МФТИ. ",
     "type": "карьерный_портал",
     "format": "онлайн",
     "duration": "на любое время",
-    "targetAudience": ["10 класс", "11 класс"],
-    "subjects": ["Карьера", "Стажировки", "Трудоустройство", "Компании-партнеры"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Карьера",
+      "Стажировки",
+      "Трудоустройство",
+      "Компании-партнеры"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -119,7 +168,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31",
@@ -129,7 +180,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Интернет и браузер"],
+    "participationRequirements": [
+      "Интернет и браузер"
+    ],
     "selectionProcess": "Открытый доступ",
     "participantLimit": null,
     "website": "https://careerday-mipt.ru",
@@ -142,8 +195,19 @@
     "type": "образовательный_ресурс",
     "format": "онлайн",
     "duration": "на любое время",
-    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["Физика", "Математика", "Информатика", "Экономика"],
+    "targetAudience": [
+      "7 класс",
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Физика",
+      "Математика",
+      "Информатика",
+      "Экономика"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -153,7 +217,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31",
@@ -163,7 +229,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Интернет"],
+    "participationRequirements": [
+      "Интернет"
+    ],
     "selectionProcess": "Открытый доступ",
     "participantLimit": null,
     "website": "https://go2phystech.ru/2022/05/13/olimpiadnie_zadachi_po_matematike_i_fizike/",
@@ -176,8 +244,18 @@
     "type": "подкаст",
     "format": "онлайн",
     "duration": "на любое время",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["Предпринимательство", "Инновации", "Бизнес", "Технологии"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Предпринимательство",
+      "Инновации",
+      "Бизнес",
+      "Технологии"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -187,7 +265,11 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["бизнес", "менеджмент", "финансы"],
+    "relevantDirections": [
+      "бизнес",
+      "менеджмент",
+      "финансы"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31",
@@ -197,7 +279,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Наушники и доступ к подкастам (Apple, Spotify, Яндекс.Музыка и т.д.)"],
+    "participationRequirements": [
+      "Наушники и доступ к подкастам (Apple, Spotify, Яндекс.Музыка и т.д.)"
+    ],
     "selectionProcess": "Открытый доступ",
     "participantLimit": null,
     "website": "https://podcast.mipt.ru",

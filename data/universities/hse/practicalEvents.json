@@ -7,7 +7,10 @@
     "format": "очно",
     "duration": "48 часов (выходные)",
     "location": "Москва (кампус ВШЭ)",
-    "targetAudience": ["10 класс", "11 класс"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -17,7 +20,12 @@
       "priority": true,
       "earlyAdmission": false
     },
-    "relevantDirections": ["финансы", "бизнес", "IT", "экономика"],
+    "relevantDirections": [
+      "финансы",
+      "бизнес",
+      "IT",
+      "экономика"
+    ],
     "dates": {
       "registration": "2025-10-01 - 2025-11-15",
       "event": "2025-11-20 - 2025-11-22"
@@ -27,7 +35,10 @@
       "amount": 0,
       "note": "Питание и материалы предоставляются"
     },
-    "participationRequirements": ["Быть школьником 10-11 класса", "Собрать команду (3-5 человек) или зарегистрироваться индивидуально"],
+    "participationRequirements": [
+      "Быть школьником 10-11 класса",
+      "Собрать команду (3-5 человек) или зарегистрироваться индивидуально"
+    ],
     "selectionProcess": "Отбор по резюме; предпочтение отдаётся командам с опытом",
     "participantLimit": 200,
     "website": "https://hse.ru/events/fintech_hack",
@@ -36,11 +47,15 @@
   {
     "id": "ai_hackathon_hse",
     "name": "Хакатон \"Экспром(п)т\" - AI Assistant Hack",
-    "description": "Инновационный хакатон, где участники решают задачи, общаясь с искусственным интеллектом (GigaChat от Сбера). Проверка новой грамотности - умения сотрудничать с ИИ.",
+    "description": "На хакатоне Вышки и Сбера школьники освоили общение с GigaChat — Национальный исследовательский университет «Высшая школа экономики»\nВ старых версиях браузеров сайт может отображаться некорректно. ",
     "type": "hackathon",
     "format": "онлайн",
     "duration": "24-48 часов",
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -50,7 +65,11 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["бизнес", "IT", "экономика"],
+    "relevantDirections": [
+      "бизнес",
+      "IT",
+      "экономика"
+    ],
     "dates": {
       "registration": "2025-11-01 - 2025-12-10",
       "event": "2025-12-15 - 2025-12-20"
@@ -59,7 +78,10 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Быть школьником 9-11 класса", "Иметь доступ в интернет"],
+    "participationRequirements": [
+      "Быть школьником 9-11 класса",
+      "Иметь доступ в интернет"
+    ],
     "selectionProcess": "Открытая регистрация",
     "website": "https://www.hse.ru/news/edu/1114088306.html",
     "regulations": "https://hse.ru"
@@ -67,11 +89,15 @@
   {
     "id": "case_championship_key_2025",
     "name": "Всероссийский кейс-чемпионат «КЛЮЧ» - основной конкурс",
-    "description": "Многоуровневое командное соревнование по решению бизнес-кейсов. Участники работают над реальными задачами компаний. Включает региональные туры и финал.",
+    "description": "Всероссийский кейс-чемпионат «КЛЮЧ» – Национальный исследовательский университет «Высшая школа экономики»\nВ старых версиях браузеров сайт может отображаться некорректно. ",
     "type": "case_championship",
     "format": "смешанное_очно_онлайн",
     "duration": "5-6 месяцев (август-март)",
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -81,7 +107,12 @@
       "priority": true,
       "earlyAdmission": true
     },
-    "relevantDirections": ["бизнес", "менеджмент", "экономика", "финансы"],
+    "relevantDirections": [
+      "бизнес",
+      "менеджмент",
+      "экономика",
+      "финансы"
+    ],
     "dates": {
       "registration": "2025-09-20 - 2025-09-25",
       "training": "2025-09-12 - 2025-09-15",
@@ -106,12 +137,16 @@
   {
     "id": "case_championship_regional",
     "name": "Региональный кейс-чемпионат «КЛЮЧ - Москва»",
-    "description": "Региональный этап всероссийского кейс-чемпионата для школьников Москвы и Московской области. Занятия в очном формате в Центре культур ВШЭ.",
+    "description": "Всероссийский кейс-чемпионат «КЛЮЧ» – Национальный исследовательский университет «Высшая школа экономики»\nВ старых версиях браузеров сайт может отображаться некорректно. ",
     "type": "case_championship",
     "format": "очно",
     "duration": "1 день (4-6 часов)",
     "location": "Москва (Центр культур ВШЭ)",
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -121,7 +156,12 @@
       "priority": true,
       "earlyAdmission": false
     },
-    "relevantDirections": ["бизнес", "менеджмент", "экономика", "финансы"],
+    "relevantDirections": [
+      "бизнес",
+      "менеджмент",
+      "экономика",
+      "финансы"
+    ],
     "dates": {
       "registration": "2025-12-01 - 2025-12-20",
       "event": "2026-01-15"
@@ -132,7 +172,10 @@
       "currency": "RUB",
       "note": "За команду (4-5 человек)"
     },
-    "participationRequirements": ["Пройти квалификационный тур", "Быть командой из Москвы или Московской области"],
+    "participationRequirements": [
+      "Пройти квалификационный тур",
+      "Быть командой из Москвы или Московской области"
+    ],
     "participantLimit": 100,
     "teamSize": 4,
     "website": "https://olymp.hse.ru/championship/",
@@ -145,7 +188,10 @@
     "type": "project_competition",
     "format": "смешанное_очно_онлайн",
     "duration": "3-4 месяца",
-    "targetAudience": ["10 класс", "11 класс"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -155,7 +201,13 @@
       "priority": false,
       "earlyAdmission": true
     },
-    "relevantDirections": ["бизнес", "экономика", "менеджмент", "финансы", "все направления"],
+    "relevantDirections": [
+      "бизнес",
+      "экономика",
+      "менеджмент",
+      "финансы",
+      "все направления"
+    ],
     "dates": {
       "registration": "2025-10-01 - 2025-11-30",
       "review": "2025-12-01 - 2026-01-31",
@@ -165,7 +217,10 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Можно участвовать одиночками или командой", "Разработать проект на выбранную тему"],
+    "participationRequirements": [
+      "Можно участвовать одиночками или командой",
+      "Разработать проект на выбранную тему"
+    ],
     "selectionProcess": "Экспертная оценка проектов",
     "website": "https://hse.ru/events/project",
     "regulations": "https://hse.ru/events/project"
@@ -178,7 +233,12 @@
     "format": "очно",
     "duration": "1-2 дня",
     "location": "Москва",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -188,7 +248,11 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["бизнес", "менеджмент", "экономика"],
+    "relevantDirections": [
+      "бизнес",
+      "менеджмент",
+      "экономика"
+    ],
     "dates": {
       "registration": "2025-09-01 - 2026-05-31",
       "event": "по запросу"
@@ -199,7 +263,10 @@
       "currency": "RUB",
       "note": "За одного участника"
     },
-    "participationRequirements": ["Собрать команду (3-4 человека)", "Заявиться на определённую дату"],
+    "participationRequirements": [
+      "Собрать команду (3-4 человека)",
+      "Заявиться на определённую дату"
+    ],
     "website": "https://shkolnikam.hse.ru",
     "regulations": "https://shkolnikam.hse.ru"
   }

@@ -2,12 +2,20 @@
   {
     "id": "skolkovo_lecture_economics",
     "name": "Лекции по современной экономике (Сколково)",
-    "description": "Публичные лекции от преподавателей Московской школы управления Сколково и приглашенных экспертов для школьников по актуальным вопросам экономики и бизнеса.",
+    "description": "Московская школа управления СКОЛКОВО\nEnglish\nО Школе\nПрограммы\nПрофессора\nИсследования\nМероприятия\ninTrend\nAlumni\nНавигатор мероприятий\nО программах\nНавигатор программ\nМВА программы\nДля учащихся 8-11 ",
     "type": "lecture",
     "format": "очно",
     "duration": "1.5-2 часа",
-    "subjects": ["Экономика", "Бизнес", "Финансы"],
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": [
+      "Экономика",
+      "Бизнес",
+      "Финансы"
+    ],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -17,7 +25,11 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "relevantDirections": [
+      "экономика",
+      "финансы",
+      "бизнес"
+    ],
     "dates": {
       "registration": "по объявлениям на сайте",
       "event": "несколько раз в течение учебного года"
@@ -26,7 +38,10 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Школьники 9-11 классов", "Интерес к экономике"],
+    "participationRequirements": [
+      "Школьники 9-11 классов",
+      "Интерес к экономике"
+    ],
     "website": "https://www.skolkovo.ru/navigator/events/",
     "regulations": null
   },
@@ -37,8 +52,17 @@
     "type": "podcast",
     "format": "онлайн",
     "duration": "30-60 минут на выпуск",
-    "subjects": ["Экономика", "Финансы", "Макроэкономика", "Микроэкономика"],
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "subjects": [
+      "Экономика",
+      "Финансы",
+      "Макроэкономика",
+      "Микроэкономика"
+    ],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -48,7 +72,10 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["экономика", "финансы"],
+    "relevantDirections": [
+      "экономика",
+      "финансы"
+    ],
     "cost": {
       "type": "бесплатно",
       "amount": 0
@@ -63,8 +90,15 @@
     "type": "masterclass",
     "format": "очно",
     "duration": "2 часа",
-    "subjects": ["Бизнес", "Предпринимательство", "Стартапы"],
-    "targetAudience": ["10 класс", "11 класс"],
+    "subjects": [
+      "Бизнес",
+      "Предпринимательство",
+      "Стартапы"
+    ],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -74,7 +108,10 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["бизнес", "менеджмент"],
+    "relevantDirections": [
+      "бизнес",
+      "менеджмент"
+    ],
     "dates": {
       "registration": "2026-11-01 - 2026-11-10",
       "event": "2026-11-20 15:00"
@@ -83,19 +120,32 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Школьники 10-11 классов", "Интерес к предпринимательству"],
+    "participationRequirements": [
+      "Школьники 10-11 классов",
+      "Интерес к предпринимательству"
+    ],
     "website": "https://www.hse.ru/events/masterclass/",
     "regulations": null
   },
   {
     "id": "kidsdev_masterclass",
     "name": "Мастер-классы KIDSDEV от бизнес-экспертов",
-    "description": "Практические мастер-классы от топ-менеджеров крупных компаний (Mail.ru, Яндекс, Сбер и др.) на различные темы: маркетинг, финансы, веб-дизайн.",
+    "description": "KillBot user verification [95. 0; Win64; x64) AppleWebKit/537. faq\nnews\nblog\nsearch\nproducts\nblog\nlogin\nnews\nfaq\nproducts\nsearch\nshop\nsearch\ncontacts\nproducts\nfaq\nnews\nblog\nshop\nlogin\nblog\nproducts\nsh",
     "type": "masterclass",
     "format": "очно",
     "duration": "1.5-2 часа",
-    "subjects": ["Бизнес", "Маркетинг", "Финансы", "Веб-дизайн"],
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "subjects": [
+      "Бизнес",
+      "Маркетинг",
+      "Финансы",
+      "Веб-дизайн"
+    ],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -105,7 +155,11 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["бизнес", "финансы", "менеджмент"],
+    "relevantDirections": [
+      "бизнес",
+      "финансы",
+      "менеджмент"
+    ],
     "dates": {
       "registration": "по объявлениям",
       "event": "несколько раз в течение года"
@@ -114,7 +168,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Школьники 8-11 классов"],
+    "participationRequirements": [
+      "Школьники 8-11 классов"
+    ],
     "website": "https://kidsdev.academy",
     "regulations": null
   }

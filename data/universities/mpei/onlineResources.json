@@ -2,11 +2,16 @@
   {
     "id": "online_001",
     "name": "Telegram-канал НИУ МЭИ",
-    "description": "Официальный Telegram-канал МЭИ с новостями вуза, информацией о дедлайнах приема документов, анонсами мероприятий, лекциями и событиями для школьников и абитуриентов. Оперативные обновления о поступлении.",
+    "description": "Telegram: View @mpeiuniversity\nDownload\nНИУ «МЭИ» | MPEI\n✔\n11 524 subscribers\nНациональный исследовательский университет «МЭИ»\nПроголосовать за канал: https://t. ",
     "type": "онлайн-сообщество",
     "format": "онлайн",
     "duration": "постоянно",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "subjects": null,
     "benefits": {
       "bvi": false,
@@ -17,7 +22,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "постоянно",
       "event": "постоянно"
@@ -26,7 +33,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Telegram-аккаунт"],
+    "participationRequirements": [
+      "Telegram-аккаунт"
+    ],
     "selectionProcess": "Подписка на канал",
     "participantLimit": null,
     "website": "https://t.me/mpeiuniversity",
@@ -35,11 +44,14 @@
   {
     "id": "online_002",
     "name": "Telegram-канал Приёмной комиссии НИУ МЭИ",
-    "description": "Официальный Telegram-канал Приёмной комиссии с информацией о правилах приема, датах подачи документов, результатах зачисления и ответами на частые вопросы. Также работает Telegram-бот @pkmpeibot для диалога.",
+    "description": "Telegram: View @mpeienergy\nDownload\nПриёмная комиссия НИУ МЭИ\n4 917 subscribers\nОфициальный канал Приёмной комиссии Национального исследовательского университета «МЭИ»\nТелеграм-бот для поступающих:\n@p",
     "type": "онлайн-сообщество",
     "format": "онлайн",
     "duration": "постоянно",
-    "targetAudience": ["10 класс", "11 класс"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
     "subjects": null,
     "benefits": {
       "bvi": false,
@@ -50,7 +62,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "постоянно",
       "event": "постоянно"
@@ -59,7 +73,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Telegram-аккаунт"],
+    "participationRequirements": [
+      "Telegram-аккаунт"
+    ],
     "selectionProcess": "Подписка на канал или добавление бота",
     "participantLimit": null,
     "website": "https://t.me/mpeienergy",
@@ -68,11 +84,16 @@
   {
     "id": "online_003",
     "name": "Сообщество МЭИ в ВКонтакте (группа приемной комиссии)",
-    "description": "Официальная группа Приёмной комиссии МЭИ в ВКонтакте. Статьи о направлениях подготовки, видеообзоры программ, интервью с выпускниками, расписание дней открытых дверей и анонсы олимпиад.",
+    "description": "Switch to English\nРегистрация\nТелефон или почта\nПароль\nВойти\nРегистрация\nПриложение на телефон\nПрименяются рекомендательные технологии\nВКонтакте\n© 2006-2026\nО ВКонтакте\nПомощь\nПравила\nДля бизнеса\nРазр",
     "type": "онлайн-сообщество",
     "format": "онлайн",
     "duration": "постоянно",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "subjects": null,
     "benefits": {
       "bvi": false,
@@ -83,7 +104,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "постоянно",
       "event": "постоянно"
@@ -92,7 +115,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["ВКонтакте-аккаунт"],
+    "participationRequirements": [
+      "ВКонтакте-аккаунт"
+    ],
     "selectionProcess": "Подписка на группу",
     "participantLimit": null,
     "website": "https://vk.com/pkmpeiofficial",
@@ -101,11 +126,14 @@
   {
     "id": "online_004",
     "name": "Официальный сайт приемной комиссии МЭИ",
-    "description": "Полная информация о правилах приема, списке олимпиад, дающих льготы, дате дней открытых дверей, расписании вступительных испытаний, результатах зачисления. Личный кабинет для отслеживания статуса заявления.",
+    "description": "Приемная комиссия МЭИ. Официальный сайт: Добро пожаловать\nПриемная комиссия\nНИУ «МЭИ»\nГрафик работы\nПН-ЧТ: 10:00-17:00\nПТ: 10:00-16:00\nСБ-ВС: Выходной\n23\nянваря\nРегистрация\nВход\nО МЭИ\nБАКАЛАВРИАТ\nМАГИ",
     "type": "портал",
     "format": "онлайн",
     "duration": "постоянно",
-    "targetAudience": ["10 класс", "11 класс"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
     "subjects": null,
     "benefits": {
       "bvi": false,
@@ -116,7 +144,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "постоянно",
       "event": "постоянно"
@@ -125,7 +155,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Интернет-доступ"],
+    "participationRequirements": [
+      "Интернет-доступ"
+    ],
     "selectionProcess": "Открытый доступ",
     "participantLimit": null,
     "website": "https://pk.mpei.ru",
@@ -134,12 +166,22 @@
   {
     "id": "online_005",
     "name": "Сайт подготовительных курсов МЭИ",
-    "description": "Информационный портал подготовительных курсов МЭИ с описанием программ обучения, расписанием занятий, информацией о преподавателях, стоимостью и процедурой регистрации. Также анонсы летних интенсивов и олимпиад.",
+    "description": "Подготовительные курсы НИУ \"МЭИ\"\nПодготовительные курсы НИУ \"МЭИ\"\nМеню\nЗаписаться на обучение\nМеню\nНациональный исследовательский университет «МЭИ»\nПоздравляем с новым 2026 годом!\nПодготовительные кур",
     "type": "портал",
     "format": "онлайн",
     "duration": "постоянно",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["Математика", "Физика", "Русский язык", "Информатика"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Математика",
+      "Физика",
+      "Русский язык",
+      "Информатика"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -149,7 +191,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "постоянно",
       "event": "постоянно"
@@ -158,7 +202,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Интернет-доступ"],
+    "participationRequirements": [
+      "Интернет-доступ"
+    ],
     "selectionProcess": "Открытый доступ",
     "participantLimit": null,
     "website": "https://pkvd.mpei.ru",
@@ -171,7 +217,11 @@
     "type": "портал",
     "format": "онлайн",
     "duration": "постоянно",
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "subjects": null,
     "benefits": {
       "bvi": false,
@@ -182,7 +232,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "постоянно",
       "event": "постоянно"
@@ -191,7 +243,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Интернет-доступ"],
+    "participationRequirements": [
+      "Интернет-доступ"
+    ],
     "selectionProcess": "Открытый доступ",
     "participantLimit": null,
     "website": "https://mpei.ru/Admission/Pages/pre-university.aspx",
@@ -204,7 +258,10 @@
     "type": "социальная сеть",
     "format": "онлайн",
     "duration": "постоянно",
-    "targetAudience": ["10 класс", "11 класс"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
     "subjects": null,
     "benefits": {
       "bvi": false,
@@ -215,7 +272,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "постоянно",
       "event": "постоянно"
@@ -224,7 +283,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["MAX-аккаунт"],
+    "participationRequirements": [
+      "MAX-аккаунт"
+    ],
     "selectionProcess": "Подписка на сообщество",
     "participantLimit": null,
     "website": "https://max.ru/id7722019652_gos",

@@ -6,8 +6,16 @@
     "type": "День открытых дверей",
     "format": "очно",
     "duration": "4-5 часов",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["Профориентация", "Общая информация о вузе"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Профориентация",
+      "Общая информация о вузе"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -17,7 +25,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-03-01 - 2026-11-15",
       "event": "2026-12-05",
@@ -27,7 +37,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Школьники и их родители"],
+    "participationRequirements": [
+      "Школьники и их родители"
+    ],
     "selectionProcess": "Предварительная регистрация онлайн (опционально)",
     "participantLimit": null,
     "website": "https://abiturient.mgimo.ru",
@@ -40,8 +52,15 @@
     "type": "День открытых дверей факультета",
     "format": "очно",
     "duration": "3-4 часа",
-    "targetAudience": ["10 класс", "11 класс"],
-    "subjects": ["Экономика", "Бизнес", "Международные отношения"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Экономика",
+      "Бизнес",
+      "Международные отношения"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -51,7 +70,12 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "relevantDirections": [
+      "экономика",
+      "бизнес",
+      "менеджмент",
+      "финансы"
+    ],
     "dates": {
       "registration": "2026-03-01 - 2026-09-30",
       "event": "2026-10-15 - 2026-11-30",
@@ -61,7 +85,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Школьники 10-11 классов"],
+    "participationRequirements": [
+      "Школьники 10-11 классов"
+    ],
     "selectionProcess": "Открытое посещение",
     "participantLimit": null,
     "website": "https://meo.mgimo.ru",
@@ -70,12 +96,20 @@
   {
     "id": "info_event_finance_faculty",
     "name": "День открытых дверей Факультета финансовой экономики",
-    "description": "День открытых дверей специализированного факультета финансовой экономики. Информация о программах подготовки в области финансов, инвестиций, банковского дела и финансовых технологий. Встречи с декором и преподавателями.",
+    "description": "МГИМО | Факультет финансовой экономики\nФакультет финансовой экономики\nклассическое образование мирового уровня\nМы готовим лидеров финансовой отрасли, соединяя академическую глубину, международные стан",
     "type": "День открытых дверей факультета",
     "format": "очно",
     "duration": "3-4 часа",
-    "targetAudience": ["10 класс", "11 класс"],
-    "subjects": ["Финансы", "Экономика", "Банковское дело", "Инвестиции"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Финансы",
+      "Экономика",
+      "Банковское дело",
+      "Инвестиции"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -85,7 +119,11 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["финансы", "экономика", "бизнес"],
+    "relevantDirections": [
+      "финансы",
+      "экономика",
+      "бизнес"
+    ],
     "dates": {
       "registration": "2026-03-01 - 2026-10-30",
       "event": "2026-11-29",
@@ -95,7 +133,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Школьники 10-11 классов"],
+    "participationRequirements": [
+      "Школьники 10-11 классов"
+    ],
     "selectionProcess": "Открытое посещение",
     "participantLimit": null,
     "website": "https://finec.mgimo.ru",
@@ -108,8 +148,15 @@
     "type": "Профориентационная программа",
     "format": "очно",
     "duration": "1 день (6-8 часов)",
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
-    "subjects": ["Профориентация", "Студенческая жизнь"],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Профориентация",
+      "Студенческая жизнь"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -119,7 +166,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-02-01 - 2026-11-30",
       "event": "2026-03-01 - 2026-11-30",
@@ -129,7 +178,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Школьники 9-11 классов"],
+    "participationRequirements": [
+      "Школьники 9-11 классов"
+    ],
     "selectionProcess": "Регистрация онлайн, формирование групп",
     "participantLimit": 50,
     "website": "https://abiturient.mgimo.ru",
@@ -142,8 +193,16 @@
     "type": "Экскурсия",
     "format": "очно",
     "duration": "1.5-2 часа",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["Инфраструктура вуза", "Студенческая жизнь"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Инфраструктура вуза",
+      "Студенческая жизнь"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -153,7 +212,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31",
@@ -163,7 +224,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Школьники и их родители"],
+    "participationRequirements": [
+      "Школьники и их родители"
+    ],
     "selectionProcess": "Регистрация через сайт, расписание экскурсий",
     "participantLimit": 30,
     "website": "https://abiturient.mgimo.ru",
@@ -176,8 +239,14 @@
     "type": "Информационный клуб",
     "format": "смешанное_очно_онлайн",
     "duration": "2 часа (за встречу)",
-    "targetAudience": ["10 класс", "11 класс"],
-    "subjects": ["Информация о поступлении", "Подготовка к поступлению"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Информация о поступлении",
+      "Подготовка к поступлению"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -187,7 +256,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-02-01 - 2026-12-31",
@@ -197,7 +268,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Иностранные абитуриенты МГИМО"],
+    "participationRequirements": [
+      "Иностранные абитуриенты МГИМО"
+    ],
     "selectionProcess": "Открытая регистрация онлайн",
     "participantLimit": null,
     "website": "https://int.mgimo.ru",
@@ -210,8 +283,14 @@
     "type": "Консультационная встреча",
     "format": "очно",
     "duration": "1-1.5 часа",
-    "targetAudience": ["10 класс", "11 класс"],
-    "subjects": ["Информация о программах", "Консультация о поступлении"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Информация о программах",
+      "Консультация о поступлении"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -221,7 +300,12 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "relevantDirections": [
+      "экономика",
+      "бизнес",
+      "менеджмент",
+      "финансы"
+    ],
     "dates": {
       "registration": "2026-02-01 - 2026-11-30",
       "event": "2026-03-01 - 2026-11-30",
@@ -231,7 +315,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Заинтересованные абитуриенты"],
+    "participationRequirements": [
+      "Заинтересованные абитуриенты"
+    ],
     "selectionProcess": "Предварительная запись через сайт факультета",
     "participantLimit": 20,
     "website": "https://meo.mgimo.ru",

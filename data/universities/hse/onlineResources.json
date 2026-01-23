@@ -5,7 +5,13 @@
     "description": "Официальный YouTube-канал ВШЭ для школьников с бесплатными видеолекциями, туториалами по подготовке к ЕГЭ и олимпиадам, вебинарами о поступлении.",
     "type": "youtube",
     "format": "онлайн",
-    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "7 класс",
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -15,7 +21,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "active": "постоянно"
     },
@@ -29,7 +37,7 @@
   {
     "id": "telegram_channel_skolnikam",
     "name": "Telegram-канал @skolnikam (Вышка школьникам)",
-    "description": "Официальный Telegram-канал НИУ ВШЭ с новостями о мероприятиях для школьников, анонсами олимпиад, курсов, советами по подготовке к экзаменам и поступлению.",
+    "description": "Telegram: View @skolnikam\nDownload\nВышка школьникам\n830 subscribers\nНИУ ВШЭ проводит разнообразные проекты для школьников, которые помогают найти свой путь в мир высшего образования:\nhttps://shkolnika",
     "type": "telegram",
     "format": "онлайн",
     "benefits": {
@@ -41,7 +49,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "active": "постоянно"
     },
@@ -55,7 +65,7 @@
   {
     "id": "telegram_channel_official_hse",
     "name": "Официальный Telegram-канал ВШЭ (@hse_official)",
-    "description": "Основной Telegram-канал НИУ ВШЭ с новостями университета, объявлениями мероприятий, информацией о поступлении и жизни в вузе.",
+    "description": "Telegram: View @hse_official\nDownload\nВысшая школа экономики\n✔\n28 117 subscribers\nОфициальный канал Высшей школы экономики. ",
     "type": "telegram",
     "format": "онлайн",
     "benefits": {
@@ -67,7 +77,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "active": "постоянно"
     },
@@ -81,10 +93,19 @@
   {
     "id": "portal_shkolnikam",
     "name": "Портал \"Вышка школьникам\" (shkolnikam.hse.ru)",
-    "description": "Центральный портал ВШЭ для школьников с информацией о курсах, программах подготовки, летних школах, олимпиадах, мероприятиях и новостях для абитуриентов.",
+    "description": "Вышка школьникам – Национальный исследовательский университет «Высшая школа экономики»\nВ старых версиях браузеров сайт может отображаться некорректно. ",
     "type": "portal",
     "format": "онлайн",
-    "targetAudience": ["4 класс", "5 класс", "6 класс", "7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "4 класс",
+      "5 класс",
+      "6 класс",
+      "7 класс",
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -94,7 +115,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "active": "постоянно"
     },
@@ -108,10 +131,13 @@
   {
     "id": "admissions_portal",
     "name": "Портал приёмной комиссии (admissions.hse.ru)",
-    "description": "Официальный портал приёмной комиссии НИУ ВШЭ с информацией о правилах поступления, программах, сроках подачи заявок, льготах и требованиях к ЕГЭ.",
+    "description": "Иностранным абитуриентам – Национальный исследовательский университет «Высшая школа экономики»\nВ старых версиях браузеров сайт может отображаться некорректно. ",
     "type": "portal",
     "format": "онлайн",
-    "targetAudience": ["10 класс", "11 класс"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -121,7 +147,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "active": "постоянно"
     },
@@ -138,7 +166,13 @@
     "description": "Центральный сайт по олимпиадам НИУ ВШЭ с информацией обо всех олимпиадах, их профилях, сроках, регистрации, архивных заданиях и решениях.",
     "type": "portal",
     "format": "онлайн",
-    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "7 класс",
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -148,7 +182,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "active": "постоянно"
     },
@@ -165,7 +201,10 @@
     "description": "Портал с информацией о стажировках, вакансиях, программах развития карьеры, встречах с работодателями и возможностях для студентов и выпускников ВШЭ.",
     "type": "portal",
     "format": "онлайн",
-    "targetAudience": ["10 класс", "11 класс"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -175,7 +214,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "active": "постоянно"
     },
@@ -192,7 +233,11 @@
     "description": "Сообщество в ВКонтакте с информацией для родителей и абитуриентов о жизни в университете, событиях, мероприятиях и вопросах поступления.",
     "type": "vk_community",
     "format": "онлайн",
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -202,7 +247,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "active": "постоянно"
     },
@@ -219,7 +266,12 @@
     "description": "Платформа с онлайн-курсами, лекциями и программами для школьников и студентов. Включает курсы по экономике, математике, информатике и другим предметам.",
     "type": "online_platform",
     "format": "онлайн",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -229,7 +281,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "active": "постоянно"
     },

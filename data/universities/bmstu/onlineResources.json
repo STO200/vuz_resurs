@@ -2,10 +2,15 @@
   {
     "id": "telegram_pk_bmstu",
     "name": "Telegram-канал Приёмной комиссии МГТУ им. Баумана (@pk_bmstu)",
-    "description": "Официальный Telegram-канал приёмной комиссии с информацией о поступлении, датах мероприятий для школьников, новостях факультетов, олимпиадах и других ресурсах. Ежедневные обновления и ответы на вопросы.",
+    "description": "Приёмная комиссия МГТУ им. Баумана – Telegram\nПриёмная комиссия МГТУ им. 78K\nphotos\n54\nvideos\n28\nfiles\n1. ",
     "type": "социальная сеть",
     "format": "онлайн",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -15,22 +20,31 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "cost": {
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Установленное приложение Telegram"],
+    "participationRequirements": [
+      "Установленное приложение Telegram"
+    ],
     "website": "https://t.me/s/pk_bmstu",
     "regulations": "https://t.me/s/pk_bmstu"
   },
   {
     "id": "vk_group_admissions",
     "name": "ВК-группа Приёмной комиссии МГТУ им. Баумана",
-    "description": "Сообщество ВКонтакте с информацией о поступлении, расписанием открытых дверей, новостями об олимпиадах и мероприятиях для школьников. Интерактивное взаимодействие с абитуриентами.",
+    "description": "Switch to English\nРегистрация\nТелефон или почта\nПароль\nВойти\nРегистрация\nПриложение на телефон\nПрименяются рекомендательные технологии\nВКонтакте\n© 2006-2026\nО ВКонтакте\nПомощь\nПравила\nДля бизнеса\nРазр",
     "type": "социальная сеть",
     "format": "онлайн",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -40,12 +54,16 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "cost": {
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Наличие аккаунта ВКонтакте"],
+    "participationRequirements": [
+      "Наличие аккаунта ВКонтакте"
+    ],
     "website": "https://vk.com/ab_bmstu1830",
     "regulations": "https://vk.com/ab_bmstu1830"
   },
@@ -55,7 +73,12 @@
     "description": "Официальный YouTube-канал с видеолекциями, обзорами факультетов, интервью с преподавателями и студентами, информацией о поступлении и жизни в университете.",
     "type": "видеоканал",
     "format": "онлайн",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -65,23 +88,35 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "cost": {
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Доступ в YouTube"],
+    "participationRequirements": [
+      "Доступ в YouTube"
+    ],
     "website": "https://www.youtube.com/channel/UCLbRF_7OhDSQN5AgHpxc_-g",
     "regulations": "https://www.youtube.com/channel/UCLbRF_7OhDSQN5AgHpxc_-g"
   },
   {
     "id": "obrazovatelniy_centr_vk",
     "name": "Образовательный центр VK в МГТУ (для будущих студентов)",
-    "description": "Программа IT-образования VK Education на базе МГТУ им. Баумана. Бесплатные краткосрочные курсы и долгосрочные программы по веб-разработке, мобильной разработке, машинному обучению. Менторство от сотрудников VK и преподавателей МГТУ.",
+    "description": "Образовательный центр VK в МГТУ им. Баумана | VK Education\nвход / регистрация\nОбразовательный центр VK в МГТУ им. ",
     "type": "образовательный портал",
     "format": "онлайн",
-    "targetAudience": ["10 класс", "11 класс"],
-    "subjects": ["Программирование", "Веб-разработка", "Мобильная разработка", "Машинное обучение"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Программирование",
+      "Веб-разработка",
+      "Мобильная разработка",
+      "Машинное обучение"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -91,7 +126,10 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["IT", "все направления"],
+    "relevantDirections": [
+      "IT",
+      "все направления"
+    ],
     "dates": {
       "registration": "2025-09-01 - 2026-05-31"
     },
@@ -99,7 +137,10 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Заинтересованность в IT", "Базовые знания программирования или желание учиться"],
+    "participationRequirements": [
+      "Заинтересованность в IT",
+      "Базовые знания программирования или желание учиться"
+    ],
     "selectionProcess": "Отбор по результатам вступительного теста и интервью",
     "website": "https://education.vk.company/centrum/kursy-bauman-mstu",
     "regulations": "https://education.vk.company/centrum/kursy-bauman-mstu"
@@ -107,10 +148,15 @@
   {
     "id": "sait_olimpiada_shag",
     "name": "Официальный сайт Олимпиады «Шаг в будущее»",
-    "description": "Главный портал с информацией об олимпиаде, регистрацией участников, графиком проведения этапов, результатами и новостями. Доступ к заданиям, расписанию финалов и правилам конкурса.",
+    "description": "Главная страница | Олимпиада школьников «Шаг в будущее»\nSkip to main navigation\nОлимпиада школьников «Шаг в будущее»\n✆ +7 499 263 61 39\n✉ olymp@bmstu. ",
     "type": "образовательный портал",
     "format": "онлайн",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": true,
       "points100": true,
@@ -120,12 +166,20 @@
       "priority": true,
       "earlyAdmission": false
     },
-    "relevantDirections": ["экономика", "бизнес", "менеджмент", "все направления"],
+    "relevantDirections": [
+      "экономика",
+      "бизнес",
+      "менеджмент",
+      "все направления"
+    ],
     "cost": {
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Регистрация на сайте", "Быть школьником 8-11 класса"],
+    "participationRequirements": [
+      "Регистрация на сайте",
+      "Быть школьником 8-11 класса"
+    ],
     "website": "https://olymp.bmstu.ru/ru",
     "regulations": "https://olymp.bmstu.ru/ru"
   },
@@ -135,7 +189,10 @@
     "description": "Центральный портал для будущих студентов с информацией о направлениях обучения, условиях поступления, требованиях к ЕГЭ/ОГЭ, сроках приёма документов, результатах зачисления и новостях приёмной комиссии.",
     "type": "образовательный портал",
     "format": "онлайн",
-    "targetAudience": ["10 класс", "11 класс"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -145,12 +202,16 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "cost": {
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Интернет для доступа"],
+    "participationRequirements": [
+      "Интернет для доступа"
+    ],
     "website": "https://admissions.bmstu.ru",
     "regulations": "https://admissions.bmstu.ru"
   }

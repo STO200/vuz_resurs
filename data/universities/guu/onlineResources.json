@@ -6,8 +6,19 @@
     "type": "видеоканал",
     "format": "онлайн",
     "duration": "разная",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["экономика", "менеджмент", "право", "финансовая грамотность", "карьера"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "экономика",
+      "менеджмент",
+      "право",
+      "финансовая грамотность",
+      "карьера"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -17,7 +28,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": null,
       "event": "2020-01-01 - 2026-12-31",
@@ -27,7 +40,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Интернет и устройство для просмотра"],
+    "participationRequirements": [
+      "Интернет и устройство для просмотра"
+    ],
     "selectionProcess": "Свободный доступ после подписки на канал",
     "participantLimit": null,
     "website": "https://www.youtube.com/@guu_moscow",
@@ -36,12 +51,20 @@
   {
     "id": "online_002",
     "name": "Telegram канал ГУУ (@GUUmsk)",
-    "description": "Официальный Telegram канал ГУУ. Новости о поступлении, объявления о мероприятиях, ссылки на вебинары, полезная информация для абитуриентов.",
+    "description": "Telegram: View @GUUmsk\nDownload\nГУУ | Государственный университет управления\n✔\n8 949 subscribers\nCообщество Государственного университета управления // #гуу\nПри использовании материалов ссылка на кана",
     "type": "социальная сеть",
     "format": "онлайн",
     "duration": "разная",
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
-    "subjects": ["новости", "информация о поступлении", "объявления"],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "новости",
+      "информация о поступлении",
+      "объявления"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -51,7 +74,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": null,
       "event": "2020-01-01 - 2026-12-31",
@@ -61,7 +86,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Наличие Telegram"],
+    "participationRequirements": [
+      "Наличие Telegram"
+    ],
     "selectionProcess": "Свободная подписка",
     "participantLimit": null,
     "website": "https://t.me/GUUmsk",
@@ -70,12 +97,19 @@
   {
     "id": "online_003",
     "name": "VK группа ГУУ (vk.com/sum_moscow)",
-    "description": "Группа ГУУ ВКонтакте. События, новости, фото студенческой жизни, информация о поступлении, опросы и обсуждения.",
+    "description": "Switch to English\nРегистрация\nТелефон или почта\nПароль\nВойти\nРегистрация\nПриложение на телефон\nПрименяются рекомендательные технологии\nВКонтакте\n© 2006-2026\nО ВКонтакте\nПомощь\nПравила\nДля бизнеса\nРазр",
     "type": "социальная сеть",
     "format": "онлайн",
     "duration": "разная",
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
-    "subjects": ["новости", "информация о поступлении"],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "новости",
+      "информация о поступлении"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -85,7 +119,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": null,
       "event": "2020-01-01 - 2026-12-31",
@@ -95,7 +131,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Наличие ВК"],
+    "participationRequirements": [
+      "Наличие ВК"
+    ],
     "selectionProcess": "Свободная подписка на группу",
     "participantLimit": null,
     "website": "https://vk.com/sum_moscow",
@@ -104,12 +142,18 @@
   {
     "id": "online_004",
     "name": "Портал ГУУ - раздел Абитуриентам (guu.ru/abitur/)",
-    "description": "Информационный портал ГУУ с полной информацией о программах поступления, требованиях, льготах, календаре приёма, вступительных испытаниях и правилах приёма.",
+    "description": "Абитуриенту - Официальный сайт Государственного университета управления\nГосударственный университет управления\nОб университете\nИнституты\nПредуниверсарий ГУУ\nПресс-служба\nСведения об образовательной ор",
     "type": "информационный портал",
     "format": "онлайн",
     "duration": "разная",
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
-    "subjects": ["информация о поступлении"],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "информация о поступлении"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -119,7 +163,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": null,
       "event": "2020-01-01 - 2026-12-31",
@@ -129,7 +175,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Интернет"],
+    "participationRequirements": [
+      "Интернет"
+    ],
     "selectionProcess": "Свободный доступ",
     "participantLimit": null,
     "website": "https://guu.ru/abitur/",
@@ -138,12 +186,19 @@
   {
     "id": "online_005",
     "name": "Центр взаимодействия с выпускниками и развития карьеры ГУУ",
-    "description": "Ресурс ГУУ для поиска стажировок, практик и первой работы. Содержит информацию о партнёрах-работодателях, вакансиях для студентов, возможностях карьерного развития.",
+    "description": "Центр взаимодействия с выпускниками и развития карьеры - Официальный сайт Государственного университета управления\nГосударственный университет управления\nОб университете\nИнституты\nПредуниверсарий ГУУ\n",
     "type": "карьерный портал",
     "format": "онлайн",
     "duration": "разная",
-    "targetAudience": ["10 класс", "11 класс"],
-    "subjects": ["карьера", "практика", "работа"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "карьера",
+      "практика",
+      "работа"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -153,7 +208,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": null,
       "event": "2020-01-01 - 2026-12-31",
@@ -163,7 +220,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Интернет"],
+    "participationRequirements": [
+      "Интернет"
+    ],
     "selectionProcess": "Свободный доступ",
     "participantLimit": null,
     "website": "https://guu.ru/student/careercenter/",
@@ -176,8 +235,16 @@
     "type": "социальная сеть",
     "format": "онлайн",
     "duration": "разная",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["студенческая жизнь", "информация о поступлении"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "студенческая жизнь",
+      "информация о поступлении"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -187,7 +254,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": null,
       "event": "2020-01-01 - 2026-12-31",
@@ -197,7 +266,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Наличие TikTok"],
+    "participationRequirements": [
+      "Наличие TikTok"
+    ],
     "selectionProcess": "Свободная подписка",
     "participantLimit": null,
     "website": "https://www.tiktok.com/@guu_house",
@@ -210,8 +281,13 @@
     "type": "информационный сервис",
     "format": "онлайн",
     "duration": "разная",
-    "targetAudience": ["10 класс", "11 класс"],
-    "subjects": ["информация о поступлении"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "информация о поступлении"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -221,7 +297,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-06-01",
       "event": "2026-06-01 - 2026-08-31",
@@ -231,7 +309,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Регистрация и подтверждение аккаунта"],
+    "participationRequirements": [
+      "Регистрация и подтверждение аккаунта"
+    ],
     "selectionProcess": "Заполнение анкеты на сайте",
     "participantLimit": null,
     "website": "https://guu.ru/abitur/",

@@ -2,11 +2,16 @@
   {
     "id": "skolkovo_open_day",
     "name": "День открытых дверей Сколково",
-    "description": "День открытых дверей в инновационном центре Сколково и его учебных учреждениях. Презентация программ, встречи с преподавателями, экскурсии по кампусу, встречи с инвесторами.",
+    "description": "Московская школа управления СКОЛКОВО\nEnglish\nО Школе\nПрограммы\nПрофессора\nИсследования\nМероприятия\ninTrend\nAlumni\nНавигатор мероприятий\nО программах\nНавигатор программ\nМВА программы\nДля учащихся 8-11 ",
     "type": "openDay",
     "format": "очно",
     "duration": "4-6 часов",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -16,7 +21,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "за 2 недели до события",
       "event": "несколько раз в год (даты объявляются на сайте)"
@@ -25,7 +32,10 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Школьники 8-11 классов", "Предварительная регистрация"],
+    "participationRequirements": [
+      "Школьники 8-11 классов",
+      "Предварительная регистрация"
+    ],
     "website": "https://www.skolkovo.ru/navigator/events/",
     "regulations": null
   },
@@ -37,7 +47,11 @@
     "format": "очно",
     "duration": "4-6 часов",
     "location": "Москва (несколько кампусов)",
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -47,7 +61,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-08-15 - 2026-09-01",
       "event": "2026-09-15"
@@ -56,19 +72,28 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Школьники", "Предварительная регистрация"],
+    "participationRequirements": [
+      "Школьники",
+      "Предварительная регистрация"
+    ],
     "website": "https://admissions.hse.ru/events/openday/",
     "regulations": null
   },
   {
     "id": "kidsdev_open_day",
     "name": "День открытых дверей KIDSDEV",
-    "description": "День открытых дверей школы бизнеса KIDSDEV в Сколково. Мастер-классы для детей, лекции для родителей, презентация программ обучения.",
+    "description": "KillBot user verification [95. 0; Win64; x64) AppleWebKit/537. faq\nlogin\ncontacts\nlogin\nblog\nshop\ncontacts\nblog\nproducts\nsearch\nfaq\nnews\ncontacts\nshop\nnews\nlogin\nblog\nfaq\nproducts\nsearch\nproducts\nfaq\n",
     "type": "openDay",
     "format": "очно",
     "duration": "2-3 часа",
     "location": "Сколково",
-    "targetAudience": ["7 класс", "8 класс", "9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "7 класс",
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -78,7 +103,10 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["бизнес", "менеджмент"],
+    "relevantDirections": [
+      "бизнес",
+      "менеджмент"
+    ],
     "dates": {
       "registration": "обычно за неделю до события",
       "event": "несколько раз в год (22 ноября 2025, даты 2026 уточняются)"
@@ -87,19 +115,27 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Дети и родители", "Предварительная регистрация"],
+    "participationRequirements": [
+      "Дети и родители",
+      "Предварительная регистрация"
+    ],
     "website": "https://kidsdev.academy",
     "regulations": null
   },
   {
     "id": "gymnasium_skolkovo_open_day",
     "name": "День открытых дверей Гимназии Сколково",
-    "description": "Экскурсии и встречи с руководством Гимназии Сколково. Знакомство с программой обучения и атмосферой школы.",
+    "description": "Гимназия Сколково / Международная Гимназия Сколково\n        \n        \n            \n            - Гимназия Сколково\nГлавная\nО гимназии\nО нас\nНовости\nСведения об образовательной организации\nКоманда\nСред",
     "type": "openDay",
     "format": "очно",
     "duration": "1-2 часа",
     "location": "Сколково",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -109,7 +145,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "по запросу на сайте",
       "event": "по расписанию в течение учебного года"
@@ -118,7 +156,10 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Школьники и родители", "Предварительная регистрация"],
+    "participationRequirements": [
+      "Школьники и родители",
+      "Предварительная регистрация"
+    ],
     "website": "https://gymnasium.sk.ru",
     "regulations": null
   }

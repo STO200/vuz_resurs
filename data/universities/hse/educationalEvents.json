@@ -2,11 +2,15 @@
   {
     "id": "public_lectures_economics",
     "name": "Публичные лекции по экономике и бизнесу",
-    "description": "Открытые лекции для школьников от ведущих преподавателей НИУ ВШЭ по актуальным темам экономики, финансов, бизнеса и менеджмента. Обсуждение реальных кейсов и примеров.",
+    "description": "Вышка школьникам – Национальный исследовательский университет «Высшая школа экономики»\nВ старых версиях браузеров сайт может отображаться некорректно. ",
     "type": "lecture",
     "format": "смешанное_очно_онлайн",
     "duration": "1.5-2 часа",
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -16,7 +20,12 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "relevantDirections": [
+      "экономика",
+      "бизнес",
+      "менеджмент",
+      "финансы"
+    ],
     "dates": {
       "registration": "2025-09-01 - 2026-05-31",
       "event": "по расписанию (несколько раз в месяц)"
@@ -25,7 +34,10 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Быть школьником", "Зарегистрироваться"],
+    "participationRequirements": [
+      "Быть школьником",
+      "Зарегистрироваться"
+    ],
     "participantLimit": 300,
     "website": "https://shkolnikam.hse.ru",
     "regulations": "https://shkolnikam.hse.ru"
@@ -33,11 +45,14 @@
   {
     "id": "masterclasses_business",
     "name": "Мастер-классы \"Старт своего бизнеса\" и \"Основы предпринимательства\"",
-    "description": "Практические мастер-классы от успешных предпринимателей и специалистов ВШЭ. Школьники узнают о создании стартапов, привлечении инвестиций, развитии бизнеса.",
+    "description": "Вышка школьникам – Национальный исследовательский университет «Высшая школа экономики»\nВ старых версиях браузеров сайт может отображаться некорректно. ",
     "type": "masterclass",
     "format": "смешанное_очно_онлайн",
     "duration": "2-3 часа",
-    "targetAudience": ["10 класс", "11 класс"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -47,7 +62,11 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["бизнес", "менеджмент", "экономика"],
+    "relevantDirections": [
+      "бизнес",
+      "менеджмент",
+      "экономика"
+    ],
     "dates": {
       "registration": "2025-09-01 - 2026-05-31",
       "event": "несколько раз в месяц"
@@ -56,7 +75,10 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Интерес к предпринимательству", "Регистрация заранее"],
+    "participationRequirements": [
+      "Интерес к предпринимательству",
+      "Регистрация заранее"
+    ],
     "participantLimit": 100,
     "website": "https://shkolnikam.hse.ru",
     "regulations": "https://shkolnikam.hse.ru"
@@ -64,11 +86,14 @@
   {
     "id": "webinars_admissions",
     "name": "Вебинары о поступлении в НИУ ВШЭ",
-    "description": "Онлайн-встречи с сотрудниками приёмной комиссии, куда школьники могут задать вопросы о поступлении, программах, льготах, требованиях к ЕГЭ.",
+    "description": "Иностранным абитуриентам – Национальный исследовательский университет «Высшая школа экономики»\nВ старых версиях браузеров сайт может отображаться некорректно. ",
     "type": "webinar",
     "format": "онлайн",
     "duration": "1-1.5 часа",
-    "targetAudience": ["10 класс", "11 класс"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -78,7 +103,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2025-09-01 - 2026-05-31",
       "event": "несколько раз в месяц"
@@ -87,7 +114,10 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Быть школьником 10-11 класса", "Зарегистрироваться"],
+    "participationRequirements": [
+      "Быть школьником 10-11 класса",
+      "Зарегистрироваться"
+    ],
     "participantLimit": 500,
     "website": "https://admissions.hse.ru",
     "regulations": "https://admissions.hse.ru"
@@ -95,12 +125,16 @@
   {
     "id": "conferences_for_students",
     "name": "Конференции с участием школьников",
-    "description": "Научные конференции, где школьники могут представить свои исследовательские работы, послушать доклады студентов и преподавателей, обменяться опытом.",
+    "description": "Новости — Национальный исследовательский университет «Высшая школа экономики»\nВ старых версиях браузеров сайт может отображаться некорректно. ",
     "type": "conference",
     "format": "очно",
     "duration": "4-6 часов",
     "location": "Москва (кампус ВШЭ)",
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -110,7 +144,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2029-10-01 - 2026-04-30",
       "event": "несколько раз в год"
@@ -119,18 +155,24 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Иметь исследовательскую работу или просто интерес", "Зарегистрироваться"],
+    "participationRequirements": [
+      "Иметь исследовательскую работу или просто интерес",
+      "Зарегистрироваться"
+    ],
     "website": "https://www.hse.ru/news",
     "regulations": "https://www.hse.ru/news"
   },
   {
     "id": "seminars_economics",
     "name": "Семинары по экономике и финансам",
-    "description": "Интерактивные семинары, где обсуждаются актуальные проблемы экономики, анализируются финансовые новости, рассматриваются экономические модели.",
+    "description": "Вышка школьникам – Национальный исследовательский университет «Высшая школа экономики»\nВ старых версиях браузеров сайт может отображаться некорректно. ",
     "type": "seminar",
     "format": "смешанное_очно_онлайн",
     "duration": "1.5 часа",
-    "targetAudience": ["10 класс", "11 класс"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -140,7 +182,11 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["экономика", "финансы", "бизнес"],
+    "relevantDirections": [
+      "экономика",
+      "финансы",
+      "бизнес"
+    ],
     "dates": {
       "registration": "2025-09-01 - 2026-05-31",
       "event": "каждые две недели"
@@ -149,7 +195,10 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Интерес к экономике", "Базовые знания по предмету"],
+    "participationRequirements": [
+      "Интерес к экономике",
+      "Базовые знания по предмету"
+    ],
     "participantLimit": 50,
     "website": "https://shkolnikam.hse.ru",
     "regulations": "https://shkolnikam.hse.ru"
@@ -161,7 +210,10 @@
     "type": "roundtable",
     "format": "смешанное_очно_онлайн",
     "duration": "2 часа",
-    "targetAudience": ["10 класс", "11 класс"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -171,7 +223,12 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "relevantDirections": [
+      "экономика",
+      "бизнес",
+      "менеджмент",
+      "финансы"
+    ],
     "dates": {
       "registration": "2025-09-01 - 2026-05-31",
       "event": "раз в месяц"
@@ -180,7 +237,10 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Интерес к карьере в данной сфере", "Регистрация"],
+    "participationRequirements": [
+      "Интерес к карьере в данной сфере",
+      "Регистрация"
+    ],
     "participantLimit": 100,
     "website": "https://career.hse.ru",
     "regulations": "https://career.hse.ru"

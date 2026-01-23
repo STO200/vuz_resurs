@@ -6,8 +6,19 @@
     "type": "Видео-портал",
     "format": "онлайн",
     "duration": "Разное (лекции 1.5-2 часа, видео 10-60 минут)",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["Экономика", "Бизнес", "Финансы", "Международные отношения", "Образование"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Экономика",
+      "Бизнес",
+      "Финансы",
+      "Международные отношения",
+      "Образование"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -17,7 +28,12 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["экономика", "бизнес", "менеджмент", "финансы"],
+    "relevantDirections": [
+      "экономика",
+      "бизнес",
+      "менеджмент",
+      "финансы"
+    ],
     "dates": {
       "registration": null,
       "event": "2026-01-01 - 2026-12-31",
@@ -27,7 +43,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Доступ в интернет"],
+    "participationRequirements": [
+      "Доступ в интернет"
+    ],
     "selectionProcess": "Открытый доступ, подписка на канал",
     "participantLimit": null,
     "website": "https://www.youtube.com/@mgimo",
@@ -36,12 +54,21 @@
   {
     "id": "online_telegram_mgimo_official",
     "name": "Telegram-канал МГИМО. Официально",
-    "description": "Официальный Telegram-канал МГИМО (@mgimo_university) с актуальной информацией о мероприятиях, новостях вуза, анонсах олимпиад, днях открытых дверей и важной информацией для абитуриентов и студентов.",
+    "description": "Официально – Telegram\nМГИМО. Официально\n✔\n@mgimo_university\n27. 6K\nphotos\n537\nvideos\n44\nfiles\n5. 63K\nlinks\nОфициальный телеграм-канал МГИМО\nГлавные события, новости, анонсы\nРегистрация в перечне РКН:\n",
     "type": "Информационный канал",
     "format": "онлайн",
     "duration": "Актуальная информация в реальном времени",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["Новости вуза", "Профориентация", "События"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Новости вуза",
+      "Профориентация",
+      "События"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -51,7 +78,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": null,
       "event": "2026-01-01 - 2026-12-31",
@@ -61,7 +90,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Telegram, доступ в интернет"],
+    "participationRequirements": [
+      "Telegram, доступ в интернет"
+    ],
     "selectionProcess": "Открытая подписка",
     "participantLimit": null,
     "website": "https://t.me/s/mgimo_university",
@@ -70,12 +101,19 @@
   {
     "id": "online_telegram_meo_faculty",
     "name": "Telegram 'Поступи на МО!' - для абитуриентов факультета",
-    "description": "Специальный Telegram-канал для абитуриентов Факультета международных отношений и МЭО. Информация о программах, ДВИ, сроках подачи документов, результатах отбора, ответы на вопросы от координаторов факультета.",
+    "description": "Поступи на МО! – Telegram\nПоступи на МО!\n@tolkoMOtolkoPobeda\n2. 04K\nsubscribers\n142\nphotos\n51\nlinks\nКанал для абитуриентов Факультета международных отношений МГИМО МИД России. ",
     "type": "Информационный канал",
     "format": "онлайн",
     "duration": "Актуальная информация в реальном времени",
-    "targetAudience": ["10 класс", "11 класс"],
-    "subjects": ["Информация о поступлении", "Экономика", "МЭО"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Информация о поступлении",
+      "Экономика",
+      "МЭО"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -85,7 +123,11 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["экономика", "бизнес", "менеджмент"],
+    "relevantDirections": [
+      "экономика",
+      "бизнес",
+      "менеджмент"
+    ],
     "dates": {
       "registration": null,
       "event": "2026-01-01 - 2026-12-31",
@@ -95,7 +137,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Telegram, интерес к факультету"],
+    "participationRequirements": [
+      "Telegram, интерес к факультету"
+    ],
     "selectionProcess": "Открытая подписка",
     "participantLimit": null,
     "website": "https://t.me/s/tolkoMOtolkoPobeda",
@@ -104,12 +148,21 @@
   {
     "id": "online_business_club_mgimo",
     "name": "Бизнес-клуб МГИМО (Telegram/VK)",
-    "description": "Неофициальное сообщество бизнес-клуба МГИМО в Telegram и VK. Разбор профильной экономической терминологии, публикация лекций с приглашенными спикерами от компаний, обсуждение успехов крупных корпораций и стартапов.",
+    "description": "Switch to English\nРегистрация\nТелефон или почта\nПароль\nВойти\nРегистрация\nПриложение на телефон\nПрименяются рекомендательные технологии\nВКонтакте\n© 2006-2026\nО ВКонтакте\nПомощь\nПравила\nДля бизнеса\nРазр",
     "type": "Онлайн-сообщество",
     "format": "онлайн",
     "duration": "Постоянно",
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
-    "subjects": ["Экономика", "Бизнес", "Финансы", "Менеджмент"],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Экономика",
+      "Бизнес",
+      "Финансы",
+      "Менеджмент"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -119,7 +172,12 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["бизнес", "экономика", "менеджмент", "финансы"],
+    "relevantDirections": [
+      "бизнес",
+      "экономика",
+      "менеджмент",
+      "финансы"
+    ],
     "dates": {
       "registration": null,
       "event": "2026-01-01 - 2026-12-31",
@@ -129,7 +187,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Telegram/VK, интерес к бизнесу"],
+    "participationRequirements": [
+      "Telegram/VK, интерес к бизнесу"
+    ],
     "selectionProcess": "Открытое присоединение",
     "participantLimit": null,
     "website": "https://vk.com/mgimo_business_school",
@@ -142,8 +202,14 @@
     "type": "Информационный портал",
     "format": "онлайн",
     "duration": "Постоянно доступен",
-    "targetAudience": ["10 класс", "11 класс"],
-    "subjects": ["Информация о поступлении", "Все направления"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Информация о поступлении",
+      "Все направления"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -153,7 +219,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": null,
       "event": "2026-01-01 - 2026-12-31",
@@ -163,7 +231,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Доступ в интернет"],
+    "participationRequirements": [
+      "Доступ в интернет"
+    ],
     "selectionProcess": "Открытый доступ",
     "participantLimit": null,
     "website": "https://abiturient.mgimo.ru",
@@ -176,8 +246,16 @@
     "type": "Образовательный портал",
     "format": "онлайн",
     "duration": "Постоянно доступен",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["Все предметы", "Профориентация"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Все предметы",
+      "Профориентация"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -187,7 +265,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31",
@@ -197,7 +277,9 @@
       "type": "платно/бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Доступ в интернет"],
+    "participationRequirements": [
+      "Доступ в интернет"
+    ],
     "selectionProcess": "Открытая регистрация на сайте",
     "participantLimit": null,
     "website": "https://junior.mgimo.ru",
@@ -210,8 +292,17 @@
     "type": "Платформа онлайн-обучения",
     "format": "онлайн",
     "duration": "6-8 недель за курс",
-    "targetAudience": ["9 класс", "10 класс", "11 класс"],
-    "subjects": ["Финансы", "Банковское дело", "Экономика", "Инвестиции"],
+    "targetAudience": [
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Финансы",
+      "Банковское дело",
+      "Экономика",
+      "Инвестиции"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -221,7 +312,11 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["финансы", "экономика", "бизнес"],
+    "relevantDirections": [
+      "финансы",
+      "экономика",
+      "бизнес"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31",
@@ -231,7 +326,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Регистрация на платформе"],
+    "participationRequirements": [
+      "Регистрация на платформе"
+    ],
     "selectionProcess": "Открытая регистрация",
     "participantLimit": null,
     "website": "https://online.mgimo.ru",
@@ -244,8 +341,14 @@
     "type": "Информационный клуб",
     "format": "смешанное_очно_онлайн",
     "duration": "Постоянно доступен",
-    "targetAudience": ["10 класс", "11 класс"],
-    "subjects": ["Информация о поступлении", "Все направления"],
+    "targetAudience": [
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Информация о поступлении",
+      "Все направления"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -255,7 +358,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31",
@@ -265,7 +370,9 @@
       "type": "бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Иностранные граждане, интерес к МГИМО"],
+    "participationRequirements": [
+      "Иностранные граждане, интерес к МГИМО"
+    ],
     "selectionProcess": "Открытая регистрация",
     "participantLimit": null,
     "website": "https://int.mgimo.ru",
@@ -278,8 +385,16 @@
     "type": "Образовательный портал",
     "format": "смешанное_очно_онлайн",
     "duration": "Постоянно доступен",
-    "targetAudience": ["8 класс", "9 класс", "10 класс", "11 класс"],
-    "subjects": ["Все предметы", "Подготовка к ОГЭ/ЕГЭ"],
+    "targetAudience": [
+      "8 класс",
+      "9 класс",
+      "10 класс",
+      "11 класс"
+    ],
+    "subjects": [
+      "Все предметы",
+      "Подготовка к ОГЭ/ЕГЭ"
+    ],
     "benefits": {
       "bvi": false,
       "points100": false,
@@ -289,7 +404,9 @@
       "priority": false,
       "earlyAdmission": false
     },
-    "relevantDirections": ["все направления"],
+    "relevantDirections": [
+      "все направления"
+    ],
     "dates": {
       "registration": "2026-01-01 - 2026-12-31",
       "event": "2026-01-01 - 2026-12-31",
@@ -299,7 +416,9 @@
       "type": "платно/бесплатно",
       "amount": 0
     },
-    "participationRequirements": ["Доступ в интернет"],
+    "participationRequirements": [
+      "Доступ в интернет"
+    ],
     "selectionProcess": "Открытая регистрация",
     "participantLimit": null,
     "website": "https://fdp.mgimo.ru",
