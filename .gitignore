@@ -1,0 +1,45 @@
+# Project-level ignore
+
+# Generated reports
+reports/
+*.csv
+*.json.bak
+*.log
+
+# Data files
+data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# MCP specific
+mcp/venv/
+mcp/__pycache__/
+mcp/.pytest_cache/
+
+
+# Резервные копии данных
+backups/

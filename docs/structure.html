@@ -145,8 +145,14 @@
             font-family: monospace;
             font-size: 13px;
             color: #333;
-            line-height: 1.8;
+            line-height: 1.2;
             margin-bottom: 20px;
+        }
+        .structure-diagram pre {
+            margin: 0;
+            font-family: monospace;
+            white-space: pre-wrap;
+            word-wrap: break-word;
         }
         .footer {
             background: #f5f5f5;
@@ -165,6 +171,13 @@
             font-size: 13px;
             color: #e65100;
             font-family: monospace;
+        }
+        .import-graph pre {
+            margin: 0;
+            font-family: monospace;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            color: #e65100;
         }
     </style>
 </head>
@@ -191,8 +204,7 @@
             <div class="tab-content active">
                 <h2>📋 Структура проекта</h2>
 
-                <div class="structure-diagram">
-js/
+                <div class="structure-diagram"><pre>js/
 ├── app.js                   (40 строк)      ⭐ Точка входа
 ├── state.js                 (42 строк)      📦 Управление состоянием
 ├── data-loader.js           (50 строк)      📥 Загрузка JSON
@@ -201,12 +213,11 @@ js/
 ├── resource-cards.js        (200+ строк)    🃏 Карточки ресурсов
 └── event-handlers.js        (45 строк)      ⚡ Обработчики
 
-ИТОГО: ~490 строк в 7 файлах
+ИТОГО: ~490 строк в 7 файлах</pre>
                 </div>
 
                 <h3>🔗 Граф импортов</h3>
-                <div class="import-graph">
-app.js
+                <div class="import-graph"><pre>app.js
   ├─ imports: data-loader.js
   ├─ imports: state.js
   ├─ imports: ui-renderer.js
@@ -226,7 +237,7 @@ resource-cards.js
   └─ (no imports - чистые функции)
 
 filters.js, data-loader.js, state.js
-  └─ (no imports - базовые модули)
+  └─ (no imports - базовые модули)</pre>
                 </div>
 
                 <div class="info-box">
