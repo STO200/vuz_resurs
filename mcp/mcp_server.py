@@ -32,7 +32,6 @@ except ImportError:
     sys.exit(1)
 
 from utils.web_scraper import WebScraper
-from utils.validator import ResourceValidator
 from utils.json_handler import JSONHandler
 from utils.report_generator import ReportGenerator
 
@@ -58,7 +57,6 @@ app = FastMCP("resource-validator")
 
 # Инициализируем компоненты с правильными путями
 scraper = WebScraper()
-validator = ResourceValidator()
 json_handler = JSONHandler(str(DATA_DIR))
 report_gen = ReportGenerator(str(REPORTS_DIR))
 
@@ -126,36 +124,6 @@ def fetch_webpage(url: str, max_chars: int = 3000) -> dict:
     except Exception as e:
         logger.error(f"Ошибка загрузки {url}: {e}")
         return {"status": "error", "message": f"❌ Ошибка загрузки {url}: {e}"}
-
-
-@app.tool()
-def validate_resource(resource_id: str, current_description: str, webpage_content: str) -> dict:
-    """
-    Валидирует описание ресурса по контенту сайта
-
-    Args:
-        resource_id: ID ресурса (для логирования)
-        current_description: Текущее описание из JSON
-        webpage_content: Содержимое веб-страницы
-
-    Returns:
-        Результат валидации с предложением нового описания
-
-    Example:
-        validate_resource(
-            "general_open_day_hse",
-            "Масштабное мероприятие...",
-            "Содержимое страницы dod.hse.ru..."
-        )
-    """
-    try:
-        logger.info(f"Валидация ресурса: {resource_id}")
-        result = validator.validate(resource_id, current_description, webpage_content)
-        logger.info(f"✅ Валидация завершена: {result['status']}")
-        return result
-    except Exception as e:
-        logger.error(f"Ошибка валидации {resource_id}: {e}")
-        return {"status": "error", "message": f"❌ Ошибка валидации: {e}"}
 
 
 @app.tool()
@@ -355,6 +323,49 @@ def get_resource_by_id(filepath: str, resource_id: str) -> dict:
         return {"status": "error", "message": f"❌ Ошибка: {e}"}
 
 
+@app.tool()
+def extract_key_info(text: str) -> dict:
+    """
+    Извлекает ключевую информацию из текста для валидации
+
+    Args:
+        text: Текст для анализа (описание ресурса или контент страницы)
+
+    Returns:
+        dict: {
+            "dates": ["22.01.2026", "15.02.2026"],
+            "entities": ["ВШЭ", "МИФ"],
+            "key_phrases": ["день открытых дверей"]
+        }
+
+    Example:
+        extract_key_info("Вебинар 22.01.2026 от ВШЭ о МИФ")
+    """
+    import re
+    from utils.validator import STOP_WORDS
+
+    try:
+        # Даты в формате DD.MM.YYYY
+        dates = re.findall(r'\d{2}\.\d{2}\.\d{4}', text)
+
+        # Ключевые фразы (заглавные слова)
+        entities = re.findall(r'\b[А-ЯЁA-Z][а-яёa-z]{2,}\b', text)
+
+        # Длинные слова (потенциально важные)
+        words = re.findall(r'\b[а-яёА-ЯЁa-zA-Z]{4,}\b', text.lower())
+        key_phrases = [w for w in words if w not in STOP_WORDS][:10]
+
+        return {
+            "status": "success",
+            "dates": list(set(dates)),
+            "entities": list(set(entities))[:10],
+            "key_phrases": list(set(key_phrases))
+        }
+    except Exception as e:
+        logger.error(f"Ошибка извлечения информации: {e}")
+        return {"status": "error", "message": f"❌ Ошибка: {e}"}
+
+
 # ==================== ЗАПУСК ====================
 
 if __name__ == "__main__":
@@ -362,11 +373,11 @@ if __name__ == "__main__":
     logger.info("Инструменты доступны в Claude Code:")
     logger.info("  - read_json_file")
     logger.info("  - fetch_webpage")
-    logger.info("  - validate_resource")
     logger.info("  - batch_get_resources")
     logger.info("  - update_json_file")
     logger.info("  - save_validation_report")
     logger.info("  - list_resources")
     logger.info("  - get_resource_by_id")
+    logger.info("  - extract_key_info")
 
     app.run()

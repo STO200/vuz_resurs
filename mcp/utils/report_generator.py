@@ -47,9 +47,11 @@ class ReportGenerator:
             "resource_id",
             "validation_status",
             "confidence",
-            "keywords_score",
-            "similarity_score",
-            "length_score",
+            "was_auto_corrected",
+            "name_match",
+            "description_match",
+            "url_relevance",
+            "key_discrepancies",
             "current_description",
             "suggested_description",
             "reasoning",
@@ -62,13 +64,18 @@ class ReportGenerator:
                 writer.writeheader()
 
                 for record in records:
+                    semantic = record.get("semantic_analysis", {})
+                    key_discrepancies = "; ".join(semantic.get("key_discrepancies", []))
+
                     row = {
                         "resource_id": record.get("resource_id", ""),
                         "validation_status": record.get("validation_status", ""),
                         "confidence": record.get("confidence", ""),
-                        "keywords_score": record.get("scores", {}).get("keywords", ""),
-                        "similarity_score": record.get("scores", {}).get("similarity", ""),
-                        "length_score": record.get("scores", {}).get("length", ""),
+                        "was_auto_corrected": record.get("was_auto_corrected", False),
+                        "name_match": semantic.get("name_match", ""),
+                        "description_match": semantic.get("description_match", ""),
+                        "url_relevance": semantic.get("url_relevance", ""),
+                        "key_discrepancies": key_discrepancies,
                         "current_description": record.get("current_description", "").replace("\n", " ")[:200],
                         "suggested_description": record.get("suggested_description", "").replace("\n", " ")[:200],
                         "reasoning": record.get("reasoning", "").replace("\n", " ")[:200],
