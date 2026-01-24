@@ -346,20 +346,20 @@ def extract_key_info(text: str) -> dict:
 
     try:
         # Даты в формате DD.MM.YYYY
-        dates = re.findall(r'\d{2}\.\d{2}\.\d{4}', text)
+        dates = re.findall(r"\d{2}\.\d{2}\.\d{4}", text)
 
         # Ключевые фразы (заглавные слова)
-        entities = re.findall(r'\b[А-ЯЁA-Z][а-яёa-z]{2,}\b', text)
+        entities = re.findall(r"\b[А-ЯЁA-Z][а-яёa-z]{2,}\b", text)
 
         # Длинные слова (потенциально важные)
-        words = re.findall(r'\b[а-яёА-ЯЁa-zA-Z]{4,}\b', text.lower())
+        words = re.findall(r"\b[а-яёА-ЯЁa-zA-Z]{4,}\b", text.lower())
         key_phrases = [w for w in words if w not in STOP_WORDS][:10]
 
         return {
             "status": "success",
             "dates": list(set(dates)),
             "entities": list(set(entities))[:10],
-            "key_phrases": list(set(key_phrases))
+            "key_phrases": list(set(key_phrases)),
         }
     except Exception as e:
         logger.error(f"Ошибка извлечения информации: {e}")
