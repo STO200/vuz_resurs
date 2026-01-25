@@ -59,3 +59,44 @@ export async function loadUniversityData(universityId) {
         return null;
     }
 }
+
+export async function loadResourcesByType(resourceType, universities) {
+    try {
+        const fileMapping = {
+            'olympiad': 'olympiads.json',
+            'course': 'courses.json',
+            'school': 'schools.json',
+            'summerProgram': 'summerPrograms.json',
+            'practicalEvent': 'practicalEvents.json',
+            'infoEvent': 'infoEvents.json',
+            'educationalEvent': 'educationalEvents.json',
+            'onlineResource': 'onlineResources.json'
+        };
+
+        const fileName = fileMapping[resourceType];
+        if (!fileName) {
+            throw new Error(`Unknown resource type: ${resourceType}`);
+        }
+
+        const allResources = [];
+
+        const responses = await Promise.all(
+            universities.map(uni =>
+                fetch(`${DATA_PATH}/universities/${uni.id}/${fileName}`)
+                    .then(r => r.ok ? r.json() : [])
+                    .catch(() => [])
+            )
+        );
+
+        responses.forEach(resources => {
+            if (Array.isArray(resources)) {
+                allResources.push(...resources);
+            }
+        });
+
+        return allResources;
+    } catch (error) {
+        console.error('Error loading resources by type:', error);
+        return [];
+    }
+}

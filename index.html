@@ -161,10 +161,25 @@
         <!-- Подвал -->
         <footer class="footer">
             <div class="container">
-                <p>&copy; 2026 ВУЗресурс. Разработано Стефаном Огульником</p>
-                <p class="version">v1.2</p>
+                <p>&copy; 2026 ВУЗресурс. Разработано Стефаном Огульником</p> 
+                <p class="version">v1.3</p>
             </div>
         </footer>
+    </div>
+
+    <!-- Модальное окно для типов ресурсов -->
+    <div id="resourceModal" class="modal">
+        <div class="modal-overlay"></div>
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalTitle"></h2>
+                <button class="modal-close" aria-label="Закрыть">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p id="modalDescription" class="modal-description"></p>
+                <div id="modalResourcesList" class="modal-resources-list"></div>
+            </div>
+        </div>
     </div>
 
     <script type="module" src="js/app.js"></script>
