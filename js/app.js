@@ -3,7 +3,7 @@
 import { loadUniversities, loadUniversityData } from './data-loader.js';
 import { initializeUI, showResults, showMainPage } from './ui-renderer.js';
 import { setupEventListeners } from './event-handlers.js';
-import { openResourceModal, setupModalEventListeners, openUniversityInfoModal } from './modal.js';
+import { openResourceModal, setupModalEventListeners, openUniversityInfoModal, openFeedbackModal } from './modal.js';
 import { appState } from './state.js';
 
 // Инициализация приложения
@@ -82,6 +82,14 @@ document.addEventListener('DOMContentLoaded', async () => {
         document.getElementById('backBtn').addEventListener('click', () => {
             showMainPage();
         });
+
+        // Обработчик кнопки обратной связи
+        const feedbackBtn = document.getElementById('feedbackBtn');
+        if (feedbackBtn) {
+            feedbackBtn.addEventListener('click', () => {
+                openFeedbackModal();
+            });
+        }
 
         // Инициализируем остальные обработчики
         setupEventListeners();

@@ -1,11 +1,29 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
     <meta charset="UTF-8">
+    <meta name="yandex-verification" content="123856e4feb5fc10" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ВУЗресурс - Навигация при поступлении в ВУЗ</title>
     <link rel="stylesheet" href="styles.css">
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function (m, e, t, r, i, k, a) {
+            m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments) };
+            m[i].l = 1 * new Date();
+            for (var j = 0; j < document.scripts.length; j++) { if (document.scripts[j].src === r) { return; } }
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })(window, document, 'script', 'https://mc.yandex.ru/metrika/tag.js?id=106439854', 'ym');
+
+        ym(106439854, 'init', { ssr: true, webvisor: true, clickmap: true, ecommerce: "dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce: true, trackLinks: true });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/106439854" style="position:absolute; left:-9999px;" alt="" /></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
 </head>
+
 <body>
     <div class="app">
         <!-- Шапка -->
@@ -100,7 +118,8 @@
                                 <button class="filter-btn" data-filter="summerProgram">☀️ Летние программы</button>
                                 <button class="filter-btn" data-filter="practicalEvent">💡 Практические события</button>
                                 <button class="filter-btn" data-filter="infoEvent">ℹ️ Информационные события</button>
-                                <button class="filter-btn" data-filter="educationalEvent">👨‍🏫 Образовательные события</button>
+                                <button class="filter-btn" data-filter="educationalEvent">👨‍🏫 Образовательные
+                                    события</button>
                                 <button class="filter-btn" data-filter="onlineResource">🌐 Онлайн-ресурсы</button>
                             </div>
                         </div>
@@ -130,13 +149,15 @@
                                     <input type="checkbox" class="benefit-filter" value="grants"> Гранты/Стипендии
                                 </label>
                                 <label class="checkbox">
-                                    <input type="checkbox" class="benefit-filter" value="tuitionDiscount"> Скидка на обучение
+                                    <input type="checkbox" class="benefit-filter" value="tuitionDiscount"> Скидка на
+                                    обучение
                                 </label>
                                 <label class="checkbox">
                                     <input type="checkbox" class="benefit-filter" value="priority"> Приоритет
                                 </label>
                                 <label class="checkbox">
-                                    <input type="checkbox" class="benefit-filter" value="earlyAdmission"> Досрочное зачисление
+                                    <input type="checkbox" class="benefit-filter" value="earlyAdmission"> Досрочное
+                                    зачисление
                                 </label>
                             </div>
                         </div>
@@ -164,8 +185,13 @@
         <!-- Подвал -->
         <footer class="footer">
             <div class="container">
-                <p>&copy; 2026 ВУЗресурс. Разработано Стефаном Огульником</p> 
-                <p class="version">v1.4</p>
+                <div class="footer-content">
+                    <div class="footer-info">
+                        <p>&copy; 2026 ВУЗресурс. Разработано СФО</p>
+                        <p class="version">v1.5</p>
+                    </div>
+                    <button id="feedbackBtn" class="btn btn-feedback">💬 Обратная связь</button>
+                </div>
             </div>
         </footer>
     </div>
@@ -185,6 +211,53 @@
         </div>
     </div>
 
+    <!-- Модальное окно обратной связи -->
+    <div id="feedbackModal" class="modal">
+        <div class="modal-overlay"></div>
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>💬 Обратная связь</h2>
+                <button class="modal-close" aria-label="Закрыть">&times;</button>
+            </div>
+            <div class="modal-body">
+                <form id="feedbackForm" class="feedback-form">
+                    <div class="form-group">
+                        <label class="form-label">Оцените наш сервис:</label>
+                        <div class="star-rating">
+                            <input type="radio" name="rating" value="5" id="star5">
+                            <label for="star5" class="star">★</label>
+                            <input type="radio" name="rating" value="4" id="star4">
+                            <label for="star4" class="star">★</label>
+                            <input type="radio" name="rating" value="3" id="star3">
+                            <label for="star3" class="star">★</label>
+                            <input type="radio" name="rating" value="2" id="star2">
+                            <label for="star2" class="star">★</label>
+                            <input type="radio" name="rating" value="1" id="star1">
+                            <label for="star1" class="star">★</label>
+                        </div>
+                        <p class="rating-text"></p>
+                    </div>
+                    <div class="form-group">
+                        <label for="feedbackComment" class="form-label">Комментарий:</label>
+                        <textarea id="feedbackComment" name="comment" rows="5"
+                            placeholder="Расскажите, что вам понравилось или что можно улучшить..."
+                            class="form-textarea"></textarea>
+                    </div>
+                    <div class="form-actions">
+                        <button type="submit" class="btn btn-primary">Отправить</button>
+                        <button type="button" id="cancelFeedback" class="btn btn-outline">Отмена</button>
+                    </div>
+                </form>
+                <div id="feedbackSuccess" class="feedback-success" style="display: none;">
+                    <div class="success-icon">✓</div>
+                    <h3>Спасибо за ваш отзыв!</h3>
+                    <p>Ваше мнение очень важно для нас.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script type="module" src="js/app.js"></script>
 </body>
+
 </html>

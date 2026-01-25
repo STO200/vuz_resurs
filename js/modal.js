@@ -2,6 +2,7 @@
 
 import { loadResourcesByType } from './data-loader.js';
 import { createResourceCard, getTypeLabel } from './resource-cards.js';
+import { FEEDBACK_CONFIG } from './config.js';
 
 const resourceTypeDescriptions = {
     'olympiad': 'Олимпиады - это соревнования, которые дают БВИ (поступление без экзаменов) или 100 баллов за ЕГЭ. Ниже представлены все олимпиады из нашей базы данных.',
@@ -240,6 +241,30 @@ function toggleResourceItem(item) {
     item.classList.toggle('active');
 }
 
+export function openFeedbackModal() {
+    const modal = document.getElementById('feedbackModal');
+    const form = document.getElementById('feedbackForm');
+    const successMessage = document.getElementById('feedbackSuccess');
+
+    // Сбрасываем форму и показываем её
+    form.reset();
+    form.style.display = 'flex';
+    successMessage.style.display = 'none';
+
+    // Сбрасываем текст рейтинга
+    const ratingText = modal.querySelector('.rating-text');
+    if (ratingText) ratingText.textContent = '';
+
+    modal.classList.add('active');
+    document.body.style.overflow = 'hidden';
+}
+
+export function closeFeedbackModal() {
+    const modal = document.getElementById('feedbackModal');
+    modal.classList.remove('active');
+    document.body.style.overflow = 'auto';
+}
+
 export function setupModalEventListeners() {
     const modal = document.getElementById('resourceModal');
     const modalClose = document.querySelector('.modal-close');
@@ -259,10 +284,130 @@ export function setupModalEventListeners() {
         });
     }
 
+    // Обработчики для модалки обратной связи
+    const feedbackModal = document.getElementById('feedbackModal');
+    const feedbackForm = document.getElementById('feedbackForm');
+    const cancelFeedbackBtn = document.getElementById('cancelFeedback');
+
+    if (feedbackModal) {
+        const closeBtn = feedbackModal.querySelector('.modal-close');
+        const overlay = feedbackModal.querySelector('.modal-overlay');
+
+        if (closeBtn) {
+            closeBtn.addEventListener('click', closeFeedbackModal);
+        }
+
+        if (overlay) {
+            overlay.addEventListener('click', closeFeedbackModal);
+        }
+    }
+
+    if (cancelFeedbackBtn) {
+        cancelFeedbackBtn.addEventListener('click', closeFeedbackModal);
+    }
+
+    if (feedbackForm) {
+        // Обработчик изменения рейтинга
+        const ratingInputs = feedbackForm.querySelectorAll('input[name="rating"]');
+        const ratingText = feedbackModal.querySelector('.rating-text');
+
+        ratingInputs.forEach(input => {
+            input.addEventListener('change', (e) => {
+                const value = parseInt(e.target.value);
+                const texts = {
+                    5: 'Отлично! 😊',
+                    4: 'Хорошо! 👍',
+                    3: 'Нормально 😐',
+                    2: 'Плохо 😕',
+                    1: 'Очень плохо 😞'
+                };
+                if (ratingText) {
+                    ratingText.textContent = texts[value] || '';
+                }
+            });
+        });
+
+        // Обработчик отправки формы
+        feedbackForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const rating = feedbackForm.querySelector('input[name="rating"]:checked')?.value;
+            const comment = feedbackForm.querySelector('#feedbackComment').value;
+
+            // Проверка: выбран ли рейтинг
+            if (!rating) {
+                alert('Пожалуйста, выберите оценку (звёздочки)');
+                return;
+            }
+
+            // Показываем индикатор загрузки
+            const submitBtn = feedbackForm.querySelector('button[type="submit"]');
+            const originalText = submitBtn.textContent;
+            submitBtn.textContent = 'Отправка...';
+            submitBtn.disabled = true;
+
+            try {
+                // Отправка в Google Sheets
+                const controller = new AbortController();
+                const timeoutId = setTimeout(() => controller.abort(), FEEDBACK_CONFIG.TIMEOUT);
+
+                await fetch(FEEDBACK_CONFIG.GOOGLE_SHEET_URL, {
+                    method: 'POST',
+                    mode: 'no-cors', // Обязательно для Google Apps Script
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        rating: rating,
+                        comment: comment,
+                        timestamp: new Date().toISOString()
+                    }),
+                    signal: controller.signal
+                });
+
+                clearTimeout(timeoutId);
+
+                // Логируем в консоль для отладки
+                console.log('Feedback sent:', { rating, comment });
+
+                // Показываем сообщение об успехе
+                feedbackForm.style.display = 'none';
+                const successMessage = document.getElementById('feedbackSuccess');
+                if (successMessage) {
+                    successMessage.style.display = 'block';
+                }
+
+                // Закрываем модалку через 2 секунды
+                setTimeout(() => {
+                    closeFeedbackModal();
+                }, 2000);
+
+            } catch (error) {
+                console.error('Error sending feedback:', error);
+
+                // Восстанавливаем кнопку
+                submitBtn.textContent = originalText;
+                submitBtn.disabled = false;
+
+                // Показываем ошибку пользователю
+                if (error.name === 'AbortError') {
+                    alert('Превышено время ожидания. Проверьте интернет-соединение и попробуйте снова.');
+                } else {
+                    alert('Не удалось отправить отзыв. Попробуйте позже.');
+                }
+            }
+        });
+    }
+
     // Закрытие по нажатию ESC
     document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape' && modal.classList.contains('active')) {
-            closeModal();
+        if (e.key === 'Escape') {
+            if (modal.classList.contains('active')) {
+                closeModal();
+            }
+            if (feedbackModal && feedbackModal.classList.contains('active')) {
+                closeFeedbackModal();
+            }
         }
     });
 }
