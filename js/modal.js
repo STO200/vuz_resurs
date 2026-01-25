@@ -66,6 +66,130 @@ export function closeModal() {
     document.body.style.overflow = 'auto';
 }
 
+export function openUniversityInfoModal(university) {
+    const modal = document.getElementById('resourceModal');
+    const modalTitle = document.getElementById('modalTitle');
+    const modalDescription = document.getElementById('modalDescription');
+    const modalResourcesList = document.getElementById('modalResourcesList');
+
+    // Устанавливаем заголовок
+    modalTitle.textContent = `🎓 ${university.name}`;
+
+    // Формируем содержимое модалки
+    let content = `
+        <div class="university-info">
+            ${university.description ? `
+                <div class="info-section">
+                    <h3 class="section-title">📖 Описание</h3>
+                    <p>${university.description}</p>
+                </div>
+            ` : ''}
+
+            ${university.mainDirections && university.mainDirections.length > 0 ? `
+                <div class="info-section">
+                    <h3 class="section-title">📚 Основные направления подготовки</h3>
+                    <ul class="directions-list">
+                        ${university.mainDirections.map(dir => `<li>${dir}</li>`).join('')}
+                    </ul>
+                </div>
+            ` : ''}
+
+            ${university.website ? `
+                <div class="info-section">
+                    <h3 class="section-title">🌐 Официальный сайт</h3>
+                    <a href="${university.website}" target="_blank" class="contact-link">${university.website}</a>
+                </div>
+            ` : ''}
+
+            ${university.contacts && university.contacts.admissions ? `
+                <div class="info-section">
+                    <h3 class="section-title">📞 Контакты приёмной комиссии</h3>
+                    <div class="contacts-list">
+                        ${university.contacts.admissions.website ? `
+                            <div class="contact-item">
+                                <span class="contact-icon">🌐</span>
+                                <a href="${university.contacts.admissions.website}" target="_blank" class="contact-link">
+                                    ${university.contacts.admissions.website}
+                                </a>
+                            </div>
+                        ` : ''}
+                        ${university.contacts.admissions.email ? `
+                            <div class="contact-item">
+                                <span class="contact-icon">✉️</span>
+                                <a href="mailto:${university.contacts.admissions.email}" class="contact-link">
+                                    ${university.contacts.admissions.email}
+                                </a>
+                            </div>
+                        ` : ''}
+                        ${university.contacts.admissions.phone ? `
+                            <div class="contact-item">
+                                <span class="contact-icon">☎️</span>
+                                <span class="contact-text">${university.contacts.admissions.phone}</span>
+                            </div>
+                        ` : ''}
+                        ${university.contacts.admissions.hotline ? `
+                            <div class="contact-item">
+                                <span class="contact-icon">☎️</span>
+                                <span class="contact-text">Горячая линия: ${university.contacts.admissions.hotline}</span>
+                            </div>
+                        ` : ''}
+                        ${university.contacts.admissions.mobile ? `
+                            <div class="contact-item">
+                                <span class="contact-icon">📱</span>
+                                <span class="contact-text">${university.contacts.admissions.mobile}</span>
+                            </div>
+                        ` : ''}
+                    </div>
+                </div>
+            ` : ''}
+
+            ${university.contacts && university.contacts.school ? `
+                <div class="info-section">
+                    <h3 class="section-title">🎓 Для школьников</h3>
+                    <div class="contacts-list">
+                        ${university.contacts.school.website ? `
+                            <div class="contact-item">
+                                <span class="contact-icon">🌐</span>
+                                <a href="${university.contacts.school.website}" target="_blank" class="contact-link">
+                                    ${university.contacts.school.website}
+                                </a>
+                            </div>
+                        ` : ''}
+                        ${university.contacts.school.email ? `
+                            <div class="contact-item">
+                                <span class="contact-icon">✉️</span>
+                                <a href="mailto:${university.contacts.school.email}" class="contact-link">
+                                    ${university.contacts.school.email}
+                                </a>
+                            </div>
+                        ` : ''}
+                    </div>
+                </div>
+            ` : ''}
+        </div>
+
+        <div class="modal-university-actions">
+            <button id="goToSearchBtn" class="btn btn-primary">Подобрать ресурсы</button>
+        </div>
+    `;
+
+    modalDescription.innerHTML = '';
+    modalResourcesList.innerHTML = content;
+
+    modal.classList.add('active');
+    document.body.style.overflow = 'hidden';
+
+    // Добавляем обработчик для кнопки "Подобрать ресурсы" в модалке
+    const goToSearchBtn = document.getElementById('goToSearchBtn');
+    if (goToSearchBtn) {
+        goToSearchBtn.addEventListener('click', () => {
+            closeModal();
+            // Запускаем поиск ресурсов
+            document.getElementById('searchBtn').click();
+        });
+    }
+}
+
 function renderResourceList(resources, container) {
     // Сортируем ресурсы по названию
     const sorted = [...resources].sort((a, b) => {

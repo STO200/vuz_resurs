@@ -3,7 +3,8 @@
 import { loadUniversities, loadUniversityData } from './data-loader.js';
 import { initializeUI, showResults, showMainPage } from './ui-renderer.js';
 import { setupEventListeners } from './event-handlers.js';
-import { openResourceModal, setupModalEventListeners } from './modal.js';
+import { openResourceModal, setupModalEventListeners, openUniversityInfoModal } from './modal.js';
+import { appState } from './state.js';
 
 // Инициализация приложения
 document.addEventListener('DOMContentLoaded', async () => {
@@ -40,6 +41,30 @@ document.addEventListener('DOMContentLoaded', async () => {
                     console.error('Resource type not found or no universities loaded');
                 }
             });
+        });
+
+        // Обработчик выбора ВУЗа
+        const universitySelect = document.getElementById('universitySelect');
+        const infoBtn = document.getElementById('infoBtn');
+
+        universitySelect.addEventListener('change', (e) => {
+            // Активируем/деактивируем кнопку "О вузе"
+            if (e.target.value) {
+                infoBtn.disabled = false;
+            } else {
+                infoBtn.disabled = true;
+            }
+        });
+
+        // Обработчик кнопки "О вузе"
+        infoBtn.addEventListener('click', () => {
+            const selectedId = universitySelect.value;
+            if (selectedId && universities) {
+                const university = universities.find(u => u.id === selectedId);
+                if (university) {
+                    openUniversityInfoModal(university);
+                }
+            }
         });
 
         // При выборе ВУЗа загружаем его данные

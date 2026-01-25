@@ -177,9 +177,23 @@ body {
     border: 2px solid var(--primary);
 }
 
-.btn-secondary:hover {
+.btn-secondary:hover:not(:disabled) {
     background: var(--primary);
     color: white;
+}
+
+.btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.selector-buttons {
+    display: flex;
+    gap: 0.75rem;
+}
+
+.selector-buttons .btn {
+    flex: 1;
 }
 
 .btn-outline {
@@ -700,6 +714,89 @@ body {
     .meta-value {
         text-align: left;
     }
+}
+
+/* Информация о вузе */
+.university-info {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.info-section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.section-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--primary);
+    margin: 0;
+}
+
+.directions-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+.directions-list li {
+    background: var(--bg);
+    color: var(--text);
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    font-size: 0.95rem;
+}
+
+.contacts-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.5rem;
+}
+
+.contact-icon {
+    font-size: 1.1rem;
+    min-width: 20px;
+    flex-shrink: 0;
+}
+
+.contact-link {
+    color: var(--primary);
+    text-decoration: none;
+    word-break: break-word;
+    transition: color 0.2s;
+}
+
+.contact-link:hover {
+    color: var(--primary-dark);
+    text-decoration: underline;
+}
+
+.contact-text {
+    color: var(--text);
+}
+
+.modal-university-actions {
+    padding: 1.5rem;
+    border-top: 1px solid var(--border);
+    background: var(--bg);
+    display: flex;
+    gap: 0.75rem;
+}
+
+.modal-university-actions .btn {
+    flex: 1;
 }
 
 /* Модальное окно */
